@@ -11,12 +11,12 @@ thus no other species are considered in this document.
 In a separate document, normalization of mentions will be specified. For
 instance, mentions like *BRAF mutation* and *BRAF mutations* should be
 normalized to the same entity (e.g. *BRAF mutation*) so the user
-interface in WDD can show a single entry for the same entity.
+interface can show a single entry for the same entity.
 
 Furthermore, this document specifies how to annotation of mutation and
 related entities should be performed. The information provided by
 automatic information extraction methods that are able to automatically
-annotate the scientific literature needs to be integrated into WDD and
+annotate the scientific literature needs to be integrated and
 several strategies might be possible but still require further
 discussion.
 
@@ -26,9 +26,8 @@ Entities
 All mentions of entities of interest need to be annotated, even when
 they are not related to a mutation. For instance, all mentions of
 mutations in the abstract need to be identified by the annotators, this
-includes related entities as genes (WDD already annotates gene/protein
-entities and the annotated entities by WDD will be compared to the
-generated ground truth). In addition to mutations, DNA modifications
+includes related entities as genes.
+In addition to mutations, DNA modifications
 that are not mutations will be annotated as well due to their relevance
 to drug discovery.
 
@@ -255,9 +254,7 @@ over/under expression of a gene product.
 Mentions of these changes in text should be annotated as DNA modifications.
 Examples include epigenetic
 alterations. Identifying DNA modifications supports the understanding of
-factors that affect gene expression. This information is currently not
-considered in the WDD system and conversations are required to make this
-information available to WDD users.
+factors that affect gene expression.
 
 ![](./media/image21.png) 
 
@@ -295,8 +292,8 @@ the same sentence.
 
 Annotate relations between a `locus` that is a component of a gene. This
 is important since the mutations might be specified with respect to a
-given locus, while WDD needs to know which gene is affected by the
-mutation. An example is available below.
+given locus.
+An example is available below.
 
 ![](./media/image24.png) 
 

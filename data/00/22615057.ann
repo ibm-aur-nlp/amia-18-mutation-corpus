@@ -1,0 +1,3 @@
+T1	Gene_protein 955 959	KRAS
+T2	DNA_Mutation 960 968	mutation
+R1	Has_Mutation Arg1:T1 Arg2:T2

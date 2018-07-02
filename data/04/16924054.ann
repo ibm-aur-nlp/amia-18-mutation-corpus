@@ -1,0 +1,10 @@
+T4	Gene_protein 1209 1214	MSH-6
+T5	Gene_protein 1220 1225	MLH-1
+T7	Gene_protein 436 441	MLH-1
+T8	Gene_protein 446 451	MSH-2
+T1	Gene_protein 1047 1052	MSH-2
+T2	Gene_protein 1057 1062	MSH-6
+T3	Gene_protein 1202 1207	MSH-2
+T6	DNA_Mutation 389 398	mutations
+R1	Has_Mutation Arg1:T7 Arg2:T6	
+R2	Has_Mutation Arg1:T8 Arg2:T6	

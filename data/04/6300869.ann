@@ -1,0 +1,9 @@
+T4	DNA_Mutation 809 822	translocation
+T5	Gene_protein 1030 1035	c-myc
+T6	Gene_protein 114 119	c-myc
+T10	locus 863 875	chromosome 8
+T7	Gene_protein 457 462	c-myc
+T1	Gene_protein 619 624	c-myc
+T2	locus 877 881	8q24
+T3	Gene_protein 779 784	c-myc
+R1	Has_Mutation Arg1:T3 Arg2:T4

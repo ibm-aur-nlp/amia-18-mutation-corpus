@@ -1,0 +1,23 @@
+T4	Gene_protein 635 638	MYH
+T5	DNA_Mutation 822 841	biallelic mutations
+T6	Gene_protein 1046 1049	MYH
+T7	Gene_protein 1249 1252	MYH
+T8	DNA_Mutation 1050 1058	mutation
+T9	DNA_Mutation 1386 1394	mutation
+T10	Gene_protein 1382 1385	MYH
+T21	DNA_Mutation 276 285	mutations
+T20	DNA_Mutation 48 83	monoallelic and biallelic mutations
+T12	Gene_protein 508 511	APC
+T11	Gene_protein 91 94	MYH
+T14	DNA_Mutation 852 860	mutation
+T18	DNA_Mutation 656 665	mutations
+T17	DNA_Mutation 588 597	mutations
+T1	Gene_protein 293 296	MYH
+T2	Gene_protein 384 387	MYH
+T3	DNA_Mutation 376 383	mutated
+R2	Has_Mutation Arg1:T2 Arg2:T3
+R3	Has_Mutation Arg1:T6 Arg2:T8
+R4	Has_Mutation Arg1:T10 Arg2:T9
+R6	Has_Mutation Arg1:T1 Arg2:T21
+R7	Has_Mutation Arg1:T4 Arg2:T17
+R8	Has_Mutation Arg1:T11 Arg2:T20

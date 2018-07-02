@@ -1,0 +1,9 @@
+T4	DNA_Mutation 830 839	mutations
+T5	Gene_protein 945 979	vascular endothelial growth factor
+T6	Gene_protein 775 807	epidermal growth factor receptor
+T8	Gene_protein 820 824	KRAS
+T1	Gene_protein 1414 1418	EGFR
+T2	Gene_protein 1507 1511	EGFR
+T3	Gene_protein 809 813	EGFR
+R2	Has_Mutation Arg1:T8 Arg2:T4
+R1	Has_Mutation Arg1:T3 Arg2:T4

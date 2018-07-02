@@ -1,0 +1,30 @@
+T21	locus 367 373	6.6 kb
+T20	locus 285 293	promoter
+T23	locus 1004 1010	NF-IL6
+T22	locus 380 388	promoter
+T29	locus 996 999	CRE
+T1	Gene_protein 279 284	COX-2
+T2	Gene_protein 374 379	COX-2
+T3	DNA_Mutation 351 359	deletion
+T4	DNA_Mutation 678 687	mutations
+T5	Gene_protein 877 882	COX-2
+T6	Gene_protein 758 763	COX-2
+T7	Gene_protein 1111 1116	COX-2
+T8	Gene_protein 1274 1283	NF-kappaB
+T9	Gene_protein 1178 1187	NF-kappaB
+T10	Gene_protein 34 39	COX-2
+T12	Gene_protein 166 171	COX-2
+T11	Gene_protein 148 164	cyclooxygenase-2
+T14	locus 653 659	NF-IL6
+T13	locus 648 651	CRE
+T15	locus 664 673	NF-kappaB
+T17	Gene_protein 915 925	luciferase
+T19	locus 256 271	proximal 6.6 kb
+R3	Has_Mutation Arg1:T15 Arg2:T4
+R4	Has_Mutation Arg1:T2 Arg2:T3
+R5	Has_Mutation Arg1:T22 Arg2:T3
+R9	Has_Mutation Arg1:T21 Arg2:T3
+R10	Component_of Arg1:T20 Arg2:T1	
+R1	Has_Mutation Arg1:T14 Arg2:T4	
+R2	Has_Mutation Arg1:T13 Arg2:T4	
+#1	AnnotatorNotes T13	In this context we are talking about the DNA binding site for these proteins, thus an locus.

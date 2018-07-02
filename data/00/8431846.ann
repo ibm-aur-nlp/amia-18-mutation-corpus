@@ -1,0 +1,28 @@
+T4	locus 1347 1362	chromosome 3p25
+T5	Gene_protein 1308 1315	c-raf-1
+T6	DNA_Mutation 1368 1375	deleted
+T7	locus 1396 1408	chromosome 3
+T8	locus 1625 1638	chromosome 3p
+T9	DNA_Mutation 418 426	deletion
+T12	DNA_Mutation 531 535	loss
+T11	locus 562 574	chromosome 3
+T14	DNA_Mutation 1385 1395	rearranged
+T13	Gene_protein 1277 1282	c-raf
+T15	DNA_Mutation 1617 1621	loss
+T1	locus 446 459	chromosomes 5
+T2	locus 461 463	17
+T3	locus 469 471	18
+R2	Has_Mutation Arg1:T8 Arg2:T15
+R3	Has_Mutation Arg1:T1 Arg2:T9
+R4	Has_Mutation Arg1:T2 Arg2:T9
+R5	Has_Mutation Arg1:T3 Arg2:T9
+R6	Has_Mutation Arg1:T11 Arg2:T12
+R7	Has_Mutation Arg1:T5 Arg2:T6
+R8	Has_Mutation Arg1:T4 Arg2:T6
+R9	Has_Mutation Arg1:T7 Arg2:T14
+R12	Component_of Arg1:T4 Arg2:T5
+R13	Component_of Arg1:T7 Arg2:T5
+T10	DNA_Mutation 129 138	inversion
+T16	locus 1197 1207	p12.2q25.3
+T17	DNA_Mutation 1190 1196	inv(3)
+R1	Has_Mutation Arg1:T16 Arg2:T17	

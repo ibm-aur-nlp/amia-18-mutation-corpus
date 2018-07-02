@@ -1,0 +1,21 @@
+T4	Gene_protein 427 430	APC
+T5	Gene_protein 443 446	DCC
+T6	DNA_Mutation 500 522	loss of heterozygosity
+T7	Gene_protein 530 533	APC
+T8	Gene_protein 571 574	DCC
+T9	DNA_Mutation 541 563	Loss of heterozygosity
+T10	Gene_protein 781 784	DCC
+T12	DNA_Mutation 0 22	Loss of heterozygosity
+T11	Gene_protein 773 776	APC
+T14	Gene_protein 34 37	DCC
+T13	Gene_protein 26 29	APC
+T15	DNA_Mutation 725 739	genetic change
+T1	DNA_Mutation 201 223	loss of heterozygosity
+T2	Gene_protein 231 234	APC
+T3	Gene_protein 239 242	DCC
+R2	Has_Mutation Arg1:T2 Arg2:T1
+R3	Has_Mutation Arg1:T3 Arg2:T1
+R4	Has_Mutation Arg1:T7 Arg2:T6
+R5	Has_Mutation Arg1:T8 Arg2:T9
+R6	Has_Mutation Arg1:T13 Arg2:T12
+R1	Has_Mutation Arg1:T14 Arg2:T12

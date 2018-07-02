@@ -1,0 +1,45 @@
+T21	Mutation 1155 1164	mutations
+T23	DNA_modification 247 258	methylation
+T22	DNA_modification 184 194	epigenetic
+T25	locus 632 640	promoter
+T24	DNA_modification 533 544	methylation
+T27	locus 892 900	promoter
+T26	DNA_modification 641 652	methylation
+T29	DNA_modification 901 912	methylation
+T28	DNA_modification 1067 1078	methylation
+T1	Gene_protein 281 286	PTPRM
+T2	Gene_protein 288 293	PTPRT
+T3	Gene_protein 295 300	PTPRR
+T4	Gene_protein 305 311	PTPRZ1
+T5	Gene_protein 730 735	PTPRM
+T6	Gene_protein 737 742	PTPRT
+T7	Gene_protein 1133 1137	BRAF
+T8	Gene_protein 754 760	PTPRZ1
+T9	Gene_protein 744 749	PTPRR
+T10	DNA_modification 770 785	hypermethylated
+T12	Gene_protein 1112 1117	K-ras
+T11	locus 1119 1127	codon 12
+T14	Protein_Mutation 1148 1153	V600E
+T13	locus 1139 1146	exon 15
+T16	DNA_modification 388 398	methylated
+T15	DNA_modification 64 79	hypermethylated
+R2	Component_of Arg1:T11 Arg2:T12
+R3	Has_Modification Arg1:T1 Arg2:T16
+R4	Has_Modification Arg1:T2 Arg2:T16
+R5	Has_Mutation Arg1:T7 Arg2:T14
+R6	Has_Modification Arg1:T3 Arg2:T16
+R7	Component_of Arg1:T13 Arg2:T7
+R8	Has_Modification Arg1:T4 Arg2:T16
+R9	Has_Modification Arg1:T6 Arg2:T10
+R10	Has_Modification Arg1:T9 Arg2:T10
+R21	Has_Modification Arg1:T1 Arg2:T23
+R20	Has_Mutation Arg1:T13 Arg2:T21
+R11	Has_Modification Arg1:T8 Arg2:T10
+R14	Has_Modification Arg1:T3 Arg2:T23
+R13	Has_Modification Arg1:T2 Arg2:T23
+R16	Has_Modification Arg1:T25 Arg2:T26
+R15	Has_Modification Arg1:T4 Arg2:T23
+R18	Has_Mutation Arg1:T13 Arg2:T14
+R17	Has_Modification Arg1:T27 Arg2:T29
+R19	Has_Mutation Arg1:T11 Arg2:T21
+R1	Has_Modification Arg1:T5 Arg2:T10

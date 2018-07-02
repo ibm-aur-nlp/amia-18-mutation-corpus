@@ -1,0 +1,14 @@
+Prevention of colorectal cancer by colonoscopic surveillance in families with hereditary colorectal cancer.
+
+
+## OBJECTIVE
+In recent years persons at risk for colorectal cancers (CRC) have been subjected to follow-up with colonoscopy in many centres. There is, however, limited knowledge about the effect of such interventions. The objective of this study was to report the results of our observations during the past 15 years.
+
+## MATERIAL AND METHODS
+Healthy persons were included in the study according to their family history of CRCs, and prospectively followed with colonoscopies.
+
+## RESULTS
+Altogether, 1133 individuals were included and observed for a total of 3474 follow-up years from the first to the last colonoscopy initiated by our activity. Mismatch repair (MMR) mutations were detected in 6.5% of cases. A total of 1383 polyps were removed, 72% were less than 5 mm in diameter. Findings were scored as hyperplastic polyps (n=887), adenomas with mild to moderate dysplasia (n=460), adenomas with high-grade dysplasia (n=30) and cancers (n=6). Two cancers were observed after the first colonoscopy, compared with 2.6 expected by chance and more than 20 expected under the hypothesis of predominant inherited diseases in the families. Observed annual incidence rates for adenomas were similar in all groups, while in the mutation carriers there was a higher frequency of progression to severe dysplasia or infiltrating cancer.
+
+## CONCLUSIONS
+A simple explanation for the combined findings may be that all selected families had a similar tendency to produce adenomas, while mutation carriers more frequently demonstrated dysplasia/cancer in the adenomas. The low annual incidence rates for CRC indicated that the removal of adenomas may have prevented cancers.

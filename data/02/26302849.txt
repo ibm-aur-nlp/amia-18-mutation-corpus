@@ -1,0 +1,14 @@
+Polymorphisms of PRLHR and HSPA12A and risk of gastric and colorectal cancer in the Chinese Han population.
+
+
+## BACKGROUND
+Gastric and colorectal cancers have a major impact on public health, and are the most common malignant tumors in China. The aim of this research was to study whether polymorphisms of CHCHD3P1-HSP90AB7P, GRID1, HSPA12A, PRLHR, SBF2, POLD3 and C11orf93-C11orf92 genes are associated with the risk of gastric and colorectal cancers in the Chinese Han population.
+
+## METHODS
+We genotyped seven single nucleotide polymorphisms (SNPs) from seven genes. We selected 588 patients with gastric cancer and 449 with colorectal cancer, along with 703 healthy controls. All these SNPs were evaluated using the χ² test and genetic model analysis.
+
+## RESULTS
+The genotype "A/T" of rs12413624 in PRLHR gene was associated with a decreased risk of colorectal cancer in allele model analysis [odds ratio (OR) = 0.81; 95% confidence interval (CI) = 0.68-0.97; p = 0.018] and log-additive model analysis (OR = 0.81; 95% CI = 0.66-0.98; p = 0.032). The genotype "A/G" of rs1665650 in HSPA12A gene was associated with a decreased risk of gastric cancer in overdominant model analysis (OR = 0.77; 95% CI = 0.60-0.99; p = 0.038).
+
+## CONCLUSIONS
+Our results provide evidence that variants of PRLHR gene are a protective factor in colorectal cancer and variants of HSPA12A gene are a protective factor in gastric cancer in the Chinese Han population.

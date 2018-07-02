@@ -1,0 +1,10 @@
+T4	Gene_protein 822 832	telomerase
+T5	Gene_protein 1026 1036	telomerase
+T6	Gene_protein 1841 1851	telomerase
+T10	Gene_protein 17 27	telomerase
+T7	Gene_protein 1385 1395	telomerase
+T8	Gene_protein 1503 1513	telomerase
+T9	Gene_protein 1599 1609	telomerase
+T1	DNA_Mutation 390 399	mutations
+T2	DNA_Mutation 496 505	mutations
+T3	Gene_protein 655 665	telomerase

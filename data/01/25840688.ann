@@ -1,0 +1,16 @@
+T4	Gene_protein 1007 1010	p53
+T5	Gene_protein 1122 1127	c-myc
+T6	Gene_protein 1242 1247	bcl-2
+T7	Gene_protein 1335 1340	bcl-2
+T8	Gene_protein 1531 1534	p53
+T9	Gene_protein 1564 1569	bcl-2
+T10	Gene_protein 101 104	p53
+T12	Gene_protein 117 122	c-myc
+T11	Gene_protein 106 111	bcl-2
+T14	DNA_Mutation 1279 1289	aneuploidy
+T13	DNA_Mutation 278 287	mutations
+T16	DNA_Mutation 1589 1599	aneuploidy
+T15	DNA_Mutation 1350 1360	aneuploidy
+T1	Gene_protein 689 692	p53
+T2	Gene_protein 694 699	bcl-2
+T3	Gene_protein 705 710	c-myc

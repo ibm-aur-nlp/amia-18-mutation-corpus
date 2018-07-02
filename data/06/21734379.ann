@@ -1,0 +1,9 @@
+T7	locus 622 628	HLA-DQ
+T12	Gene_protein 852 856	IL21
+T11	Gene_protein 848 851	IL2
+T1	DNA_Mutation 1063 1071	mutation
+T2	Gene_protein 1079 1084	ATP7B
+T3	Gene_protein 700 703	CD4
+R1	Has_Mutation Arg1:T2 Arg2:T1
+T16	locus 504 510	HLA-DQ
+T4	locus 516 523	HLA-DQ8

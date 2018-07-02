@@ -1,0 +1,46 @@
+T21	DNA_Mutation 1050 1059	800 G > A
+T20	DNA_Mutation 917 927	-509 C > T
+T23	Gene_protein 1083 1089	TGF-β1
+T22	DNA_Mutation 1090 1100	-509 C > T
+T25	Gene_protein 176 205	transforming growth factor-β1
+T24	DNA_Mutation 1117 1127	-800 G > A
+T27	DNA_Mutation 69 82	polymorphisms
+T28	DNA_Mutation 159 172	polymorphisms
+T1	Gene_protein 1553 1559	TGF-β1
+T2	DNA_Mutation 1246 1256	-509 C > T
+T3	DNA_Mutation 1572 1582	+915 G > C
+T4	DNA_Mutation 1560 1570	+869 T > C
+T5	DNA_Mutation 1645 1655	-509 C > T
+T6	Gene_protein 1639 1645	TGF-β1
+T7	DNA_Mutation 1672 1682	-800 G > A
+T8	Gene_protein 54 60	TGF-β1
+T9	Gene_protein 207 213	TGF-β1
+T30	DNA_Mutation 1003 1013	+915 G > C
+T10	DNA_Mutation 214 224	-509 C > T
+T11	DNA_Mutation 226 236	+869 T > C
+T14	Gene_protein 770 776	TGF-β1
+T13	DNA_Mutation 254 264	-800 G > A
+T16	DNA_Mutation 789 799	+869 T > C
+T15	DNA_Mutation 777 787	-509 C > T
+T18	DNA_Mutation 801 811	+915 G > C
+T17	DNA_Mutation 817 827	-800 G > A
+T19	DNA_Mutation 960 970	+869 T > C
+R3	Has_Mutation Arg1:T9 Arg2:T13
+R4	Has_Mutation Arg1:T14 Arg2:T15
+R5	Has_Mutation Arg1:T14 Arg2:T16
+R6	Has_Mutation Arg1:T14 Arg2:T18
+R7	Has_Mutation Arg1:T14 Arg2:T17
+R8	Has_Mutation Arg1:T23 Arg2:T22
+R9	Has_Mutation Arg1:T23 Arg2:T24
+R10	Has_Mutation Arg1:T1 Arg2:T3
+R12	Has_Mutation Arg1:T6 Arg2:T7
+R11	Has_Mutation Arg1:T1 Arg2:T4
+R14	Has_Mutation Arg1:T9 Arg2:T10
+R13	Has_Mutation Arg1:T6 Arg2:T5
+R16	Has_Mutation Arg1:T14 Arg2:T20
+R15	Has_Mutation Arg1:T14 Arg2:T19
+R18	Has_Mutation Arg1:T14 Arg2:T30
+R17	Has_Mutation Arg1:T14 Arg2:T21
+R1	Has_Mutation Arg1:T9 Arg2:T11
+T26	DNA_Mutation 238 248	+915 G > C
+R19	Has_Mutation Arg1:T9 Arg2:T26	

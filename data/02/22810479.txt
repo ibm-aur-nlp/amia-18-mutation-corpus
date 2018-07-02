@@ -1,0 +1,26 @@
+Is K-ras gene mutation a prognostic factor for colorectal cancer: a systematic review and meta-analysis.
+
+
+## BACKGROUND
+: The K-ras gene is one of the commonly mutated oncogenes associated with colorectal cancer. However, its prognostic significance for patients with colorectal cancer remains inconclusive.
+
+## OBJECTIVE
+: To derive a more precise estimation of the prognostic significance of K-ras gene mutations, a systematic review and meta-analysis were performed.
+
+## DATA SOURCES
+: We searched PubMed, Embase, and the Cochrane databases from January 1992 to November 2011.
+
+## STUDY SELECTION
+: The prognostic value of K-ras gene mutations was examined in patients with colorectal cancer who did not receive preoperative chemotherapy or radiation.
+
+## MAIN OUTCOME MEASURES
+: The effect of K-ras gene mutations on the overall survival was measured by the HR and 95% CIs.
+
+## RESULTS
+: The pooled HR for the association between K-ras gene mutations and overall survival in patients with colorectal cancer was 1.04 (95% CI: 0.99-1.10, p = 0.11). Subgroup analysis showed significant reductions in the overall survival associated with mutations at K-ras codon 12, the articles that reported HR directly, and the studies published before and after 2005, although publication bias was present. All the associations disappeared after adjustment with the trim-and-fill method. The pooled HR of 3 studies examining mutations at K-ras codon 13 was 1.47 (95% CI: 1.09-1.97, p = 0.02), and no publication bias was observed. No significant association was observed in different study regions.
+
+## LIMITATIONS
+: The heterogeneity in the study populations is a potential problem, the use of different staging systems or small groups of different stages may contribute to heterogeneity, and residual confounding may have influenced the results in those studies that did not completely adjust for other factors.
+
+## CONCLUSIONS
+: Overall K-ras gene mutations seem not to correlate with the prognosis of patients with colorectal cancer. The association remains to be confirmed with a more precise analysis of a large sample.

@@ -1,0 +1,17 @@
+T4	Gene_protein 35 40	GNAS1
+T5	Gene_protein 155 172	G(alpha)s protein
+T10	Gene_protein 44 53	G protein
+T12	DNA_Mutation 391 421	single nucleotide polymorphism
+T14	DNA_Mutation 428 433	T393C
+T13	DNA_Mutation 423 426	SNP
+T16	DNA_Mutation 1077 1082	T393C
+T15	DNA_Mutation 597 602	T393C
+T17	Mutation 4 9	T393C
+T1	Gene_protein 131 136	GNAS1
+T2	Gene_protein 446 451	GNAS1
+T3	Gene_protein 1071 1076	GNAS1
+R3	Has_Mutation Arg1:T3 Arg2:T16
+R4	Has_Mutation Arg1:T2 Arg2:T14
+*	Alias T13 T12
+T8	DNA_Mutation 603 606	SNP
+T6	DNA_Mutation 1083 1086	SNP

@@ -1,0 +1,3 @@
+Microsatellite instability in human testicular germ cell tumours.
+
+DNA samples obtained from 29 testicular germ cell tumours have been screened for instability at nine different microsatellite sequences consisting of dinucleotide, trinucleotide and tetranucleotide loci. Overall, in tumours from six (21%) patients we found abnormalities in at least one of the loci examined. Mutation was most frequently found in tetranucleotide and trinucleotide repeats with only a low proportion of alterations in dinucleotide repeats. This pattern of instability is distinct from that reported in colorectal cancer and other cancers that have a high level of alterations in dinucleotide repeats.

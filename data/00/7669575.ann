@@ -1,0 +1,8 @@
+T5	DNA_modification 647 658	alterations
+T8	DNA_Mutation 148 159	instability
+T11	DNA_Mutation 539 550	instability
+T13	DNA_Mutation 376 384	Mutation
+T1	DNA_Mutation 0 26	Microsatellite instability
+T3	DNA_modification 486 497	alterations
+T7	locus 178 192	microsatellite
+R5	Has_Mutation Arg1:T7 Arg2:T8	

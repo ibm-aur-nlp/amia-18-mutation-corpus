@@ -1,0 +1,36 @@
+T21	DNA_Mutation 134 138	loss
+T20	Gene_protein 1609 1612	APC
+T23	Gene_protein 453 456	APC
+T25	DNA_Mutation 466 475	mutations
+T24	Gene_protein 461 465	KRAS
+T27	Gene_protein 521 524	APC
+T26	Gene_protein 526 529	MYC
+T29	Gene_protein 531 536	AXIN2
+T28	Gene_protein 541 546	SFRP1
+T1	Gene_protein 65 68	APC
+T2	Gene_protein 130 133	APC
+T3	Gene_protein 296 299	APC
+T4	Gene_protein 416 419	APC
+T5	Gene_protein 10 14	KRAS
+T8	DNA_Mutation 420 429	mutations
+T30	DNA_Mutation 701 711	alteration
+T32	DNA_Mutation 782 791	mutations
+T31	Gene_protein 697 700	APC
+T12	Gene_protein 867 870	MYC
+T34	Gene_protein 827 830	APC
+T11	Gene_protein 875 880	AXIN2
+T33	Gene_protein 777 781	KRAS
+T14	Gene_protein 1108 1111	MYC
+T13	Gene_protein 1147 1151	KRAS
+T16	Mutation 1152 1161	mutations
+T15	DNA_Mutation 1163 1186	Copy number aberrations
+T18	Gene_protein 1444 1447	APC
+T17	Gene_protein 1520 1523	APC
+T19	Gene_protein 1664 1667	APC
+R2	Has_Mutation Arg1:T24 Arg2:T25
+R3	Has_Mutation Arg1:T23 Arg2:T25
+R5	Has_Mutation Arg1:T31 Arg2:T30
+R6	Has_Mutation Arg1:T33 Arg2:T32
+R7	Has_Mutation Arg1:T13 Arg2:T16
+R8	Has_Mutation Arg1:T2 Arg2:T21
+R1	Has_Mutation Arg1:T4 Arg2:T8

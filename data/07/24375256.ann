@@ -1,0 +1,24 @@
+T4	Gene_protein 869 874	TGF-β
+T5	DNA_Mutation 851 855	SNPs
+T6	dbSNP 1198 1205	rs12997
+T7	DNA_Mutation 1446 1450	SNPs
+T8	Gene_protein 45 50	TGF-β
+T9	DNA_Mutation 155 186	single-nucleotide polymorphisms
+T10	Gene_protein 353 381	transforming growth factor-β
+T12	locus 685 703	miRNA target sites
+T11	DNA_Mutation 665 681	genetic variants
+T14	DNA_Mutation 1014 1018	SNPs
+T13	locus 200 219	miRNA) target sites
+T16	DNA_Mutation 1567 1580	polymorphisms
+T15	Gene_protein 1206 1211	ACVR1
+T18	DNA_Mutation 2 17	genetic variant
+T17	locus 1454 1472	miRNA target sites
+T1	Gene_protein 383 388	TGF-β
+T2	Gene_protein 720 725	TGF-β
+T3	DNA_Mutation 818 849	single-nucleotide polymorphisms
+R2	Has_Mutation Arg1:T15 Arg2:T6
+R3	Has_Mutation Arg1:T17 Arg2:T7
+R4	Has_Mutation Arg1:T12 Arg2:T11
+R1	Has_Mutation Arg1:T4 Arg2:T5
+R5	Has_Mutation Arg1:T13 Arg2:T9	
+*	Alias T1 T10

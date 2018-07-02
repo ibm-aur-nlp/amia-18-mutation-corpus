@@ -1,0 +1,27 @@
+T4	Gene_protein 627 632	K-ras
+T5	DNA_Mutation 638 647	mutations
+T6	Gene_protein 798 803	K-ras
+T7	DNA_Mutation 809 818	mutations
+T8	DNA_Mutation 946 955	mutations
+T9	Gene_protein 935 940	K-ras
+T10	locus 1159 1167	codon 12
+T12	locus 1434 1442	codon 13
+T11	Gene_protein 1153 1158	K-ras
+T14	DNA_Mutation 1941 1950	mutations
+T13	Gene_protein 1428 1433	K-ras
+T16	Gene_protein 3 8	K-ras
+T15	Gene_protein 1930 1935	K-ras
+T18	Gene_protein 127 132	K-ras
+T17	DNA_Mutation 14 22	mutation
+T1	DNA_Mutation 161 168	mutated
+T2	Gene_protein 395 400	K-ras
+T3	DNA_Mutation 406 415	mutations
+R2	Has_Mutation Arg1:T2 Arg2:T3
+R3	Has_Mutation Arg1:T4 Arg2:T5
+R4	Has_Mutation Arg1:T6 Arg2:T7
+R5	Has_Mutation Arg1:T9 Arg2:T8
+R6	Has_Mutation Arg1:T15 Arg2:T14
+R7	Has_Mutation Arg1:T16 Arg2:T17
+R8	Component_of Arg1:T10 Arg2:T11
+R9	Component_of Arg1:T12 Arg2:T13
+R1	Has_Mutation Arg1:T18 Arg2:T1

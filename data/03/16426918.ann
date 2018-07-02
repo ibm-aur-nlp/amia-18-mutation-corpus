@@ -1,0 +1,32 @@
+T21	DNA_Mutation 1347 1351	Loss
+T20	DNA_Mutation 1010 1014	Loss
+T22	Gene_protein 70 84	mutL homolog 1
+T1	Gene_protein 119 124	MSH-2
+T2	Gene_protein 394 399	MLH-1
+T3	Gene_protein 404 409	MSH-2
+T4	Gene_protein 802 807	MLH-1
+T5	Gene_protein 812 817	MSH-2
+T6	Gene_protein 1514 1519	MSH-2
+T7	Gene_protein 1027 1032	MSH-2
+T8	Gene_protein 1018 1023	MLH-1
+T9	Gene_protein 1176 1181	MLH-1
+T10	Gene_protein 1355 1360	MLH-1
+T12	Gene_protein 1368 1373	MSH-2
+T11	Gene_protein 1186 1191	MSH-2
+T14	DNA_Mutation 52 60	Mutation
+T13	Gene_protein 1427 1432	MLH-1
+T16	Gene_protein 103 117	mutS homolog 2
+T15	Gene_protein 86 91	MLH-1
+T18	DNA_Mutation 1419 1423	Loss
+T17	DNA_Mutation 264 273	Mutations
+T19	DNA_Mutation 1506 1510	loss
+R3	Has_Mutation Arg1:T7 Arg2:T20
+R4	Has_Mutation Arg1:T10 Arg2:T21
+R5	Has_Mutation Arg1:T12 Arg2:T21
+R6	Has_Mutation Arg1:T13 Arg2:T18
+R7	Has_Mutation Arg1:T6 Arg2:T19
+R8	Has_Mutation Arg1:T22 Arg2:T14
+R1	Has_Mutation Arg1:T16 Arg2:T14
+*	Alias T15 T22
+*	Alias T1 T16
+R2	Has_Mutation Arg1:T8 Arg2:T20	

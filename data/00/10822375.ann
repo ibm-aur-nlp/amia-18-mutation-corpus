@@ -1,0 +1,37 @@
+T21	Gene_protein 898 903	hMLH1
+T22	DNA_modification 1283 1295	inactivation
+T25	DNA_Mutation 82 108	microsatellite instability
+T24	DNA_Mutation 8 16	mutation
+T27	DNA_modification 111 123	Inactivation
+T26	DNA_modification 1138 1150	inactivation
+T29	DNA_Mutation 701 710	mutations
+T1	DNA_Mutation 990 1016	microsatellite instability
+T2	Gene_protein 936 941	hPMS2
+T3	DNA_Mutation 1040 1048	mutation
+T4	Gene_protein 1030 1034	HPRT
+T5	DNA_Mutation 1203 1206	MSI
+T6	Gene_protein 1154 1159	hPMS2
+T7	Gene_protein 20 25	hPMS2
+T8	DNA_Mutation 197 200	MSI
+T9	DNA_Mutation 172 195	microsatellite unstable
+T10	Gene_protein 217 222	hPMS2
+T12	DNA_Mutation 678 689	inactivated
+T11	Gene_protein 316 321	hPMS2
+T33	Gene_protein 911 921	hMutLalpha
+T14	Gene_protein 498 503	hPMS2
+T13	DNA_Mutation 322 331	mutations
+T16	Gene_protein 543 548	hPMS2
+T15	DNA_Mutation 444 447	MSI
+T18	DNA_Mutation 549 558	mutations
+T17	Gene_protein 664 669	hPMS2
+T19	Gene_protein 719 724	hPMS2
+R10	Has_Mutation Arg1:T2 Arg2:T1
+R3	Has_Mutation Arg1:T16 Arg2:T18
+R4	Has_Mutation Arg1:T19 Arg2:T29
+R5	Has_Mutation Arg1:T4 Arg2:T3
+R6	Has_Mutation Arg1:T6 Arg2:T26
+R7	Has_Mutation Arg1:T17 Arg2:T12
+R8	Has_Mutation Arg1:T7 Arg2:T24
+R1	Has_Mutation Arg1:T11 Arg2:T13
+T20	Gene_protein 904 909	hPMS2
+*	Alias T33 T20 T21

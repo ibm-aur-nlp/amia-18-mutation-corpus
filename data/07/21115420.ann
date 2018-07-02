@@ -1,0 +1,70 @@
+T21	DNA_Mutation 2070 2079	mutations
+T20	DNA_Mutation 2083 2086	MSI
+T23	Gene_protein 2099 2102	p53
+T22	Gene_protein 2129 2133	TP53
+T25	Gene_protein 2167 2170	BAX
+T24	DNA_Mutation 2197 2200	MSI
+T27	DNA_Mutation 754 757	CIN
+T26	locus 1206 1221	promoter region
+T29	DNA_Mutation 220 223	CIN
+T28	DNA_Mutation 195 218	chromosomal instability
+T30	DNA_Mutation 229 248	genetic instability
+T32	DNA_Mutation 2184 2193	mutations
+T31	Gene_protein 663 667	TP53
+T34	Gene_protein 684 689	SMAD4
+T33	Gene_protein 669 672	APC
+T36	DNA_Mutation 761 780	genetic instability
+T35	Gene_protein 674 679	SMAD2
+T38	DNA_Mutation 788 791	MSI
+T37	DNA_Mutation 793 819	microsatellite instability
+T39	Gene_protein 1026 1033	TGFBRII
+T41	Gene_protein 1035 1038	BAX
+T40	DNA_Mutation 969 978	mutations
+T43	DNA_Mutation 1810 1818	mutation
+T42	DNA_Mutation 1630 1638	mutation
+T45	DNA_Mutation 514 520	losses
+T47	locus 572 607	long arm of chromosome 5, 18 and 22
+T46	locus 528 560	short arm of chromosome 17 and 8
+T49	DNA_Mutation 650 659	mutations
+T48	DNA_Mutation 623 629	losses
+T1	Gene_protein 1578 1581	APC
+T2	Gene_protein 1042 1050	CASPASE5
+T3	DNA_Mutation 1594 1597	CIN
+T4	DNA_modification 1182 1198	hypermethylation
+T5	Gene_protein 1298 1302	BRAF
+T6	DNA_Mutation 1286 1294	mutation
+T7	locus 1895 1913	polyG coding track
+T8	Gene_protein 1646 1655	β-catenin
+T9	DNA_Mutation 2150 2153	CIN
+T50	Gene_protein 1696 1700	TGFβ
+T52	Gene_protein 1921 1971	TGFβ (transforming growth factor) receptor type II
+T10	DNA_Mutation 1664 1667	MSI
+T12	Gene_protein 1791 1796	SMAD2
+T11	Gene_protein 1763 1768	SMAD4
+T14	DNA_Mutation 1859 1879	frame-shift mutation
+T13	DNA_Mutation 1822 1825	CIN
+T16	DNA_Mutation 1975 1978	MSI
+T15	Gene_protein 2030 2034	KRAS
+T18	Gene_protein 2065 2069	BRAF
+T17	DNA_Mutation 2035 2044	mutations
+T19	DNA_Mutation 2048 2051	CIN
+R23	Has_Mutation Arg1:T39 Arg2:T40
+R25	Has_Mutation Arg1:T2 Arg2:T40
+R24	Has_Mutation Arg1:T41 Arg2:T40
+R1	Has_Mutation Arg1:T31 Arg2:T49
+R2	Has_Mutation Arg1:T33 Arg2:T49
+R3	Has_Mutation Arg1:T35 Arg2:T49
+R4	Has_Mutation Arg1:T34 Arg2:T49
+R5	Has_Mutation Arg1:T5 Arg2:T6
+R7	Has_Mutation Arg1:T8 Arg2:T42
+R8	Has_Mutation Arg1:T7 Arg2:T14
+R9	Has_Mutation Arg1:T15 Arg2:T17
+R11	Has_Mutation Arg1:T18 Arg2:T21
+R14	Has_Mutation Arg1:T25 Arg2:T32
+R13	Has_Modification Arg1:T26 Arg2:T4
+R10	Has_Mutation Arg1:T46 Arg2:T45	
+R15	Has_Mutation Arg1:T47 Arg2:T45	
+*	Alias T52 T39
+R6	Component_of Arg1:T7 Arg2:T52	
+R12	Has_Mutation Arg1:T52 Arg2:T14	
+T44	Gene_protein 1995 2005	MAP kinase

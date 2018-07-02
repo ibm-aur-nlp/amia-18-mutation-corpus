@@ -1,0 +1,26 @@
+T21	DNA_Mutation 1189 1200	alterations
+T20	DNA_Mutation 1612 1615	MSI
+T22	locus 1168 1188	intergenic T9 repeat
+T24	DNA_Mutation 1233 1240	mutated
+T1	DNA_Mutation 219 245	microsatellite instability
+T2	DNA_Mutation 247 250	MSI
+T3	DNA_Mutation 381 384	MSI
+T4	DNA_Mutation 438 446	mutation
+T5	DNA_Mutation 569 572	MSI
+T6	Gene_protein 701 714	semenogelin I
+T7	DNA_Mutation 1477 1485	mutation
+T8	DNA_Mutation 734 742	mutation
+T9	Gene_protein 716 721	SEMG1
+T10	DNA_Mutation 1730 1738	mutation
+T12	Gene_protein 893 898	SEMG1
+T11	DNA_Mutation 899 908	mutations
+T14	Gene_protein 1042 1047	SEMG1
+T13	DNA_Mutation 1093 1101	mutation
+T16	DNA_Mutation 0 9	Mutations
+T15	DNA_Mutation 1115 1118	MSI
+T18	DNA_Mutation 172 181	mutations
+T17	DNA_Mutation 64 87	microsatellite-unstable
+T19	DNA_Mutation 516 525	mutations
+R2	Has_Mutation Arg1:T22 Arg2:T15
+R3	Has_Mutation Arg1:T12 Arg2:T11
+R1	Has_Mutation Arg1:T22 Arg2:T21

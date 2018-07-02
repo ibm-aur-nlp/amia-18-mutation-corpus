@@ -1,0 +1,32 @@
+T4	locus 1511 1524	1p36.33-36.31
+T5	locus 1532 1538	1q31.3
+T6	locus 26 38	chromosome 1
+T7	locus 362 374	chromosome 1
+T8	locus 928 964	chromosome 1, short arm and long arm
+T9	DNA_Mutation 106 109	LOH
+T10	DNA_Mutation 261 276	abnormal allele
+T21	locus 1118 1124	D1S413
+T20	locus 1090 1096	D1S468
+T12	DNA_Mutation 494 505	polymorphic
+T23	locus 1152 1159	D1S2726
+T11	DNA_Mutation 344 347	LOH
+T22	DNA_Mutation 0 22	Loss of heterozygosity
+T14	DNA_Mutation 733 736	LOH
+T13	locus 506 525	micro-satellite DNA
+T24	DNA_Mutation 82 104	Loss of heterozygosity
+T16	DNA_Mutation 1024 1027	LOH
+T15	DNA_Mutation 1167 1170	LOH
+T18	DNA_Mutation 911 914	LOH
+T17	DNA_Mutation 790 793	LOH
+T1	locus 1098 1112	1p36.33-p36.31
+T2	locus 1126 1132	1q31.3
+T3	locus 1413 1425	chromosome 1
+R3	Has_Mutation Arg1:T20 Arg2:T16
+R4	Has_Mutation Arg1:T21 Arg2:T16
+R5	Has_Mutation Arg1:T23 Arg2:T15
+R6	Has_Mutation Arg1:T6 Arg2:T22
+R1	Has_Mutation Arg1:T13 Arg2:T12
+*	Alias T9 T24
+R2	Has_Mutation Arg1:T8 Arg2:T18	
+*	Alias T1 T20
+*	Alias T2 T21

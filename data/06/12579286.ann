@@ -1,0 +1,16 @@
+T4	DNA_Mutation 649 669	Frameshift mutations
+T5	DNA_Mutation 693 698	MSI-H
+T6	DNA_Mutation 887 892	MSI-H
+T7	DNA_Mutation 855 860	MSI-H
+T8	DNA_Mutation 1193 1213	frameshift mutations
+T9	DNA_Mutation 1338 1343	MSI-H
+T10	DNA_Mutation 157 176	Frameshift mutation
+T12	DNA_Mutation 354 364	mutational
+T11	DNA_Mutation 245 271	microsatellite instability
+T14	DNA_Mutation 1298 1308	mutational
+T13	DNA_Mutation 835 845	mutational
+T16	DNA_Mutation 128 154	microsatellite instability
+T15	DNA_Mutation 1375 1385	mutational
+T1	DNA_Mutation 273 278	MSI-H
+T2	DNA_Mutation 469 474	MSI-H
+T3	DNA_Mutation 504 509	MSI-H

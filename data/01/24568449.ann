@@ -1,0 +1,42 @@
+T41	RNA_Mutation 1074 1075	T
+T40	RNA 744 753	miR-196a2
+T43	RNA_Mutation 1076 1083	variant
+T42	RNA 1064 1074	miR-196a2*
+T27	RNA 1904 1913	miR-196a2
+T26	RNA 1398 1405	miR-149
+T29	RNA_Mutation 1947 1960	polymorphisms
+T28	RNA 1929 1936	miR-149
+T1	dbSNP 474 483	rs2910164
+T2	dbSNP 495 505	rs11614913
+T3	dbSNP 515 523	rs229283
+T4	dbSNP 754 764	rs11614913
+T5	dbSNP 533 542	rs3746444
+T6	dbSNP 1937 1946	rs2292832
+T7	dbSNP 1914 1924	rs11614913
+T8	dbSNP 1406 1415	rs2292832
+T30	RNA_Mutation 16 47	single nucleotide polymorphisms
+T32	RNA 61 69	miR-196a
+T31	RNA 51 59	miR-146a
+T34	RNA 83 90	miR-499
+T33	RNA 71 78	miR-149
+T36	RNA 465 473	miR-146a
+T35	RNA_Mutation 457 461	SNPs
+T38	RNA 507 514	miR-149
+T37	RNA 485 494	miR-196a2
+T39	RNA 525 532	miR-499
+R21	Has_Mutation Arg1:T27 Arg2:T7
+R20	Has_Mutation Arg1:T42 Arg2:T41
+R23	Has_Mutation Arg1:T28 Arg2:T29
+R22	Has_Mutation Arg1:T26 Arg2:T8
+R25	Has_Mutation Arg1:T31 Arg2:T30
+R24	Has_Mutation Arg1:T28 Arg2:T6
+R10	Has_Mutation Arg1:T32 Arg2:T30
+R12	Has_Mutation Arg1:T34 Arg2:T30
+R11	Has_Mutation Arg1:T33 Arg2:T30
+R14	Has_Mutation Arg1:T36 Arg2:T35
+R13	Has_Mutation Arg1:T36 Arg2:T1
+R16	Has_Mutation Arg1:T38 Arg2:T3
+R15	Has_Mutation Arg1:T37 Arg2:T2
+R18	Has_Mutation Arg1:T40 Arg2:T4
+R17	Has_Mutation Arg1:T39 Arg2:T5
+R19	Has_Mutation Arg1:T42 Arg2:T43

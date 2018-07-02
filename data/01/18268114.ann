@@ -1,0 +1,28 @@
+T4	DNA_Mutation 1205 1208	SNP
+T5	DNA_Mutation 1382 1386	SNPs
+T6	DNA_Mutation 1432 1436	SNPs
+T7	Gene_protein 1495 1499	MGMT
+T8	DNA_Mutation 1975 1979	SNPs
+T9	dbSNP 1513 1522	rs2308237
+T10	Protein_Mutation 1500 1511	Lys(178)Arg
+T21	DNA_Mutation 1027 1030	SNP
+T12	DNA_Mutation 1524 1527	SNP
+T23	DNA_Mutation 34 42	variants
+T11	Gene_protein 1584 1588	MGMT
+T22	DNA_Mutation 1828 1831	SNP
+T14	Protein_Mutation 1589 1600	Ile(143)Val
+T13	DNA_Mutation 1601 1604	SNP
+T24	DNA_Mutation 255 265	variations
+T16	Gene_protein 1662 1666	MGMT
+T15	Protein_Mutation 1667 1678	Lys(178)Arg
+T18	DNA_Mutation 884 915	single nucleotide polymorphisms
+T17	DNA_Mutation 1922 1926	SNPs
+T1	DNA_Mutation 917 920	SNP
+T2	DNA_Mutation 1081 1085	SNPs
+T3	DNA_Mutation 1132 1136	SNPs
+R2	Has_Mutation Arg1:T7 Arg2:T12
+R3	Has_Mutation Arg1:T11 Arg2:T14
+R4	Has_Mutation Arg1:T11 Arg2:T13
+R5	Has_Mutation Arg1:T16 Arg2:T15
+R6	Has_Mutation Arg1:T7 Arg2:T10
+R1	Has_Mutation Arg1:T7 Arg2:T9

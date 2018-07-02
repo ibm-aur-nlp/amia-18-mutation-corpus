@@ -1,0 +1,14 @@
+Clinical benefit of high-sensitivity KRAS mutation testing in metastatic colorectal cancer treated with anti-EGFR antibody therapy.
+
+
+## OBJECTIVE
+We compared high-sensitivity KRAS mutation testing with direct sequencing for predicting the efficacy of antiepidermal growth factor receptor antibodies in patients with metastatic colorectal cancer (mCRC).
+
+## METHODS
+We analyzed the KRAS status in 61 tumors from cetuximab-treated mCRC patients by both direct sequencing and a high-sensitivity method: 2-step PCR restriction fragmentation length polymorphism (RFLP). Therapeutic effects in each mutational status were evaluated.
+
+## RESULTS
+The incidences of KRAS mutations determined by direct sequencing and 2-step PCR RFLP were 34.4 and 52.5%, respectively (p = 0.02). Patients were categorized into 3 groups [W/W, wild-type by both methods (n = 29); W/M, wild-type by direct sequencing, detected mutation by 2-step PCR RFLP (n = 11); M/M, mutant-type by both methods (n = 21)]. The response rate for cetuximab in the W/M group (0%) was the same as that in the M/M group, and was significantly lower than in the W/W group (41.4%) (p < 0.001). Progression-free survival in the W/M group (11.0 weeks) was similar to that in the M/M group (8.0 weeks), and was significantly shorter than in the W/W group (18.0 weeks) (p < 0.002).
+
+## CONCLUSION
+High-sensitivity KRAS mutation testing is useful for selecting true responders to cetuximab.

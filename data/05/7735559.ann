@@ -1,0 +1,35 @@
+T21	DNA_Mutation 1191 1210	allelic differences
+T20	DNA_Mutation 1312 1330	allele instability
+T23	locus 23 38	microsatellites
+T25	locus 121 136	microsatellites
+T26	locus 354 369	microsatellites
+T28	DNA_Mutation 701 709	deletion
+T1	locus 107 120	chromosome 18
+T2	DNA_Mutation 406 415	deletions
+T3	locus 433 440	18q21.1
+T4	Gene_protein 509 512	DCC
+T5	DNA_Mutation 608 617	deletions
+T6	Gene_protein 649 652	DCC
+T7	locus 731 736	18q23
+T8	locus 717 723	D18S50
+T9	DNA_Mutation 771 780	deletions
+T10	Gene_protein 1008 1011	DCC
+T12	locus 1023 1028	18q23
+T11	locus 883 896	chromosome 18
+T14	DNA_Mutation 92 103	alterations
+T13	locus 42 55	chromosome 18
+T16	DNA_Mutation 8 19	alterations
+T15	DNA_Mutation 857 879	loss of heterozygosity
+T18	locus 897 912	microsatellites
+T17	DNA_Mutation 253 275	Loss of heterozygosity
+T19	locus 1143 1158	microsatellites
+R2	Has_Mutation Arg1:T11 Arg2:T15
+R10	Has_Mutation Arg1:T7 Arg2:T28
+R3	Component_of Arg1:T12 Arg2:T10
+R4	Has_Mutation Arg1:T3 Arg2:T2
+R9	Has_Mutation Arg1:T8 Arg2:T28
+R1	Has_Mutation Arg1:T6 Arg2:T5
+R5	Has_Mutation Arg1:T13 Arg2:T16	
+R12	Has_Mutation Arg1:T23 Arg2:T16	
+R6	Has_Mutation Arg1:T1 Arg2:T14	
+R7	Has_Mutation Arg1:T25 Arg2:T14	

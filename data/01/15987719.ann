@@ -1,0 +1,54 @@
+T21	Gene_protein 679 684	MUTYH
+T20	DNA_Mutation 598 607	mutations
+T23	Gene_protein 730 735	MUTYH
+T22	Gene_protein 661 666	MUTYH
+T25	Gene_protein 822 827	MUTYH
+T24	Gene_protein 704 709	MUTYH
+T26	Protein_Mutation 983 991	8-oxoA.G
+T28	Protein_Mutation 970 978	A.8-oxoG
+T2	Gene_protein 415 418	APC
+T3	Protein_Mutation 736 746	G382D(-/-)
+T5	Gene_protein 1043 1048	MUTYH
+T6	Gene_protein 1187 1192	MUTYH
+T7	Gene_protein 1081 1086	MUTYH
+T8	Gene_protein 55 60	MUTYH
+T9	Gene_protein 158 163	MUTYH
+T10	Gene_protein 358 363	MUTYH
+T12	DNA_Mutation 391 404	transversions
+T34	DNA_Mutation 380 390	G:C to T:A
+T11	Protein_Mutation 1275 1280	Y165C
+T14	Protein_Mutation 1285 1293	1103delC
+T36	DNA_Mutation 22 41	biallelic mutations
+T13	Protein_Mutation 1294 1303	mutations
+T35	DNA_Mutation 815 821	Mutant
+T16	Protein_Mutation 1387 1392	G382D
+T38	Protein_Mutation 1393 1401	mutation
+T15	Gene_protein 592 597	MUTYH
+T37	DNA_Mutation 125 144	biallelic mutations
+T18	Gene_protein 1325 1330	MUTYH
+T17	Protein_Mutation 667 677	Y165C(-/-)
+T39	Gene_protein 803 808	MUTYH
+T19	Gene_protein 646 651	MUTYH
+R2	Has_Mutation Arg1:T2 Arg2:T12
+R3	Has_Mutation Arg1:T2 Arg2:T34
+R4	Has_Mutation Arg1:T15 Arg2:T20
+R5	Has_Mutation Arg1:T22 Arg2:T17
+R8	Has_Mutation Arg1:T23 Arg2:T3
+R9	Has_Mutation Arg1:T25 Arg2:T28
+R10	Has_Mutation Arg1:T18 Arg2:T13
+R12	Has_Mutation Arg1:T18 Arg2:T11
+R11	Has_Mutation Arg1:T25 Arg2:T26
+R14	Has_Mutation Arg1:T18 Arg2:T16
+R13	Has_Mutation Arg1:T18 Arg2:T14
+R16	Has_Mutation Arg1:T9 Arg2:T37
+R18	Has_Mutation Arg1:T18 Arg2:T38
+R17	Has_Mutation Arg1:T25 Arg2:T35
+R19	Has_Mutation Arg1:T8 Arg2:T36
+T1	Protein_Mutation 694 699	G382D
+T27	Protein_Mutation 685 693	1103delC
+R1	Has_Mutation Arg1:T21 Arg2:T27	
+R6	Has_Mutation Arg1:T21 Arg2:T1	
+T4	Protein_Mutation 710 715	Y165C
+T29	Protein_Mutation 716 721	G382D
+R7	Has_Mutation Arg1:T24 Arg2:T4	
+R15	Has_Mutation Arg1:T24 Arg2:T29	

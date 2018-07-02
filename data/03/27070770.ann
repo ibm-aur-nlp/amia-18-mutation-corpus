@@ -1,0 +1,5 @@
+T1	Gene_protein 1284 1287	APC
+T2	DNA_Mutation 1267 1276	mutations
+T3	Gene_protein 1327 1332	STK11
+R2	Has_Mutation Arg1:T1 Arg2:T2
+R1	Has_Mutation Arg1:T3 Arg2:T2

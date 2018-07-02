@@ -1,0 +1,10 @@
+T4	DNA_Mutation 1720 1728	mutation
+T5	Gene_protein 543 547	MLH1
+T6	DNA_Mutation 553 561	mutation
+T10	DNA_Mutation 563 575	IVS9 + 3insT
+T8	DNA_Mutation 681 689	mutation
+T1	DNA_Mutation 772 780	mutation
+T2	DNA_Mutation 1310 1318	mutation
+T3	DNA_Mutation 1651 1659	mutation
+R3	Has_Mutation Arg1:T5 Arg2:T6
+R1	Has_Mutation Arg1:T5 Arg2:T10	

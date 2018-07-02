@@ -1,0 +1,11 @@
+T4	DNA_Mutation 533 545	nonaneuploid
+T6	DNA_Mutation 873 890	DNA heterogeneity
+T7	DNA_Mutation 992 1009	DNA heterogeneity
+T8	DNA_Mutation 327 344	DNA heterogeneity
+T9	DNA_Mutation 365 377	nonaneuploid
+T1	DNA_Mutation 351 360	aneuploid
+T2	DNA_Mutation 465 474	aneuploid
+T3	DNA_Mutation 622 631	aneuploid
+T10	DNA_Mutation 22 40	DNA ploidy pattern
+T11	DNA_Mutation 79 96	DNA heterogeneity
+T5	DNA_Mutation 706 716	DNA ploidy

@@ -1,0 +1,12 @@
+T4	Gene_protein 1010 1014	BRAF
+T5	Gene_protein 314 318	BRAF
+T6	Gene_protein 320 324	KRAS
+T7	Gene_protein 326 332	PIK3CA
+T9	DNA_Mutation 1015 1023	mutation
+T10	DNA_Mutation 968 976	mutation
+T13	DNA_Mutation 293 301	Mutation
+T1	Gene_protein 338 342	EGFR
+T2	Gene_protein 380 385	Ki-67
+T3	Gene_protein 963 967	KRAS
+R2	Has_Mutation Arg1:T3 Arg2:T10
+R1	Has_Mutation Arg1:T4 Arg2:T9

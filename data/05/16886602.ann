@@ -1,0 +1,14 @@
+T4	locus 1027 1030	18q
+T5	DNA_Mutation 1065 1079	allelic losses
+T6	DNA_Mutation 1105 1117	allelic loss
+T7	DNA_Mutation 1155 1167	allelic loss
+T8	DNA_Mutation 1310 1322	allelic loss
+T9	DNA_Mutation 1192 1204	allelic loss
+T10	DNA_Mutation 1371 1383	allelic loss
+T12	DNA_Mutation 229 243	allelic losses
+T11	locus 18 58	chromosomes 17p, 18q, 22q [corrected] 3p
+T13	locus 247 279	chromosomes 17p, 18q, 22q and 3p
+T1	locus 508 528	17p, 18q, 22q and 3p
+T2	DNA_Mutation 750 764	allelic losses
+T3	locus 911 927	17p, 18q and 22q
+R1	Has_Mutation Arg1:T13 Arg2:T12

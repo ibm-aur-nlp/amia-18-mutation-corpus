@@ -1,0 +1,25 @@
+T24	Gene_protein 931 936	Egr-1
+T27	Gene_protein 833 838	Egr-1
+T26	locus 528 539	-86 to +100
+T29	Gene_protein 889 893	NGX6
+T28	Gene_protein 966 970	NGX6
+T1	Gene_protein 57 60	Sp1
+T2	Gene_protein 1023 1028	Egr-1
+T3	Gene_protein 166 208	Nasopharyngeal carcinoma-associated gene 6
+T4	Gene_protein 210 214	NGX6
+T5	Gene_protein 328 332	NGX6
+T6	Gene_protein 494 498	NGX6
+T7	Gene_protein 1090 1095	Egr-1
+T8	Gene_protein 1086 1089	Sp1
+T9	Gene_protein 712 740	Early growth response gene 1
+T10	Gene_protein 1136 1140	NGX6
+T12	Gene_protein 742 747	Egr-1
+T11	DNA_Mutation 549 557	mutation
+T14	Gene_protein 766 771	Egr-1
+T13	Gene_protein 762 765	Sp1
+T16	Gene_protein 61 66	Egr-1
+T15	Gene_protein 792 796	NGX6
+T18	Gene_protein 1039 1043	NGX6
+T17	Gene_protein 0 5	Egr-1
+T19	Gene_protein 37 41	NGX6
+R4	Component_of Arg1:T26 Arg2:T6

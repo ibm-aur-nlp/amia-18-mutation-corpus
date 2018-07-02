@@ -1,0 +1,45 @@
+T21	Protein_Mutation 1669 1673	R72P
+T20	Protein_Mutation 1383 1387	R72P
+T23	Gene_protein 642 646	TP53
+T22	Protein_Mutation 54 58	R72P
+T25	Protein_Mutation 1033 1037	R72P
+T24	Gene_protein 674 678	MDM2
+T27	DNA_Mutation 1122 1130	mutation
+T1	Gene_protein 1509 1513	MDM2
+T2	Gene_protein 1649 1653	MDM2
+T3	DNA_Mutation 1514 1520	SNP309
+T4	Gene_protein 1664 1668	TP53
+T5	DNA_Mutation 1654 1660	SNP309
+T6	Gene_protein 0 4	MDM2
+T7	DNA_Mutation 5 15	SNP309 T>G
+T8	Gene_protein 49 53	TP53
+T9	Gene_protein 550 554	MDM2
+T10	Gene_protein 559 563	TP53
+T32	Mutation 285 293	mutation
+T31	DNA_Mutation 59 71	polymorphism
+T12	DNA_Mutation 836 846	SNP309 T>G
+T34	DNA_Mutation 515 546	single nucleotide polymorphisms
+T11	Gene_protein 831 835	MDM2
+T14	Gene_protein 1004 1008	MDM2
+T13	DNA_Mutation 1009 1019	SNP309 T>G
+T35	DNA_Mutation 1691 1695	SNPs
+T38	DNA_Mutation 1029 1032	SNP
+T15	Gene_protein 1024 1028	TP53
+T18	Gene_protein 1336 1340	MDM2
+T17	DNA_Mutation 1341 1347	SNP309
+T39	DNA_Mutation 1201 1209	mutation
+T19	Gene_protein 1378 1382	TP53
+R2	Has_Mutation Arg1:T4 Arg2:T21
+R3	Has_Mutation Arg1:T11 Arg2:T12
+R4	Has_Mutation Arg1:T14 Arg2:T13
+R5	Has_Mutation Arg1:T15 Arg2:T25
+R6	Has_Mutation Arg1:T18 Arg2:T17
+R7	Has_Mutation Arg1:T19 Arg2:T20
+R8	Has_Mutation Arg1:T1 Arg2:T3
+R9	Has_Mutation Arg1:T2 Arg2:T5
+R10	Has_Mutation Arg1:T6 Arg2:T7
+R1	Has_Mutation Arg1:T8 Arg2:T22
+T16	Gene_protein 1192 1195	MMR
+T26	Gene_protein 1113 1116	MMR
+R11	Has_Mutation Arg1:T26 Arg2:T27	
+R12	Has_Mutation Arg1:T16 Arg2:T39	

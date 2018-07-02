@@ -1,0 +1,39 @@
+T21	Gene_protein 686 689	DCC
+T20	locus 1239 1253	chromosome 18q
+T22	locus 790 809	nucleotide 986-1218
+T27	DNA_modification 1355 1367	inactivation
+T1	DNA_Mutation 483 486	LOH
+T2	locus 507 521	chromosome 18q
+T3	Gene_protein 544 547	DCC
+T4	locus 664 667	18q
+T5	Gene_protein 1375 1378	DCC
+T6	Gene_protein 715 718	DCC
+T7	DNA_Mutation 1392 1395	LOH
+T8	Gene_protein 813 816	DCC
+T9	DNA_Mutation 1134 1137	LOH
+T10	locus 1130 1133	18q
+T12	DNA_Mutation 1155 1158	LOH
+T11	Gene_protein 1191 1194	DCC
+T14	DNA_Mutation 1227 1235	deletion
+T13	Gene_protein 26 29	DCC
+T16	DNA_Mutation 237 240	LOH
+T15	DNA_Mutation 213 235	loss of heterozygosity
+T18	Gene_protein 494 497	DCC
+T19	DNA_Mutation 668 671	LOH
+R3	Component_of Arg1:T22 Arg2:T8
+R4	Has_Mutation Arg1:T20 Arg2:T14
+R5	Has_Mutation Arg1:T5 Arg2:T7
+R6	Has_Mutation Arg1:T18 Arg2:T1
+R11	Component_of Arg1:T2 Arg2:T3
+R13	Has_Mutation Arg1:T10 Arg2:T9
+R15	Has_Mutation Arg1:T3 Arg2:T1
+R1	Has_Mutation Arg1:T4 Arg2:T19
+T24	DNA_Mutation 0 4	Loss
+R9	Has_Mutation Arg1:T13 Arg2:T24	
+T17	locus 245 259	chromosome 18q
+R2	Has_Mutation Arg1:T17 Arg2:T15	
+R10	Has_Mutation Arg1:T17 Arg2:T16	
+*	Alias T16 T15
+R7	Component_of Arg1:T20 Arg2:T11	
+R12	Has_Mutation Arg1:T2 Arg2:T1	
+R8	Has_Modification Arg1:T5 Arg2:T27	

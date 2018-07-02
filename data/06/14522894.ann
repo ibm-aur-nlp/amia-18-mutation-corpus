@@ -1,0 +1,44 @@
+T21	Gene_protein 971 974	BAX
+T20	Gene_protein 1071 1074	BAX
+T23	DNA_Mutation 1135 1140	MSI-H
+T22	DNA_Mutation 1871 1874	MSI
+T25	DNA_Mutation 1297 1306	mutations
+T24	DNA_Mutation 1375 1383	mutation
+T27	locus 1391 1399	poly-A10
+T26	Gene_protein 1413 1448	transforming growth factor beta-RII
+T29	DNA_Mutation 1478 1486	deletion
+T28	locus 1494 1501	poly-A8
+T1	Gene_protein 1511 1516	hMSH3
+T2	Gene_protein 1579 1582	BAX
+T3	DNA_Mutation 0 26	Microsatellite instability
+T4	DNA_Mutation 242 268	microsatellite instability
+T5	DNA_Mutation 270 273	MSI
+T6	Gene_protein 629 634	hMLH1
+T7	Gene_protein 636 641	hMSH2
+T8	Gene_protein 647 650	BAX
+T9	DNA_Mutation 691 694	MSI
+T30	DNA_Mutation 1546 1554	deletion
+T10	Gene_protein 795 803	beta-RII
+T32	DNA_Mutation 721 730	mutations
+T31	locus 1562 1569	poly-G8
+T12	Gene_protein 1652 1655	BAX
+T34	locus 1634 1641	poly-G8
+T11	Gene_protein 805 808	BAX
+T33	DNA_Mutation 1617 1626	mutations
+T14	Gene_protein 1680 1685	hMSH6
+T13	Gene_protein 821 826	hMSH6
+T35	DNA_Mutation 1740 1749	mutations
+T16	DNA_Mutation 1667 1676	mutations
+T15	Gene_protein 810 815	hMSH3
+T18	Gene_protein 888 893	hMLH1
+T17	Gene_protein 910 915	hMSH2
+T39	DNA_Mutation 1204 1209	MSI-L
+T19	Gene_protein 1690 1695	hMSH3
+R2	Has_Mutation Arg1:T28 Arg2:T29
+R3	Component_of Arg1:T31 Arg2:T2
+R4	Has_Mutation Arg1:T31 Arg2:T30
+R5	Has_Mutation Arg1:T14 Arg2:T16
+R6	Has_Mutation Arg1:T19 Arg2:T16
+R7	Component_of Arg1:T34 Arg2:T12
+R8	Has_Mutation Arg1:T34 Arg2:T33
+R1	Component_of Arg1:T28 Arg2:T1

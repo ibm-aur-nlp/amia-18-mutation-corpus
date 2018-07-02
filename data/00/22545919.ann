@@ -1,0 +1,23 @@
+T4	dbSNP 818 828	rs10504961
+T5	Gene_protein 1319 1325	COX6B1
+T6	dbSNP 1443 1453	rs10420252
+T7	dbSNP 1403 1412	rs6510502
+T8	dbSNP 1485 1494	rs6510502
+T9	DNA_Mutation 0 13	Polymorphisms
+T10	DNA_Mutation 545 576	single nucleotide polymorphisms
+T12	DNA_Mutation 745 749	SNPs
+T11	DNA_Mutation 578 582	SNPs
+T13	DNA_Mutation 1311 1315	SNPs
+T16	Gene_protein 1327 1337	complex IV
+T15	Gene_protein 790 801	complex III
+T1	locus 757 779	3' untranslated region
+T2	Gene_protein 783 788	UQCRB
+T3	dbSNP 804 813	rs7836698
+R2	Has_Mutation Arg1:T2 Arg2:T3
+R3	Has_Mutation Arg1:T2 Arg2:T4
+R4	Has_Mutation Arg1:T5 Arg2:T13
+R5	Has_Mutation Arg1:T5 Arg2:T7
+R6	Has_Mutation Arg1:T5 Arg2:T6
+R7	Has_Mutation Arg1:T5 Arg2:T8
+R8	Component_of Arg1:T1 Arg2:T2
+R1	Has_Mutation Arg1:T2 Arg2:T12

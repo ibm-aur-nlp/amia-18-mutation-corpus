@@ -1,0 +1,69 @@
+T21	Gene_protein 778 784	GADD45
+T20	Gene_protein 745 750	BRCA1
+T25	Gene_protein 708 714	GADD45
+T27	Protein_Mutation 619 634	Delta500 - 1863
+T26	Gene_protein 635 640	BRCA1
+T29	locus 888 897	promoters
+T28	locus 785 793	promoter
+T30	DNA_Mutation 1046 1052	mutant
+T32	Gene_protein 1104 1110	GADD45
+T34	Gene_protein 1164 1170	GADD45
+T33	Gene_protein 1053 1056	p53
+T36	locus 1171 1179	promoter
+T35	Gene_protein 1123 1128	BRCA1
+T38	Gene_protein 1183 1188	BRCA1
+T37	locus 1111 1119	promoter
+T39	Gene_protein 1265 1270	BRCA1
+T41	Gene_protein 1297 1303	GADD45
+T40	Gene_protein 1216 1219	p53
+T43	locus 1343 1354	-121 to -75
+T42	locus 1265 1289	BRCA1-responsive element
+T45	Gene_protein 1436 1442	GADD45
+T44	locus 1304 1312	promoter
+T47	Gene_protein 1523 1528	BRCA1
+T46	Gene_protein 1412 1417	BRCA1
+T49	locus 31 39	promoter
+T48	locus 1443 1451	promoter
+T1	Gene_protein 840 845	BRCA1
+T2	Gene_protein 872 877	c-Jun
+T3	Gene_protein 847 852	BRCA1
+T4	Gene_protein 935 940	BRCA1
+T5	Gene_protein 882 887	c-fos
+T6	Gene_protein 76 81	BRCA1
+T7	Gene_protein 207 212	BRCA1
+T8	Gene_protein 232 237	BRCA1
+T9	Gene_protein 246 252	GADD45
+T50	Gene_protein 1537 1543	GADD45
+T52	Gene_protein 1589 1595	GADD45
+T51	locus 1596 1604	promoter
+T10	Gene_protein 256 259	p53
+T54	Gene_protein 1646 1652	GADD45
+T53	Gene_protein 1672 1677	BRCA1
+T12	Gene_protein 368 374	GADD45
+T56	Protein_Mutation 561 567	p1749R
+T11	Gene_protein 339 344	BRCA1
+T55	locus 438 446	promoter
+T14	Gene_protein 24 30	GADD45
+T58	Protein_Mutation 603 609	mutant
+T13	Gene_protein 0 5	BRCA1
+T57	Protein_Mutation 572 581	Y1853insA
+T16	Gene_protein 546 551	BRCA1
+T15	Gene_protein 431 437	GADD45
+T18	Gene_protein 597 602	BRCA1
+T17	Gene_protein 503 508	BRCA1
+T19	DNA_Mutation 552 559	mutants
+R2	Has_Mutation Arg1:T16 Arg2:T56
+R3	Has_Mutation Arg1:T16 Arg2:T57
+R4	Has_Mutation Arg1:T33 Arg2:T30
+R5	Has_Mutation Arg1:T18 Arg2:T58
+R1	Has_Mutation Arg1:T16 Arg2:T19
+R6	Component_of Arg1:T49 Arg2:T14	
+R7	Component_of Arg1:T55 Arg2:T15	
+R8	Component_of Arg1:T28 Arg2:T21	
+T22	locus 715 723	promoter
+R9	Component_of Arg1:T22 Arg2:T25	
+R10	Component_of Arg1:T37 Arg2:T32	
+R11	Component_of Arg1:T36 Arg2:T34	
+R12	Component_of Arg1:T44 Arg2:T41	
+R13	Component_of Arg1:T48 Arg2:T45	
+R14	Component_of Arg1:T51 Arg2:T52	

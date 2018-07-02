@@ -1,0 +1,7 @@
+T4	Gene_protein 569 573	BRAF
+T6	locus 545 555	CpG island
+T1	DNA_Mutation 574 583	mutations
+T2	DNA_Mutation 589 615	microsatellite instability
+T3	DNA_modification 556 567	methylation
+R3	Has_Modification Arg1:T6 Arg2:T3
+R1	Has_Mutation Arg1:T4 Arg2:T1

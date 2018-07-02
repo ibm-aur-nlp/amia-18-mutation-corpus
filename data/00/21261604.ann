@@ -1,0 +1,14 @@
+T4	Gene_protein 464 468	PMS2
+T5	DNA_Mutation 469 478	mutations
+T6	DNA_Mutation 72 81	mutations
+T7	DNA_Mutation 169 178	mutations
+T8	Gene_protein 182 186	MLH1
+T9	DNA_Mutation 214 223	mutations
+T1	Gene_protein 188 192	MSH2
+T2	Gene_protein 194 198	MSH6
+T3	Gene_protein 202 206	PMS2
+R2	Has_Mutation Arg1:T2 Arg2:T7
+R3	Has_Mutation Arg1:T3 Arg2:T7
+R4	Has_Mutation Arg1:T4 Arg2:T5
+R5	Has_Mutation Arg1:T8 Arg2:T7
+R1	Has_Mutation Arg1:T1 Arg2:T7

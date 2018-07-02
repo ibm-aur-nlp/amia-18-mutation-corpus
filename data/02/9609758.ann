@@ -1,0 +1,22 @@
+T25	Gene_protein 167 193	transforming growth factor
+T24	Gene_protein 1289 1300	receptor II
+T26	Gene_protein 195 198	TGF
+T1	DNA_Mutation 327 336	Mutations
+T2	Gene_protein 382 407	type II TGF-beta receptor
+T4	Gene_protein 1084 1100	type II receptor
+T5	Gene_protein 930 946	type II receptor
+T6	Gene_protein 1416 1434	TGF-beta receptors
+T7	DNA_Mutation 1229 1237	mutation
+T8	Gene_protein 1470 1478	TGF-beta
+T9	DNA_Mutation 1408 1415	mutated
+T10	Gene_protein 14 55	transforming growth factor beta receptors
+T12	Gene_protein 317 325	TGF-beta
+T11	DNA_Mutation 159 166	mutated
+T13	Gene_protein 540 558	TGF-beta receptors
+T16	Gene_protein 167 214	transforming growth factor (TGF)-beta receptors
+R6	Has_Mutation Arg1:T6 Arg2:T9
+R1	Has_Mutation Arg1:T16 Arg2:T11
+*	Alias T26 T25
+R8	Has_Mutation Arg1:T2 Arg2:T1	
+T3	Gene_protein 753 790	type I and type II TGF-beta receptors
+R2	Has_Mutation Arg1:T24 Arg2:T7	

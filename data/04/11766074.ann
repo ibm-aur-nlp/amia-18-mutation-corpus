@@ -1,0 +1,15 @@
+T4	Gene_protein 1105 1108	APC
+T5	locus 1131 1141	codons 486
+T6	DNA_Mutation 1088 1097	mutations
+T1	locus 1143 1146	545
+T2	locus 1148 1152	1493
+T3	locus 1158 1162	1556
+R2	Has_Mutation Arg1:T2 Arg2:T6
+R3	Has_Mutation Arg1:T3 Arg2:T6
+R4	Has_Mutation Arg1:T4 Arg2:T6
+R5	Has_Mutation Arg1:T5 Arg2:T6
+R6	Component_of Arg1:T5 Arg2:T4
+R7	Component_of Arg1:T1 Arg2:T4
+R8	Component_of Arg1:T2 Arg2:T4
+R9	Component_of Arg1:T3 Arg2:T4
+R1	Has_Mutation Arg1:T1 Arg2:T6

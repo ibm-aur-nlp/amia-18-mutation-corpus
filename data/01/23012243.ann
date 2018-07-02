@@ -1,0 +1,66 @@
+T40	locus 732 734	3'
+T21	DNA_Mutation 1204 1213	deletions
+T43	DNA_Mutation 283 291	deletion
+T20	DNA_Mutation 336 345	deletions
+T23	Gene_protein 366 370	PMS2
+T22	locus 1172 1183	Exons 14-15
+T44	DNA_Mutation 292 303	duplication
+T25	DNA_Mutation 350 362	duplications
+T24	locus 1230 1237	Exon 13
+T46	locus 493 501	3' exons
+T27	Gene_protein 469 475	PMS2CL
+T26	locus 1217 1228	Exons 12-15
+T29	Gene_protein 445 449	PMS2
+T28	DNA_Mutation 1304 1313	deletions
+T1	DNA_Mutation 802 811	mutations
+T2	DNA_Mutation 653 662	deletions
+T3	Gene_protein 797 801	PMS2
+T4	DNA_Mutation 735 744	deletions
+T5	Gene_protein 975 979	MLH1
+T6	Gene_protein 913 917	PMS2
+T7	DNA_Mutation 1044 1053	deletions
+T8	DNA_Mutation 1129 1138	deletions
+T9	Gene_protein 1074 1078	PMS2
+T30	locus 1243 1250	Exon 14
+T10	DNA_Mutation 41 50	deletions
+T32	DNA_Mutation 1445 1453	mutation
+T31	DNA_Mutation 591 600	deletions
+T12	Gene_protein 77 81	PMS2
+T34	Gene_protein 1440 1444	PMS2
+T11	locus 61 69	3' Exons
+T33	Gene_protein 604 608	PMS2
+T14	Gene_protein 172 176	MLH1
+T36	locus 609 620	Exons 12-15
+T13	DNA_Mutation 124 133	mutations
+T35	locus 503 514	Exons 12-15
+T16	Gene_protein 184 188	MSH6
+T38	locus 403 413	Exons 1-11
+T15	Gene_protein 178 182	MSH2
+T37	DNA_Mutation 1503 1512	mutations
+T18	DNA_Mutation 208 216	mutation
+T17	Gene_protein 193 197	PMS2
+T39	locus 1061 1070	3' region
+T19	locus 1142 1153	Exons 13-15
+R21	Has_Mutation Arg1:T40 Arg2:T4
+R20	Has_Mutation Arg1:T33 Arg2:T31
+R22	Has_Mutation Arg1:T36 Arg2:T31
+R26	Has_Mutation Arg1:T9 Arg2:T7
+R1	Has_Mutation Arg1:T11 Arg2:T10
+R2	Has_Mutation Arg1:T23 Arg2:T25
+R3	Has_Mutation Arg1:T23 Arg2:T20
+R4	Component_of Arg1:T38 Arg2:T23
+R5	Component_of Arg1:T35 Arg2:T29
+R6	Component_of Arg1:T36 Arg2:T33
+R7	Has_Mutation Arg1:T3 Arg2:T1
+R8	Has_Mutation Arg1:T39 Arg2:T7
+R9	Component_of Arg1:T39 Arg2:T9
+R10	Has_Mutation Arg1:T22 Arg2:T8
+R12	Has_Mutation Arg1:T24 Arg2:T21
+R11	Has_Mutation Arg1:T19 Arg2:T8
+R14	Has_Mutation Arg1:T34 Arg2:T32
+R13	Has_Mutation Arg1:T26 Arg2:T21
+R16	Component_of Arg1:T11 Arg2:T12
+R15	Has_Mutation Arg1:T30 Arg2:T21
+R18	Has_Mutation Arg1:T38 Arg2:T25
+R17	Has_Mutation Arg1:T12 Arg2:T10
+R19	Has_Mutation Arg1:T38 Arg2:T20

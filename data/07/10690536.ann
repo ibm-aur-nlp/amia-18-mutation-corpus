@@ -1,0 +1,77 @@
+T21	DNA_Mutation 357 366	mutations
+T20	DNA_Mutation 317 343	microsatellite instability
+T23	Gene_protein 453 465	TGF-beta RII
+T22	DNA_Mutation 1682 1692	ACG to ACA
+T25	locus 1698 1701	340
+T24	DNA_Mutation 1703 1713	CAT to CAC
+T27	Gene_protein 501 513	TGF-beta RII
+T26	DNA_Mutation 1785 1793	deletion
+T29	Gene_protein 674 679	hMSH6
+T28	locus 1747 1753	exon 4
+T30	DNA_Mutation 608 628	frameshift mutations
+T32	DNA_Mutation 815 823	mutation
+T31	DNA_Mutation 1846 1859	polymorphisms
+T34	Gene_protein 908 920	TGF-beta RII
+T33	DNA_Mutation 1950 1962	polymorphism
+T36	locus 1966 1975	codon 389
+T35	DNA_Mutation 892 900	mutation
+T37	DNA_Mutation 2685 2693	mutation
+T41	DNA_Mutation 179 188	mutations
+T43	DNA_Mutation 394 403	deletions
+T42	DNA_Mutation 381 390	additions
+T45	locus 1879 1888	codon 389
+T44	DNA_Mutation 538 557	genomic instability
+T47	DNA_Mutation 1890 1900	AAC to AAT
+T46	DNA_Mutation 737 756	genomic instability
+T48	Gene_protein 1035 1047	TGF-beta RII
+T1	DNA_Mutation 2427 2435	mutation
+T2	DNA_Mutation 2274 2286	polymorphism
+T3	Gene_protein 1202 1214	TGF-beta RII
+T4	Gene_protein 2601 2613	TGF-beta RII
+T5	DNA_Mutation 1107 1115	mutation
+T6	Gene_protein 2443 2455	TGF-beta RII
+T7	Gene_protein 1424 1436	TGF-beta RII
+T8	DNA_Mutation 1328 1337	mutations
+T9	DNA_Mutation 2644 2663	genomic instability
+T50	DNA_Mutation 1601 1609	mutation
+T51	locus 1722 1735	kinase domain
+T10	DNA_Mutation 1572 1588	silent mutations
+T54	locus 1807 1840	6 bases from the 3' end of intron
+T12	DNA_Mutation 2707 2719	polymorphism
+T11	locus 2723 2732	codon 389
+T14	DNA_Mutation 2734 2744	AAC to AAT
+T13	DNA_Mutation 1615 1628	polymorphisms
+T16	DNA_Mutation 1650 1666	silent mutations
+T15	locus 1670 1680	codons 309
+T18	Gene_protein 196 244	transforming growth factor beta receptor type II
+T17	Gene_protein 27 75	transforming growth factor beta receptor type II
+T19	Gene_protein 246 258	TGF-beta RII
+R21	Has_Mutation Arg1:T51 Arg2:T24
+R23	Has_Mutation Arg1:T28 Arg2:T24
+R22	Has_Mutation Arg1:T51 Arg2:T22
+R24	Has_Mutation Arg1:T28 Arg2:T22
+R1	Has_Mutation Arg1:T18 Arg2:T41
+R2	Has_Mutation Arg1:T18 Arg2:T20
+R3	Has_Mutation Arg1:T23 Arg2:T43
+R4	Has_Mutation Arg1:T23 Arg2:T42
+R5	Has_Mutation Arg1:T23 Arg2:T21
+R6	Has_Mutation Arg1:T29 Arg2:T30
+R7	Has_Mutation Arg1:T34 Arg2:T35
+R8	Has_Mutation Arg1:T3 Arg2:T5
+R9	Has_Mutation Arg1:T15 Arg2:T22
+R10	Has_Mutation Arg1:T11 Arg2:T12
+R12	Has_Mutation Arg1:T15 Arg2:T16
+R11	Has_Mutation Arg1:T25 Arg2:T24
+R14	Has_Mutation Arg1:T28 Arg2:T16
+R13	Has_Mutation Arg1:T45 Arg2:T31
+R16	Has_Mutation Arg1:T45 Arg2:T47
+R15	Has_Mutation Arg1:T36 Arg2:T33
+R18	Has_Mutation Arg1:T6 Arg2:T1
+R17	Has_Mutation Arg1:T4 Arg2:T9
+R19	Has_Mutation Arg1:T11 Arg2:T14
+T38	DNA_Mutation 1540 1560	pathogenic mutations
+T39	locus 1590 1600	introgenic
+R20	Has_Mutation Arg1:T39 Arg2:T50	
+R25	Has_Mutation Arg1:T54 Arg2:T26	
+T40	locus 1913 1944	fourth-to-last base in intron 3
+R26	Has_Mutation Arg1:T40 Arg2:T31	

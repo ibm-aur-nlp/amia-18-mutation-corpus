@@ -1,0 +1,53 @@
+T21	Gene_protein 1488 1492	BRAF
+T20	DNA_Mutation 239 248	mutations
+T23	DNA_Mutation 440 449	mutations
+T22	Gene_protein 409 414	K-ras
+T25	Gene_protein 686 689	p53
+T24	Gene_protein 435 439	BRAF
+T27	Gene_protein 691 696	K-ras
+T26	Gene_protein 702 706	BRAF
+T29	Gene_protein 1472 1475	p53
+T28	DNA_Mutation 673 682	mutations
+T1	Gene_protein 911 916	K-ras
+T2	Gene_protein 906 909	p53
+T3	DNA_Mutation 893 902	mutations
+T4	Gene_protein 922 926	BRAF
+T5	DNA_Mutation 1087 1096	mutations
+T6	Gene_protein 1083 1086	p53
+T7	Gene_protein 1238 1242	BRAF
+T8	Gene_protein 1229 1234	K-ras
+T9	DNA_Mutation 1459 1468	mutations
+T30	DNA_Mutation 1575 1584	mutations
+T10	Gene_protein 21 24	p53
+T32	DNA_Mutation 601 610	mutations
+T31	DNA_Mutation 0 8	Mutation
+T12	Gene_protein 37 41	BRAF
+T34	DNA_modification 420 430	activation
+T11	Gene_protein 26 31	K-ras
+T14	Gene_protein 101 104	APC
+T13	DNA_Mutation 88 97	mutations
+T16	Gene_protein 117 120	p53
+T15	Gene_protein 106 111	K-ras
+T18	Gene_protein 235 238	p53
+T17	Gene_protein 225 230	K-ras
+T19	Gene_protein 1477 1482	K-ras
+R2	Has_Mutation Arg1:T14 Arg2:T13
+R3	Has_Mutation Arg1:T15 Arg2:T13
+R4	Has_Mutation Arg1:T16 Arg2:T13
+R5	Has_Mutation Arg1:T10 Arg2:T31
+R6	Has_Mutation Arg1:T11 Arg2:T31
+R7	Has_Mutation Arg1:T12 Arg2:T31
+R8	Has_Mutation Arg1:T24 Arg2:T23
+R9	Has_Mutation Arg1:T25 Arg2:T28
+R10	Has_Mutation Arg1:T26 Arg2:T28
+R20	Has_Modification Arg1:T22 Arg2:T34
+R12	Has_Mutation Arg1:T1 Arg2:T3
+R11	Has_Mutation Arg1:T27 Arg2:T28
+R14	Has_Mutation Arg1:T6 Arg2:T5
+R13	Has_Mutation Arg1:T2 Arg2:T3
+R16	Has_Mutation Arg1:T19 Arg2:T9
+R15	Has_Mutation Arg1:T4 Arg2:T3
+R18	Has_Mutation Arg1:T21 Arg2:T9
+R17	Has_Mutation Arg1:T29 Arg2:T9
+R19	Has_Mutation Arg1:T18 Arg2:T20
+R1	Has_Mutation Arg1:T17 Arg2:T20

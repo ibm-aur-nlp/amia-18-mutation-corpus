@@ -1,0 +1,14 @@
+Cost-effectiveness of surveillance programs for families at high and moderate risk of hereditary non-polyposis colorectal cancer.
+
+
+## OBJECTIVES
+Surveillance programs are recommended to both families at high risk (Amsterdam-positive families with known- and unknown mutation) and moderate risk (families not fulfilling all Amsterdam criteria) of colorectal cancer (CRC). Cost-effectiveness has so far only been estimated for the group at high risk. The aim of the present study is to determine cost-effectiveness of surveillance programs where families at both high and moderate risk of HNPCC participate.
+
+## METHODS
+A decision analytic model (Markov model) is developed to assess surveillance programs where families at high and moderate risk of HNPCC are offered surveillance from age 25 and age 45, respectively. The model includes costs for all families referred to genetic counseling, including genetic risk assessment, mutation analysis, and surveillance in relevant families with or without known mutation, plus the costs related to any surgical treatment. The risk of metachronous CRC is also modeled.
+
+## RESULTS
+Incremental costs per life year gained are estimated to be euro 980 when families at both high and moderate risk of HNPCC undergo surveillance (euro 508 for high risk and euro 1600 for moderate risk) and euro 1947 when the moderate risk group is evaluated genetically but not offered surveillance. Sensitivity analysis showed these findings to be robust, although cost-effectiveness can be improved in cases of more conservative referrals to genetic counseling.
+
+## CONCLUSIONS
+The result for high risk families confirms the findings in similar studies. Somewhat surprisingly, cost-effectiveness improves when surveillance of the moderate risk groups are included in the decision model.

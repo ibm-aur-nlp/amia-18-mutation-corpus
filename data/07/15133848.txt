@@ -1,0 +1,14 @@
+Loss of heterozygosity on chromosome 1 in sporadic colorectal carcinoma.
+
+
+## AIM
+Loss of heterozygosity (LOH) on tumor suppressor genes is believed to play a key role in carcinogenesis of colorectal cancer. When it occurs at a tumor suppressor gene locus with abnormal allele, neoplastic transformation happens. In this study, we analyzed the LOH at 21 loci on chromosome 1 in sporadic colorectal cancer to identify additional loci involved in colorectal tumorigenesis.
+
+## METHODS
+Twenty-one polymorphic micro-satellite DNA markers were analyzed with PCR both in 83 cases of colorectal cancer and in normal tissues. PCR products were eletrophoresed on an ABI 377 DNA sequencer. Genescan 3.1 and Genotype 2.1 software were used for LOH scanning and analysis. chi2 test was used to compare LOH frequency with clinicopathological data. P<0.05 was considered as statistically significant.
+
+## RESULTS
+The average LOH frequency of chromosome 1, short arm and long arm was 19.83%, 18.00% and 21.66%, respectively. The 2 highest LOH loci with a frequency of 36.54% and 32.50% were identified on D1S468 (1p36.33-p36.31) and D1S413 (1q31.3), respectively. On D1S2726 locus, LOH frequency of rectal cancer was 28.57% (6/21), which was higher than that of colon cancer (0.00%, 0/33) (P=0.002), suggesting that the mechanism of carcinogenesis was different in both groups.
+
+## CONCLUSION
+Putative tumor suppressor genes on chromosome 1 may relate to sporadic colorectal carcinomas. Tumor-suppressor-genes might locate on 1p36.33-36.31 and/or 1q31.3.

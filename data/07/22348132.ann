@@ -1,0 +1,28 @@
+T20	RNA 1849 1857	miR-1303
+T23	RNA_Mutation 624 627	MSI
+T22	RNA_Mutation 219 222	MSI
+T25	RNA_Mutation 1723 1726	MSI
+T24	RNA_Mutation 674 685	instability
+T27	RNA_Mutation 1298 1301	MSI
+T29	RNA_Mutation 1880 1883	MSI
+T28	RNA_Mutation 1502 1505	MSI
+T1	RNA_Mutation 204 207	MSI
+T2	RNA_Mutation 159 170	instability
+T5	RNA_Mutation 923 931	mutation
+T6	RNA_Mutation 979 988	mutations
+T7	RNA_Mutation 1045 1048	MSI
+T8	RNA_Mutation 1129 1138	mutations
+T30	locus 178 192	microsatellite
+T12	RNA 1193 1206	hsa-mir-1273c
+T11	RNA 1208 1220	hsa-mir-1303
+T14	RNA 1225 1236	hsa-mir-567
+T13	RNA_Mutation 1285 1294	mutations
+T15	RNA 1357 1369	hsa-mir-1303
+T18	RNA_Mutation 1447 1458	alterations
+T19	RNA_Mutation 39 65	microsatellite instability
+R2	Has_Mutation Arg1:T11 Arg2:T13
+R3	Has_Mutation Arg1:T12 Arg2:T13
+R4	Has_Mutation Arg1:T15 Arg2:T18
+R6	Has_Mutation Arg1:T30 Arg2:T2
+R1	Has_Mutation Arg1:T14 Arg2:T13
+*	Alias T1 T19

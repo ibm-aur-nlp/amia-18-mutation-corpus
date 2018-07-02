@@ -1,0 +1,14 @@
+Noninvasive testing for colorectal cancer: a review.
+
+
+## OBJECTIVES
+Colorectal cancer (CRC) is the second leading cause of cancer-related death in the United States. Endoscopic screening is now in favor and its use is increasing, but overall participation rates are poor. A substantial percentage of the population will likely continue to resist endoscopic screening. As such, a noninvasive biomarker for the early detection of CRC remains a priority. Herein, we (i) review the currently available noninvasive screening markers for the early detection of CRC, (ii) discuss newer markers that have undergone preliminary testing, and (iii) introduce and explain potentially promising markers of the future.
+
+## METHODS
+The published literature on markers for early detection of CRC was identified using a MEDLINE/PubMed search with secondary review of cited publications.
+
+## RESULTS
+Noninvasive testing for CRC is most advanced in testing for stool fecal occult blood, globin, or DNA mutations. Study of abnormal mucins has also been explored. Research for serum-based markers is just beginning and includes serum proteomics, nuclear matrix proteins, and serum DNA testing.
+
+## CONCLUSIONS
+Serial guaiac-based fecal occult blood testing (FOBT) is simple, inexpensive, and proven effective at reducing mortality from CRC. Immunochemical fecal occult blood tests facilitate compliance and offer improved specificity, but at increased cost in comparison to FOBT. Fecal DNA testing may provide enhanced sensitivity for detection of CRC in comparison with FOBT, but its high cost limits its use for generalized screening. Rectal mucin testing requires additional evaluation to determine its sensitivity and specificity in comparison with guaiac-based FOBT. Serum tests, such as proteomics, nuclear matrix proteins, and serum DNA, are still in their infancy, but remain a hope for the future.

@@ -1,0 +1,3 @@
+Cancer genetics in oncology practice.
+
+Cancer is a genetic disease caused by the progressive accumulation of mutations in critical genes that control cell growth and differentiation. Completion of the Human Genome Project promises to revolutionize the practice of Medicine, especially Oncology care. The tremendous gains in the knowledge of the structure and function of human genes will surely impact the diagnosis, prognosis and treatment of cancer. Moreover, it will lead to more effective cancer control through the use of genetics to quantify individual cancer risks. This article reviews the current status of genetic testing and counseling for cancer risk assessment and will suggest a framework for integrating such counseling into oncology practice.

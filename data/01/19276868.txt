@@ -1,0 +1,14 @@
+Identification and characterization of a novel anticancer agent with selectivity against deleted in pancreatic cancer locus 4 (DPC4)-deficient pancreatic and colon cancer cells.
+
+
+## OBJECTIVES
+The deleted in pancreatic cancer locus 4 (DPC4)/SMAD4 tumor suppressor gene is frequently inactivated in pancreatic (approximately 55%) and colorectal cancers (approximately 30%). Like other tumor suppressor genes, the loss-of-function mutations found in the DPC4 gene are specific to cancer cells. This provides an attractive and unique opportunity for therapeutic intervention. The aim of this study was to identify and characterize small molecules that selectively kill DPC4-deficient cancer cells.
+
+## METHODS
+An unbiased chemical screening using isogenic cell lines that only differ in the DPC4 gene was carried out to identify positive hits. Selected hits were further verified in additional isogenic cell lines and characterized in cancer cells using several different cellular assays.
+
+## RESULTS
+A lead molecule, UA62784, was identified to be selectively cytotoxic against cancer cells with deficient DPC4. UA62784 preferentially induces cell cycle arrest and apoptosis in cells with deficient DPC4. It also selectively reduces the clonogenicity of DPC4-deficient cells on soft agar when compared with cells with wild type DPC4. We further demonstrate that UA62784 induces CDC2 kinase activity preferentially in DPC4-negative cells.
+
+## CONCLUSIONS
+UA62784 is a small molecule that selectively kills DPC4-deficient cancer cells. Its potent activity and relatively low molecular weight make it a decent candidate for further lead optimization.

@@ -1,0 +1,88 @@
+T61	Gene_protein 10 36	adenomatous polyposis coli
+T21	DNA_Mutation 94 103	mutations
+T65	Mutation 1141 1149	mutation
+T20	locus 2096 2099	759
+T64	DNA_Mutation 1076 1085	mutations
+T23	Gene_protein 142 145	APC
+T22	locus 127 134	exon 15
+T25	Gene_protein 424 427	APC
+T24	Gene_protein 396 422	adenomatous polyposis coli
+T27	Gene_protein 1104 1107	APC
+T26	locus 1089 1096	exon 15
+T29	locus 1222 1229	exon 15
+T28	locus 1161 1172	codons 1061
+T30	locus 1177 1181	1309
+T32	locus 1301 1308	exon 15
+T31	DNA_Mutation 1348 1358	variations
+T34	DNA_Mutation 1431 1440	mutations
+T33	locus 1444 1451	exon 15
+T35	Gene_protein 1455 1458	APC
+T37	DNA_Mutation 1470 1486	deletion mutants
+T41	DNA_Mutation 1632 1650	insertion mutation
+T45	DNA_Mutation 1711 1717	C to T
+T44	DNA_Mutation 1722 1728	C to A
+T47	Mutation 716 724	mutation
+T46	Mutation 363 371	mutation
+T48	Mutation 939 947	mutation
+T1	locus 1524 1528	1309
+T2	locus 1508 1519	codons 1061
+T3	locus 1549 1559	codons 759
+T4	locus 1616 1625	codon 712
+T5	locus 1674 1684	codon 1554
+T6	locus 1761 1764	935
+T7	locus 1746 1756	codons 737
+T8	DNA_Mutation 1904 1913	mutations
+T9	DNA_Mutation 1885 1894	mutations
+T52	DNA_Mutation 1495 1504	deletions
+T10	DNA_Mutation 1946 1955	mutations
+T54	DNA_Mutation 1571 1579	deletion
+T53	DNA_Mutation 1537 1545	deletion
+T12	locus 1959 1969	codons 935
+T11	locus 1971 1975	1061
+T55	DNA_Mutation 1603 1612	insertion
+T14	locus 1977 1981	1309
+T58	DNA_Mutation 1729 1742	substitutions
+T13	locus 1986 1990	1554
+T57	DNA_Mutation 1661 1670	insertion
+T16	DNA_Mutation 1995 2004	mutations
+T15	Gene_protein 2012 2015	APC
+T59	DNA_Mutation 1694 1709	point mutations
+T18	DNA_Mutation 2071 2080	mutations
+T17	locus 2084 2094	codons 712
+T19	locus 2104 2107	767
+R40	Has_Mutation Arg1:T5 Arg2:T57
+R21	Has_Mutation Arg1:T23 Arg2:T21
+R20	Has_Mutation Arg1:T22 Arg2:T21
+R23	Component_of Arg1:T26 Arg2:T27
+R22	Component_of Arg1:T22 Arg2:T23
+R25	Has_Mutation Arg1:T27 Arg2:T64
+R24	Has_Mutation Arg1:T26 Arg2:T64
+R27	Has_Mutation Arg1:T30 Arg2:T65
+R26	Has_Mutation Arg1:T28 Arg2:T65
+R29	Has_Mutation Arg1:T15 Arg2:T18
+R28	Has_Mutation Arg1:T29 Arg2:T65
+R1	Has_Mutation Arg1:T33 Arg2:T34
+R7	Has_Mutation Arg1:T7 Arg2:T45
+R8	Has_Mutation Arg1:T6 Arg2:T44
+R9	Component_of Arg1:T33 Arg2:T35
+R30	Has_Mutation Arg1:T32 Arg2:T31
+R10	Has_Mutation Arg1:T6 Arg2:T58
+R32	Component_of Arg1:T17 Arg2:T15
+R31	Component_of Arg1:T20 Arg2:T15
+R12	Has_Mutation Arg1:T11 Arg2:T10
+R34	Has_Mutation Arg1:T2 Arg2:T52
+R11	Has_Mutation Arg1:T7 Arg2:T58
+R33	Component_of Arg1:T19 Arg2:T15
+R14	Has_Mutation Arg1:T13 Arg2:T10
+R36	Has_Mutation Arg1:T3 Arg2:T53
+R13	Has_Mutation Arg1:T12 Arg2:T10
+R35	Has_Mutation Arg1:T35 Arg2:T34
+R16	Has_Mutation Arg1:T17 Arg2:T18
+R38	Has_Mutation Arg1:T4 Arg2:T54
+R15	Has_Mutation Arg1:T14 Arg2:T10
+R18	Has_Mutation Arg1:T19 Arg2:T18
+R17	Has_Mutation Arg1:T15 Arg2:T16
+R39	Has_Mutation Arg1:T4 Arg2:T55
+R19	Has_Mutation Arg1:T20 Arg2:T18
+*	Alias T23 T61
+R5	Has_Mutation Arg1:T1 Arg2:T52	

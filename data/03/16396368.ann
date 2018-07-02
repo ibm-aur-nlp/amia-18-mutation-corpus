@@ -1,0 +1,7 @@
+T4	DNA_Mutation 213 239	microsatellite instability
+T5	DNA_Mutation 257 266	mutations
+T6	DNA_Mutation 241 244	MSI
+T1	DNA_Mutation 374 377	MSI
+T2	DNA_Mutation 438 441	MSI
+T3	DNA_Mutation 584 587	MSI
+*	Alias T6 T4

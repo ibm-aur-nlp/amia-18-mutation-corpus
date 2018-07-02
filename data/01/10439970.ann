@@ -1,0 +1,17 @@
+T4	DNA_Mutation 1007 1016	mutations
+T5	locus 843 849	exon 4
+T6	Gene_protein 712 715	APC
+T10	locus 677 701	long arm of chromosome 5
+T7	Gene_protein 720 724	FBN2
+T9	locus 822 839	donor splice site
+T11	DNA_Mutation 656 669	rearrangement
+T1	Gene_protein 796 799	APC
+T2	Gene_protein 1003 1006	APC
+T3	DNA_Mutation 780 788	mutation
+R2	Has_Mutation Arg1:T5 Arg2:T3
+R3	Component_of Arg1:T5 Arg2:T1
+R4	Has_Mutation Arg1:T6 Arg2:T11
+R5	Has_Mutation Arg1:T7 Arg2:T11
+R6	Has_Mutation Arg1:T2 Arg2:T4
+R7	Has_Mutation Arg1:T10 Arg2:T11
+R1	Has_Mutation Arg1:T1 Arg2:T3

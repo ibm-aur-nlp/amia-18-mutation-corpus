@@ -1,0 +1,14 @@
+T4	Gene_protein 807 812	GREM1
+T5	Gene_protein 853 856	BCR
+T6	DNA_Mutation 883 892	deletions
+T7	DNA_Mutation 1004 1008	CNVs
+T8	DNA_Mutation 576 579	SNP
+T20	DNA_Mutation 383 404	microsatellite-stable
+T12	RNA 955 963	KIAA1797
+T14	RNA 980 988	AK309218
+T16	DNA_Mutation 41 61	copy number variants
+T15	RNA 968 979	hsa-mir-646
+T1	DNA_Mutation 650 670	copy number variants
+T2	DNA_Mutation 672 676	CNVs
+T3	Gene_protein 746 751	CDH18
+T9	RNA 943 954	hsa-mir-491

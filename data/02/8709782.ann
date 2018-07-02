@@ -1,0 +1,12 @@
+T4	locus 1515 1525	codon 1250
+T5	DNA_Mutation 1549 1558	mutations
+T6	DNA_Mutation 1024 1032	mutation
+T7	DNA_Mutation 822 830	mutation
+T8	DNA_Mutation 983 991	mutation
+T10	DNA_Mutation 1272 1281	mutations
+T14	Gene_protein 513 522	polyposis
+T13	DNA_Mutation 497 505	mutation
+T1	locus 1048 1058	codon 1250
+T2	locus 1302 1312	codon 1250
+T3	DNA_Mutation 1498 1507	mutations
+R1	Has_Mutation Arg1:T14 Arg2:T13

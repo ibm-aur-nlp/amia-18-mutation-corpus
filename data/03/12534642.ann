@@ -1,0 +1,71 @@
+T37	Gene_protein 1716 1722	CYP1A2
+T39	DNA_Mutation 234 238	SNPs
+T41	Gene_protein 1776 1782	CYP1A2
+T40	Gene_protein 247 273	cytochrome P450 enzyme 1A2
+T43	DNA_Mutation 1783 1796	polymorphisms
+T45	DNA_Mutation 1870 1883	-2464T-->delT
+T44	DNA_Mutation 547 557	-3858G-->A
+T47	DNA_Mutation 578 591	-2464T-->delT
+T46	DNA_Mutation 1855 1864	CYP1A2*1F
+T49	DNA_Mutation 566 575	CYP1A2*1C
+T48	Gene_protein 1945 1951	CYP1A2
+T1	Gene_protein 280 286	CYP1A2
+T2	DNA_Mutation 201 232	single nucleotide polymorphisms
+T3	Gene_protein 526 532	CYP1A2
+T4	DNA_Mutation 533 546	polymorphisms
+T5	Gene_protein 858 864	CYP1A2
+T6	Gene_protein 21 43	cytochrome P450 CYP1A2
+T7	Gene_protein 50 56	CYP1A2
+T8	DNA_Mutation 0 13	Polymorphisms
+T50	DNA_Mutation 1885 1894	CYP1A2*1D
+T52	Gene_protein 2058 2064	CYP1A2
+T51	DNA_Mutation 605 614	-740T-->G
+T10	DNA_Mutation 702 728	CYP1A2*1B, *1G, *1H and *3
+T54	Gene_protein 1975 1981	CYP1A2
+T53	DNA_Mutation 593 602	CYP1A2*1D
+T12	Gene_protein 965 971	CYP1A2
+T56	DNA_Mutation 616 633	CYP1A2*1E and *1G
+T11	DNA_Mutation 683 692	1545T-->C
+T55	DNA_Mutation 636 645	-164A-->C
+T14	DNA_Mutation 972 976	SNPs
+T58	DNA_Mutation 647 656	CYP1A2*1F
+T13	DNA_Mutation 982 991	1545T-->C
+T57	DNA_Mutation 659 666	63C-->G
+T16	DNA_Mutation 1023 1032	-164A-->C
+T15	DNA_Mutation 1034 1043	CYP1A2*1F
+T59	DNA_Mutation 668 676	CYP1A2*2
+T18	DNA_Mutation 1056 1069	-2464T-->delT
+T17	DNA_Mutation 1071 1080	CYP1A2*1D
+T19	DNA_Mutation 1094 1098	SNPs
+R3	Has_Mutation Arg1:T3 Arg2:T4
+R4	Has_Mutation Arg1:T6 Arg2:T8
+R5	Has_Mutation Arg1:T12 Arg2:T13
+R6	Has_Mutation Arg1:T41 Arg2:T43
+R7	Has_Mutation Arg1:T40 Arg2:T39
+R1	Has_Mutation Arg1:T7 Arg2:T8
+*	Alias T39 T2
+*	Alias T1 T40
+R2	Has_Mutation Arg1:T3 Arg2:T44	
+R8	Has_Mutation Arg1:T3 Arg2:T47	
+R9	Has_Mutation Arg1:T3 Arg2:T51	
+R10	Has_Mutation Arg1:T3 Arg2:T55	
+R11	Has_Mutation Arg1:T3 Arg2:T57	
+R12	Has_Mutation Arg1:T3 Arg2:T11	
+*	Alias T49 T44
+*	Alias T53 T47
+*	Alias T56 T51
+*	Alias T58 T55
+*	Alias T59 T57
+*	Alias T10 T11
+*	Alias T15 T16
+R13	Has_Mutation Arg1:T12 Arg2:T16	
+*	Alias T17 T18
+R14	Has_Mutation Arg1:T12 Arg2:T18	
+T9	DNA_Mutation 1181 1216	-3858G/-2464T/-740T/-164A/63C/1545T
+T20	DNA_Mutation 1226 1261	-3858G/-2464T/-740T/-164C/63C/1545C
+T21	DNA_Mutation 1275 1313	-3858G/-2464delT/-740T/-164A/63C/1545C
+*	Alias T50 T45
+R16	Has_Mutation Arg1:T48 Arg2:T45	
+T22	DNA_Mutation 1844 1853	-164A-->C
+*	Alias T22 T46
+R15	Has_Mutation Arg1:T48 Arg2:T22	

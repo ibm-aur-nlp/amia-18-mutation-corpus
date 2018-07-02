@@ -1,0 +1,50 @@
+T21	Gene_protein 782 786	BRAF
+T20	DNA_Mutation 787 795	mutation
+T23	DNA_Mutation 917 920	MSI
+T22	Gene_protein 976 980	BRAF
+T1	Gene_protein 1030 1034	BRAF
+T2	DNA_Mutation 1336 1339	MSI
+T3	DNA_Mutation 1035 1042	mutated
+T4	DNA_Mutation 1493 1502	mutations
+T5	Gene_protein 1488 1492	BRAF
+T6	Gene_protein 1691 1695	BRAF
+T7	Gene_protein 1596 1600	BRAF
+T8	Gene_protein 0 4	BRAF
+T9	DNA_Mutation 5 13	mutation
+T30	Protein_Mutation 992 999	p.V600E
+T10	Gene_protein 132 136	BRAF
+T32	Mutation 1001 1009	mutation
+T31	DNA_Mutation 981 990	c.1799T>A
+T12	DNA_Mutation 227 253	microsatellite instability
+T34	DNA_Mutation 469 478	c.1799T>A
+T11	DNA_Mutation 137 146	mutations
+T33	DNA_Mutation 1170 1173	MSI
+T14	Gene_protein 346 350	BRAF
+T36	DNA_Mutation 1696 1705	c.1799T>A
+T13	DNA_Mutation 255 258	MSI
+T35	Protein_Mutation 1707 1714	p.V600E
+T16	Gene_protein 464 468	BRAF
+T38	Protein_Mutation 480 487	p.V600E
+T15	DNA_Mutation 351 359	mutation
+T37	Mutation 489 497	mutation
+T18	DNA_Mutation 669 672	MSI
+T17	Gene_protein 651 655	BRAF
+T39	Mutation 1716 1724	mutation
+T19	DNA_Mutation 656 664	mutation
+R2	Has_Mutation Arg1:T14 Arg2:T15
+R5	Has_Mutation Arg1:T17 Arg2:T19
+R6	Has_Mutation Arg1:T21 Arg2:T20
+R9	Has_Mutation Arg1:T1 Arg2:T3
+R21	Has_Mutation Arg1:T6 Arg2:T36
+R20	Has_Mutation Arg1:T6 Arg2:T35
+R11	Has_Mutation Arg1:T5 Arg2:T4
+R22	Has_Mutation Arg1:T6 Arg2:T39
+R14	Has_Mutation Arg1:T16 Arg2:T34
+R13	Has_Mutation Arg1:T8 Arg2:T9
+R16	Has_Mutation Arg1:T16 Arg2:T37
+R15	Has_Mutation Arg1:T16 Arg2:T38
+R18	Has_Mutation Arg1:T22 Arg2:T30
+R17	Has_Mutation Arg1:T22 Arg2:T31
+R19	Has_Mutation Arg1:T22 Arg2:T32
+R1	Has_Mutation Arg1:T10 Arg2:T11
+*	Alias T13 T12

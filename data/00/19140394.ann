@@ -1,0 +1,17 @@
+T4	DNA_Mutation 981 990	mutations
+T5	Gene_protein 82 87	BCL-2
+T6	Gene_protein 270 275	BCL-2
+T7	Gene_protein 411 416	BCL-2
+T8	DNA_Mutation 1098 1107	mutations
+T9	locus 1001 1016	codons 38 to 41
+T10	DNA_Mutation 1141 1150	insertion
+T12	DNA_Mutation 1123 1131	deletion
+T11	locus 1020 1027	exone 3
+T1	Gene_protein 575 578	BCL
+T2	Gene_protein 734 737	BAX
+T3	Gene_protein 972 975	BAX
+R2	Has_Mutation Arg1:T11 Arg2:T4
+R3	Has_Mutation Arg1:T3 Arg2:T4
+R1	Has_Mutation Arg1:T9 Arg2:T4
+R4	Component_of Arg1:T11 Arg2:T3	
+R5	Component_of Arg1:T9 Arg2:T3	

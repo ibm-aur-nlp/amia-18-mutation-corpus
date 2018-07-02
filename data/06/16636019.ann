@@ -1,0 +1,31 @@
+T21	DNA_Mutation 1145 1148	MSI
+T20	DNA_Mutation 1086 1095	mutations
+T23	DNA_Mutation 1213 1221	mutation
+T22	Gene_protein 1127 1131	MSH6
+T25	DNA_Mutation 1893 1896	MSI
+T24	DNA_Mutation 1741 1749	mutation
+T1	DNA_Mutation 1308 1316	mutation
+T2	DNA_Mutation 1265 1268	MSI
+T3	DNA_Mutation 1592 1601	mutations
+T4	DNA_Mutation 1981 1989	mutation
+T5	DNA_Mutation 39 48	mutations
+T6	DNA_Mutation 427 436	mutations
+T7	DNA_Mutation 486 512	microsatellite instability
+T8	DNA_Mutation 514 517	MSI
+T9	DNA_Mutation 606 614	mutation
+T10	DNA_Mutation 781 789	mutation
+T12	Gene_protein 808 812	MSH2
+T11	Gene_protein 802 806	MLH1
+T14	DNA_Mutation 937 940	MSI
+T13	Gene_protein 817 821	MSH6
+T16	Gene_protein 1007 1011	MLH1
+T15	Gene_protein 1013 1017	MSH2
+T18	Gene_protein 1022 1026	MSH6
+T17	Gene_protein 1102 1106	MLH1
+T19	Gene_protein 1113 1117	MSH2
+R2	Has_Mutation Arg1:T13 Arg2:T10
+R3	Has_Mutation Arg1:T17 Arg2:T20
+R4	Has_Mutation Arg1:T19 Arg2:T20
+R5	Has_Mutation Arg1:T22 Arg2:T20
+R6	Has_Mutation Arg1:T11 Arg2:T10
+R1	Has_Mutation Arg1:T12 Arg2:T10

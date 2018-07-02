@@ -1,0 +1,23 @@
+T21	DNA_Mutation 349 357	c.494A4G
+T20	Protein_Mutation 358 369	p.Tyr165Cys
+T23	Protein_Mutation 384 395	p.Gly382Asp
+T22	DNA_Mutation 1337 1345	variants
+T25	Gene_protein 605 610	MUTYH
+T24	DNA_Mutation 374 383	c.1145G4A
+T27	DNA_Mutation 766 773	variant
+T26	DNA_Mutation 449 457	variants
+T29	Gene_protein 796 810	NM_001128425.1
+T28	Gene_protein 701 706	MUTYH
+T1	DNA_Mutation 159 167	variants
+T2	Gene_protein 38 43	MUTYH
+T3	Gene_protein 55 60	MUTYH
+T4	Gene_protein 153 158	MUTYH
+T30	Gene_protein 76 91	DNA glycosylase
+T14	DNA_Mutation 290 298	c.536A4G
+T13	DNA_Mutation 254 262	variants
+T16	DNA_Mutation 315 324	c.1187G4A
+T15	Protein_Mutation 299 310	p.Tyr179Cys
+T18	DNA_Mutation 1232 1240	variants
+T17	Protein_Mutation 325 336	p.Gly396Asp
+T19	DNA_Mutation 1140 1148	variants
+R1	Has_Mutation Arg1:T4 Arg2:T1

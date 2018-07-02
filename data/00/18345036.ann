@@ -1,0 +1,36 @@
+T21	Gene_protein 1201 1206	actin
+T20	Gene_protein 1237 1241	Cdk2
+T23	Gene_protein 402 407	actin
+T22	Gene_protein 430 435	actin
+T25	Gene_protein 487 490	p21
+T24	Gene_protein 1290 1293	p53
+T27	Gene_protein 529 533	Cdc2
+T26	Gene_protein 479 482	p53
+T29	Gene_protein 560 563	p21
+T28	Gene_protein 520 524	Cdk2
+T1	Gene_protein 627 631	Cdc2
+T2	Gene_protein 618 622	Cdk2
+T3	Gene_protein 694 697	p53
+T4	Gene_protein 673 678	actin
+T5	Gene_protein 815 823	Bcl-x(L)
+T6	Gene_protein 702 705	p21
+T7	Gene_protein 1100 1103	Bim
+T8	Gene_protein 1015 1019	Cdk2
+T9	Gene_protein 16 20	Cdk2
+T30	Gene_protein 552 555	p53
+T10	Gene_protein 28 31	Bim
+T32	Gene_protein 964 968	Cdk2
+T31	Gene_protein 594 597	p21
+T12	Gene_protein 85 90	actin
+T34	DNA_modification 0 12	Deregulation
+T11	Gene_protein 54 57	p53
+T33	DNA_Mutation 938 962	dominant negative mutant
+T14	Gene_protein 162 167	actin
+T13	Gene_protein 128 133	actin
+T16	Gene_protein 248 251	p53
+T15	Gene_protein 222 225	Bim
+T18	Gene_protein 1168 1171	Bim
+T17	Gene_protein 340 343	Bim
+T19	Gene_protein 366 369	p53
+R2	Has_Modification Arg1:T9 Arg2:T34
+R1	Has_Mutation Arg1:T32 Arg2:T33

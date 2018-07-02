@@ -1,0 +1,29 @@
+T21	Gene_protein 61 77	tumor suppressor
+T20	Mutation 2345 2352	defects
+T22	DNA_Mutation 83 90	defects
+T24	Gene_protein 429 432	ras
+T1	locus 1658 1671	chromosome 18
+T2	locus 2064 2077	chromosome 18
+T3	locus 1747 1759	chromosome 5
+T4	locus 2249 2262	chromosome 18
+T5	locus 2173 2185	chromosome 5
+T6	locus 179 189	chromosome
+T7	DNA_Mutation 456 464	deletion
+T30	DNA_Mutation 542 557	chromosome loss
+T32	Mutation 597 613	loss of function
+T31	DNA_Mutation 585 593	deletion
+T12	Gene_protein 716 719	MCC
+T34	locus 1612 1637	chromosomes 15, 5, and 18
+T11	Gene_protein 727 730	APC
+T33	locus 1268 1293	chromosomes 5, 17, and 18
+T14	Gene_protein 732 735	p53
+T36	Mutation 324 340	loss of function
+T13	Gene_protein 741 744	DCC
+T35	DNA_Mutation 190 198	transfer
+T16	locus 1470 1483	chromosome 17
+T15	locus 1361 1374	chromosome 15
+R6	Has_Mutation Arg1:T21 Arg2:T22
+R1	Has_Mutation Arg1:T6 Arg2:T35	
+T8	locus 507 535	chromosomes 5q, 17p, and 18q
+R2	Has_Mutation Arg1:T8 Arg2:T7	
+T9	Mutation 2488 2494	defect

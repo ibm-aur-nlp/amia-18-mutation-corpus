@@ -1,0 +1,54 @@
+T21	Gene_protein 2029 2034	hMSH2
+T20	DNA_Mutation 959 985	microsatellite instability
+T23	DNA_Mutation 1073 1082	mutations
+T22	Gene_protein 2019 2024	hMLH1
+T25	Gene_protein 2067 2070	p53
+T24	Gene_protein 1090 1093	p53
+T27	DNA_Mutation 2137 2146	mutations
+T26	DNA_Mutation 1104 1113	mutations
+T29	Gene_protein 2133 2136	p53
+T28	Gene_protein 1100 1103	p53
+T1	DNA_Mutation 1530 1539	mutations
+T2	Gene_protein 1526 1529	p53
+T3	DNA_Mutation 1593 1602	mutations
+T4	Gene_protein 1589 1592	p53
+T5	Gene_protein 1737 1742	hMLH1
+T6	DNA_Mutation 1638 1664	microsatellite instability
+T7	DNA_Mutation 1720 1729	Mutations
+T8	Gene_protein 1747 1752	hMSH2
+T9	DNA_Mutation 1862 1888	Microsatellite instability
+T30	DNA_Mutation 1215 1224	mutations
+T10	DNA_Mutation 0 26	Microsatellite instability
+T32	DNA_Mutation 1345 1371	microsatellite instability
+T31	Gene_protein 1211 1214	p53
+T12	DNA_Mutation 35 44	mutations
+T34	DNA_Mutation 1495 1521	microsatellite instability
+T11	Gene_protein 31 34	p53
+T33	DNA_Mutation 1229 1255	microsatellite instability
+T14	locus 778 787	exons 5-8
+T13	Gene_protein 661 664	p53
+T35	DNA_Mutation 1818 1844	microsatellite instability
+T16	locus 865 878	chromosome 18
+T38	DNA_Mutation 2102 2128	microsatellite instability
+T15	DNA_Mutation 789 815	Microsatellite instability
+T18	Gene_protein 916 921	hMSH2
+T17	Gene_protein 906 911	hMLH1
+T19	DNA_Mutation 2002 2011	mutations
+R2	Has_Mutation Arg1:T16 Arg2:T15
+R3	Has_Mutation Arg1:T18 Arg2:T20
+R4	Has_Mutation Arg1:T17 Arg2:T20
+R5	Has_Mutation Arg1:T24 Arg2:T23
+R6	Has_Mutation Arg1:T28 Arg2:T26
+R7	Has_Mutation Arg1:T31 Arg2:T30
+R8	Has_Mutation Arg1:T31 Arg2:T33
+R9	Has_Mutation Arg1:T2 Arg2:T1
+R10	Has_Mutation Arg1:T5 Arg2:T7
+R12	Has_Mutation Arg1:T22 Arg2:T19
+R11	Has_Mutation Arg1:T4 Arg2:T3
+R14	Has_Mutation Arg1:T25 Arg2:T19
+R13	Has_Mutation Arg1:T8 Arg2:T7
+R16	Has_Mutation Arg1:T29 Arg2:T27
+R15	Has_Mutation Arg1:T21 Arg2:T19
+R17	Has_Mutation Arg1:T11 Arg2:T12
+R1	Component_of Arg1:T14 Arg2:T13
+T39	DNA_Mutation 322 341	genetic alterations

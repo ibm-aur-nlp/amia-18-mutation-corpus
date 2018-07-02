@@ -1,0 +1,32 @@
+T21	DNA_Mutation 1261 1270	mutations
+T20	Mutation 452 461	mutations
+T23	DNA_Mutation 1407 1416	Mutations
+T22	Mutation 527 536	mutations
+T25	Protein_Mutation 1152 1172	Glu35_Leu36delinsVal
+T27	Mutation 341 350	mutations
+T26	Mutation 14 23	mutations
+T1	Gene_protein 364 391	mediator complex subunit 12
+T2	Gene_protein 393 398	MED12
+T3	Gene_protein 439 444	MED12
+T4	locus 445 451	exon 2
+T5	Gene_protein 514 519	MED12
+T6	locus 520 526	exon 2
+T7	Protein_Mutation 1125 1133	Gly44Ser
+T8	Protein_Mutation 1135 1150	Ala38_Leu39ins7
+T9	Protein_Mutation 1214 1222	Ala67Val
+T10	Protein_Mutation 1204 1212	Gly44Cys
+T12	Gene_protein 1248 1253	MED12
+T11	locus 1254 1260	exon 2
+T14	Gene_protein 1446 1451	MED12
+T13	Gene_protein 8 13	MED12
+T15	locus 354 360	exon 2
+T17	DNA_Mutation 1046 1065	somatic alterations
+R2	Component_of Arg1:T6 Arg2:T5
+R3	Component_of Arg1:T11 Arg2:T12
+R4	Component_of Arg1:T4 Arg2:T3
+R5	Has_Mutation Arg1:T15 Arg2:T27
+R6	Has_Mutation Arg1:T4 Arg2:T20
+R7	Has_Mutation Arg1:T6 Arg2:T22
+R8	Has_Mutation Arg1:T11 Arg2:T21
+R9	Has_Mutation Arg1:T14 Arg2:T23
+R1	Component_of Arg1:T15 Arg2:T1

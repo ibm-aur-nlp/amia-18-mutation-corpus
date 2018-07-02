@@ -1,0 +1,19 @@
+T4	Gene_protein 1055 1063	beclin-1
+T5	Gene_protein 949 957	beclin-1
+T6	Gene_protein 1328 1336	beclin-1
+T7	Gene_protein 1229 1237	beclin-1
+T8	Gene_protein 1601 1609	beclin-1
+T9	Gene_protein 1453 1461	beclin-1
+T10	Gene_protein 14 22	beclin-1
+T12	DNA_Mutation 299 307	mutation
+T11	Gene_protein 160 168	Beclin-1
+T14	DNA_Mutation 439 447	mutation
+T13	Gene_protein 346 354	beclin-1
+T16	DNA_Mutation 235 252	haploinsufficient
+T1	Gene_protein 455 463	beclin-1
+T19	Gene_protein 540 548	beclin-1
+T2	Gene_protein 709 717	beclin-1
+T3	Gene_protein 899 907	beclin-1
+R2	Has_Mutation Arg1:T1 Arg2:T14
+R3	Has_Mutation Arg1:T11 Arg2:T16
+R1	Has_Mutation Arg1:T13 Arg2:T12

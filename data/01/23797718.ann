@@ -1,0 +1,66 @@
+T27	Protein_Mutation 1821 1826	V600E
+T29	Protein_Mutation 1944 1949	V600E
+T28	Gene_protein 1817 1821	BRAF
+T30	Gene_protein 1940 1944	BRAF
+T32	Gene_protein 969 973	BRAF
+T31	Protein_Mutation 973 978	V600E
+T34	Gene_protein 1358 1362	BRAF
+T33	Mutation 1950 1956	mutant
+T36	Gene_protein 0 4	BRAF
+T35	Protein_Mutation 1362 1367	V600E
+T38	Gene_protein 106 110	BRAF
+T37	Protein_Mutation 4 9	V600E
+T39	Protein_Mutation 110 115	V600E
+T41	DNA_Mutation 128 151	microsatellite-unstable
+T40	Mutation 116 124	mutation
+T43	Protein_Mutation 400 405	V600E
+T42	Gene_protein 396 400	BRAF
+T45	DNA_Mutation 1484 1487	MSI
+T44	Gene_protein 454 458	BRAF
+T47	DNA_Mutation 1509 1512	MSI
+T46	Protein_Mutation 458 463	V600E
+T49	DNA_Mutation 1579 1582	MSI
+T48	Protein_Mutation 686 691	V600E
+T1	Gene_protein 1601 1605	BRAF
+T2	Gene_protein 1504 1508	BRAF
+T3	Gene_protein 1713 1717	MLH1
+T4	Gene_protein 821 825	BRAF
+T5	Gene_protein 889 893	MLH1
+T6	locus 894 902	promoter
+T7	Gene_protein 929 933	MLH1
+T8	DNA_modification 903 914	methylation
+T9	DNA_Mutation 934 942	mutation
+T50	Gene_protein 682 686	BRAF
+T52	Mutation 826 834	mutation
+T51	Gene_protein 1574 1578	BRAF
+T10	Gene_protein 1114 1118	BRAF
+T54	DNA_Mutation 153 156	MSI
+T53	Gene_protein 1662 1666	BRAF
+T12	Gene_protein 1432 1436	BRAF
+T56	Protein_Mutation 1666 1671	V600E
+T11	Gene_protein 1460 1464	BRAF
+T55	DNA_Mutation 883 886	MSI
+T13	Gene_protein 1479 1483	BRAF
+T16	Mutation 1718 1726	mutation
+R2	Component_of Arg1:T6 Arg2:T5
+R4	Has_Mutation Arg1:T38 Arg2:T39
+R7	Has_Mutation Arg1:T42 Arg2:T43
+R8	Has_Mutation Arg1:T44 Arg2:T46
+R9	Has_Mutation Arg1:T50 Arg2:T48
+R21	Has_Mutation Arg1:T51 Arg2:T49
+R20	Has_Mutation Arg1:T53 Arg2:T56
+R12	Has_Mutation Arg1:T7 Arg2:T9
+R23	Has_Mutation Arg1:T36 Arg2:T37
+R11	Has_Modification Arg1:T5 Arg2:T8
+R14	Has_Mutation Arg1:T28 Arg2:T27
+R13	Has_Mutation Arg1:T30 Arg2:T29
+R16	Has_Mutation Arg1:T34 Arg2:T35
+R15	Has_Mutation Arg1:T30 Arg2:T33
+R18	Has_Mutation Arg1:T2 Arg2:T47
+R17	Has_Mutation Arg1:T32 Arg2:T31
+R19	Has_Mutation Arg1:T13 Arg2:T45
+R1	Has_Modification Arg1:T6 Arg2:T8
+R5	Has_Mutation Arg1:T38 Arg2:T40	
+R3	Has_Mutation Arg1:T4 Arg2:T52	
+*	Alias T54 T41
+R6	Has_Mutation Arg1:T3 Arg2:T16	

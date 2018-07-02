@@ -1,0 +1,23 @@
+T4	Gene_protein 985 988	p53
+T5	Gene_protein 1812 1815	p53
+T6	Mutation 30 37	mutated
+T7	Gene_protein 38 41	p53
+T8	Gene_protein 132 135	p53
+T9	DNA_Mutation 228 237	mutations
+T10	Mutation 1764 1771	mutated
+T21	Gene_protein 1726 1733	pAb 240
+T20	Gene_protein 1183 1190	pAb 240
+T11	Gene_protein 681 684	p53
+T22	Gene_protein 1531 1538	pAb 240
+T14	Gene_protein 595 599	1801
+T13	Gene_protein 586 593	pAb 421
+T16	Gene_protein 1050 1053	240
+T15	Gene_protein 601 604	240
+T18	Gene_protein 1038 1045	pAb 421
+T17	Gene_protein 1111 1119	pAb 1801
+T1	Gene_protein 245 248	p53
+T19	Gene_protein 1282 1289	pAb 240
+T2	Gene_protein 447 450	p53
+T3	Gene_protein 481 484	p53
+R2	Has_Mutation Arg1:T7 Arg2:T6
+R1	Has_Mutation Arg1:T1 Arg2:T9	

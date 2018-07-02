@@ -1,0 +1,17 @@
+Summary of microsatellite instability test results from laboratories participating in proficiency surveys: proficiency survey results from 2005 to 2012.
+
+
+## CONTEXT
+The College of American Pathologists surveys are the largest laboratory peer comparison programs in the world. These programs allow laboratories to regularly evaluate their performance and improve the accuracy of the patient test results they provide. Proficiency testing is offered twice a year to laboratories performing microsatellite instability testing. These surveys are designed to emulate clinical practice, and some surveys have more challenging cases to encourage the refinement of laboratory practices.
+
+## OBJECTIVE
+This report summarizes the results and trends in microsatellite instability proficiency testing from participating laboratories from the inception of the program in 2005 through 2012.
+
+## DESIGN
+We compiled and analyzed data for 16 surveys of microsatellite instability proficiency testing during 2005 to 2012.
+
+## RESULTS
+The number of laboratories participating in the microsatellite instability survey has more than doubled from 42 to 104 during the 8 years analyzed. An average of 95.4% of the laboratories correctly classified each of the survey test samples from the 2005A through 2012B proficiency challenges. In the 2011B survey, a lower percentage of laboratories (78.4%) correctly classified the specimen, possibly because of overlooking subtle changes of microsatellite instability and/or failing to enrich the tumor content of the specimen to meet the limit of detection of their assay.
+
+## CONCLUSIONS
+In general, laboratories performed well in microsatellite instability testing. This testing will continue to be important in screening patients with colorectal and other cancers for Lynch syndrome and guiding the management of patients with sporadic colorectal cancer.

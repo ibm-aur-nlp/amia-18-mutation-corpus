@@ -1,0 +1,41 @@
+T21	Gene_protein 1056 1062	PIK3CA
+T20	DNA_Mutation 930 936	mutant
+T27	DNA_Mutation 580 589	mutations
+T26	Protein_Mutation 519 528	mutations
+T1	Gene_protein 1212 1218	PIK3CA
+T2	Gene_protein 1370 1376	PIK3CA
+T3	Gene_protein 1321 1327	PIK3CA
+T4	Gene_protein 1416 1422	PIK3CA
+T5	Gene_protein 1534 1540	PIK3CA
+T6	Gene_protein 1654 1660	PIK3CA
+T7	Gene_protein 62 68	PIK3CA
+T8	DNA_Mutation 69 78	mutations
+T9	Gene_protein 127 133	PIK3CA
+T30	DNA_Mutation 1072 1081	mutations
+T10	DNA_Mutation 134 143	mutations
+T32	DNA_Mutation 1522 1530	mutation
+T31	DNA_Mutation 1377 1386	mutations
+T12	Gene_protein 278 284	PIK3CA
+T34	DNA_Mutation 6 12	mutant
+T11	DNA_Mutation 256 264	mutation
+T33	DNA_Mutation 1661 1670	mutations
+T14	Protein_Mutation 538 543	E545K
+T36	DNA_Mutation 870 878	mutation
+T13	Protein_Mutation 530 536	H1047R
+T16	Gene_protein 558 564	PIK3CA
+T15	Protein_Mutation 548 553	E452K
+T37	DNA_Mutation 896 904	mutation
+T18	Gene_protein 593 599	PIK3CA
+T17	DNA_Mutation 653 662	mutations
+T19	Protein_Mutation 854 860	H1047R
+R3	Has_Mutation Arg1:T12 Arg2:T11
+R4	Has_Mutation Arg1:T16 Arg2:T15
+R5	Has_Mutation Arg1:T16 Arg2:T14
+R7	Has_Mutation Arg1:T16 Arg2:T13
+R8	Has_Mutation Arg1:T16 Arg2:T26
+R12	Has_Mutation Arg1:T5 Arg2:T32
+R11	Has_Mutation Arg1:T7 Arg2:T8
+R14	Has_Mutation Arg1:T6 Arg2:T33
+R16	Has_Mutation Arg1:T2 Arg2:T31
+R15	Has_Mutation Arg1:T21 Arg2:T30
+R1	Has_Mutation Arg1:T9 Arg2:T10

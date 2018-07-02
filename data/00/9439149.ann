@@ -1,0 +1,15 @@
+T4	locus 773 779	D2S119
+T5	locus 781 788	D3S1067
+T6	locus 790 795	D6S87
+T7	locus 804 811	D11S905
+T8	DNA_Mutation 0 26	Microsatellite instability
+T11	DNA_Mutation 192 200	mutation
+T1	DNA_Mutation 710 736	microsatellite instability
+T2	locus 766 771	D2S71
+T3	locus 797 802	D8S87
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+R2	Has_Mutation Arg1:T4 Arg2:T1	
+R3	Has_Mutation Arg1:T5 Arg2:T1	
+R4	Has_Mutation Arg1:T6 Arg2:T1	
+R5	Has_Mutation Arg1:T3 Arg2:T1	
+R6	Has_Mutation Arg1:T7 Arg2:T1	

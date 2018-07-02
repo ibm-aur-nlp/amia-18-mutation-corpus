@@ -1,0 +1,12 @@
+T4	locus 974 988	microsatellite
+T5	DNA_Mutation 743 770	single base-base mismatches
+T6	DNA_Mutation 929 940	transitions
+T10	DNA_Mutation 206 217	alterations
+T7	DNA_Mutation 945 958	transversions
+T8	DNA_Mutation 989 1000	alterations
+T9	DNA_Mutation 0 15	Hypermutability
+T11	locus 221 245	microsatellite sequences
+T1	DNA_Mutation 400 408	mutation
+T2	DNA_Mutation 671 700	microsatellite heteroduplexes
+T3	DNA_Mutation 717 731	heteroduplexes
+R1	Has_Mutation Arg1:T4 Arg2:T8

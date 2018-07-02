@@ -1,0 +1,45 @@
+T21	locus 1475 1478	cFS
+T20	DNA_Mutation 1177 1199	copy number alteration
+T23	DNA_Mutation 1662 1669	t(8;14)
+T22	locus 1670 1677	q11;q32
+T25	DNA_Mutation 260 266	losses
+T24	DNA_Mutation 159 178	genomic aberrations
+T27	DNA_Mutation 292 297	gains
+T26	locus 270 287	chromosome arm 8p
+T29	Gene_protein 1617 1643	immunoglobulin heavy chain
+T28	locus 301 318	chromosome arm 8q
+T1	locus 19 24	FRA8I
+T2	locus 416 428	chromosome 8
+T3	locus 770 775	FRA8I
+T4	locus 796 803	8q11.21
+T5	locus 862 867	FRA8I
+T6	Gene_protein 956 961	CEBPD
+T7	Gene_protein 880 888	KIAA0146
+T8	locus 1073 1078	FRA8I
+T9	Gene_protein 974 979	PRKDC
+T10	Gene_protein 1450 1458	KIAA0146
+T32	DNA_Mutation 1679 1693	translocations
+T31	DNA_Mutation 1821 1844	chromosomal instability
+T12	Gene_protein 1574 1582	KIAA0146
+T34	locus 579 599	common fragile sites
+T11	locus 1216 1221	FRA8I
+T33	locus 393 404	centromeric
+T14	Gene_protein 1892 1900	KIAA0146
+T36	locus 601 605	cFSs
+T13	Gene_protein 83 91	KIAA0146
+T35	DNA_Mutation 468 487	Genomic alterations
+T16	Gene_protein 103 108	PRKDC
+T15	Gene_protein 93 98	CEBPD
+R2	Component_of Arg1:T1 Arg2:T16
+R10	Has_Mutation Arg1:T26 Arg2:T25
+R3	Component_of Arg1:T5 Arg2:T7
+R4	Component_of Arg1:T5 Arg2:T6
+R5	Component_of Arg1:T5 Arg2:T9
+R7	Component_of Arg1:T1 Arg2:T13
+R8	Has_Mutation Arg1:T28 Arg2:T27
+R9	Has_Mutation Arg1:T22 Arg2:T23
+R1	Component_of Arg1:T1 Arg2:T15
+*	Alias T36 T34
+R6	Has_Mutation Arg1:T29 Arg2:T23	
+R11	Has_Mutation Arg1:T12 Arg2:T23	
+T17	locus 608 612	CFSs

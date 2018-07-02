@@ -1,0 +1,35 @@
+T4	Gene_protein 563 565	TS
+T5	DNA_Mutation 1499 1511	polymorphism
+T6	DNA_Mutation 1469 1481	polymorphism
+T7	DNA_Mutation 575 587	polymorphism
+T8	Gene_protein 1552 1557	MTHFR
+T9	locus 566 574	promoter
+T10	Gene_protein 1515 1550	methylenetetrahydrofolate reductase
+T21	DNA_Mutation 0 12	Polymorphism
+T20	locus 284 292	promoter
+T12	Gene_protein 730 732	TS
+T23	Gene_protein 20 40	thymidylate synthase
+T11	Gene_protein 865 867	TS
+T22	locus 41 58	promoter enhancer
+T14	locus 868 876	promoter
+T13	DNA_Mutation 877 889	polymorphism
+T24	DNA_Mutation 1490 1498	677C > T
+T16	Gene_protein 934 936	TS
+T15	Gene_protein 1457 1459	TS
+T18	locus 1460 1468	promoter
+T17	Gene_protein 100 120	Thymidylate synthase
+T1	DNA_Mutation 293 305	polymorphism
+T19	Gene_protein 122 124	TS
+T2	Gene_protein 309 311	TS
+T3	Gene_protein 418 420	TS
+R2	Has_Mutation Arg1:T10 Arg2:T5
+R10	Component_of Arg1:T20 Arg2:T2
+R3	Has_Mutation Arg1:T22 Arg2:T21
+R4	Component_of Arg1:T9 Arg2:T4
+R5	Has_Mutation Arg1:T9 Arg2:T7
+R11	Has_Mutation Arg1:T10 Arg2:T24
+R6	Component_of Arg1:T14 Arg2:T11
+R7	Has_Mutation Arg1:T14 Arg2:T13
+R8	Component_of Arg1:T18 Arg2:T15
+R9	Has_Mutation Arg1:T18 Arg2:T6
+R1	Has_Mutation Arg1:T20 Arg2:T1

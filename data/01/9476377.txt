@@ -1,0 +1,11 @@
+[Familial adenomatous polyposis coli in the Czech population. I. Detection of an additional 3 mutations out of a total of 7 in exon 15 of the APC gene].
+
+
+## BACKGROUND
+Familial adenomatous polyposis (FAP) is an autosomal dominant inherited disease characterized by multiple adenomatous polyps in the colon which progress to carcinoma. FAP is caused by germ-line mutation of the tumor-suppressor adenomatous polyposis coli (APC) gene, the structure and coding sequence of which have been known from 1991. The diagnosis of FAP has classically been based on the detection of multiple colorectal adenomas, often after carcinoma development. Presymptomatic genetic testing for the presence of an allele carrying the FAP mutation is now possible using a variety of techniques.
+
+## METHODS AND RESULTS
+The present paper is the first part of an analysis of 37 different Czech families with 83 members affected by FAP. Our goal is to identify the mutation characteristic for each family for early diagnosis of FAP. We screened clinically manifest representatives of nine families for mutations in exon 15 of the APC gene. First, we searched for the mutation hot spots (codons 1061 and 1309, respectively) and later for the entire exon 15. Denatured gradient gel electrophoresis (DGGE) of amplified regions ov exon 15 has been used to identify DNA sequence variations followed by sequencing verification. In seven patients, seven different mutations in exon 15 of APC gene, four deletion mutants (5-base deletions in codons 1061 and 1309, 1-base deletion in codons 759 and 7-base deletion combined with a 2-base insertion in codon 712), one insertion mutation (1-base/A/insertion in codon 1554) and two point mutations (C to T and C to A substitutions in codons 737 and 935, respectively, in both cases leading to formation of stop codons) have been found.
+
+## CONCLUSIONS
+From seven different mutations found, 4 mutations have been previously described (mutations in codons 935, 1061, 1309 and 1554), 3 mutations in the APC gene are described here for the first time, namely the mutations in codons 712, 759 and 767.

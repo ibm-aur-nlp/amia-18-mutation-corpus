@@ -1,0 +1,29 @@
+T4	Gene_protein 1048 1077	methionine synthase reductase
+T5	Gene_protein 1079 1083	MTRR
+T6	Protein_Mutation 1085 1094	Arg415Cys
+T7	Gene_protein 1099 1103	MTRR
+T8	Gene_protein 1450 1454	BHMT
+T9	Protein_Mutation 1104 1113	Ser284Thr
+T10	Protein_Mutation 1456 1465	Arg239Gln
+T21	DNA_Mutation 1645 1649	SNPs
+T20	DNA_Mutation 12 40	non-synonymous polymorphisms
+T12	DNA_modification 301 312	methylation
+T23	DNA_Mutation 440 446	nsSNPs
+T11	Gene_protein 1410 1448	betaine-homocysteine methyltransferase
+T22	DNA_Mutation 392 438	non-synonymous single nucleotide polymorphisms
+T16	Gene_protein 744 758	transcobalamin
+T15	DNA_Mutation 615 619	SNPs
+T18	Protein_Mutation 768 797	259 Pro/Arg + Arg/Arg variant
+T17	Gene_protein 760 763	TCN
+T1	Gene_protein 879 885	TCN II
+T19	DNA_Mutation 1720 1733	polymorphisms
+T2	Protein_Mutation 886 895	Pro259Arg
+T3	Gene_protein 920 923	TCN
+R2	Has_Mutation Arg1:T7 Arg2:T9
+R3	Has_Mutation Arg1:T11 Arg2:T10
+R4	Has_Mutation Arg1:T1 Arg2:T2
+R5	Has_Mutation Arg1:T17 Arg2:T18
+R6	Has_Mutation Arg1:T5 Arg2:T6
+R7	Has_Mutation Arg1:T8 Arg2:T10
+R1	Has_Mutation Arg1:T4 Arg2:T6
+*	Alias T16 T17

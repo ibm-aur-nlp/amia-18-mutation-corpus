@@ -1,0 +1,21 @@
+T4	Gene_protein 453 457	DPC4
+T5	Gene_protein 667 671	DPC4
+T6	Gene_protein 789 793	DPC4
+T7	Gene_protein 1104 1108	DPC4
+T8	Gene_protein 1252 1256	DPC4
+T9	Gene_protein 1197 1201	DPC4
+T10	Gene_protein 1376 1380	CDC2
+T20	Gene_protein 198 234	deleted in pancreatic cancer locus 4
+T12	Gene_protein 1503 1507	DPC4
+T11	Gene_protein 1326 1330	DPC4
+T14	Gene_protein 127 131	DPC4
+T13	Gene_protein 1415 1419	DPC4
+T18	DNA_modification 284 295	inactivated
+T17	DNA_Mutation 413 439	loss-of-function mutations
+T1	Gene_protein 236 240	DPC4
+T19	Gene_protein 89 125	deleted in pancreatic cancer locus 4
+T2	Gene_protein 242 247	SMAD4
+R2	Has_Modification Arg1:T2 Arg2:T18
+R3	Has_Modification Arg1:T1 Arg2:T18
+R4	Has_Mutation Arg1:T4 Arg2:T17
+R5	Has_Modification Arg1:T20 Arg2:T18

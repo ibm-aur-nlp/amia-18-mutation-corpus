@@ -1,0 +1,32 @@
+T4	DNA_Mutation 979 987	mutation
+T5	Gene_protein 790 796	Ki-ras
+T6	DNA_Mutation 797 806	mutations
+T7	Gene_protein 1040 1046	Ki-ras
+T8	DNA_Mutation 1348 1357	mutations
+T9	Gene_protein 1341 1347	Ki-ras
+T10	Gene_protein 1101 1107	Ki-ras
+T20	Gene_protein 656 659	p53
+T12	Gene_protein 1180 1183	p53
+T11	DNA_Mutation 1047 1056	mutations
+T22	DNA_Mutation 665 678	abnormalities
+T14	Gene_protein 1217 1220	p53
+T13	DNA_Mutation 1108 1117	mutations
+T16	DNA_Mutation 1232 1241	mutations
+T15	DNA_Mutation 1184 1192	mutation
+T18	DNA_Mutation 645 654	mutations
+T17	Gene_protein 1225 1231	Ki-ras
+T1	Gene_protein 892 895	p53
+T19	Gene_protein 1333 1336	p53
+T2	DNA_Mutation 901 910	mutations
+T3	Gene_protein 975 978	p53
+R2	Has_Mutation Arg1:T9 Arg2:T8
+R10	Has_Mutation Arg1:T14 Arg2:T16
+R3	Has_Mutation Arg1:T3 Arg2:T4
+R4	Has_Mutation Arg1:T5 Arg2:T6
+R12	Has_Mutation Arg1:T20 Arg2:T22
+R5	Has_Mutation Arg1:T7 Arg2:T11
+R6	Has_Mutation Arg1:T19 Arg2:T8
+R7	Has_Mutation Arg1:T10 Arg2:T13
+R8	Has_Mutation Arg1:T12 Arg2:T15
+R9	Has_Mutation Arg1:T17 Arg2:T16
+R1	Has_Mutation Arg1:T1 Arg2:T2

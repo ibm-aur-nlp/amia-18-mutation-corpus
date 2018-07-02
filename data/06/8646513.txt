@@ -1,0 +1,14 @@
+Synchronous colon carcinomas: molecular-genetic evidence for multicentricity.
+
+
+## BACKGROUND
+The synchronous presentation of multiple colonic adenocarcinomas is an unusual, but well-recognized event accounting for approximately 2-11% of these neoplasms. Synchronous tumors may have a different biology and prognosis than solitary tumors. Evidence based on measurement of DNA ploidy suggests that a significant percentage of synchronous tumors have a common clonal origin, probably resulting from translumenal metastasis.
+
+## METHODS
+Fifteen synchronous colorectal cancers (30 tumors) were examined for histologic differences as well as genetic mutations. p53 gene abnormalities were detected by polymerase chain reaction (PCR) followed by single-strand conformation polymorphism analysis. Ki-ras mutations were detected by PCR followed by oligonucleotide-specific hybridization.
+
+## RESULTS
+p53 gene mutations were detected in 12 of 30 tumors. In only one case was the same p53 mutation present in both tumors from one patient. Similarly, Ki-ras mutations were observed in 9 of 30 tumors. Concordant Ki-ras mutations were observed in only one case, which was also concordant for p53 mutation.
+
+## CONCLUSION
+Because p53 and Ki-ras mutations tend to occur fairly early in tumor development, it seems likely that cases discordant for p53 and Ki-ras mutations represent independently developing tumor foci. Taken together, these findings strongly suggest that the great majority of synchronous colonic adenocarcinomas arise as independent neoplasms and their worsened prognosis is not a result of unusually early metastatic spread.

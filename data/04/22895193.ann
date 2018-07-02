@@ -1,0 +1,30 @@
+T20	RNA 895 922	multiple fusion transcripts
+T25	DNA_Mutation 449 458	mutations
+T27	DNA_Mutation 1328 1340	gene fusions
+T26	DNA_Mutation 1364 1373	mutations
+T29	DNA_Mutation 20 27	fusions
+T28	DNA_Mutation 1102 1111	mutations
+T1	Gene_protein 483 489	TCF7L2
+T2	Gene_protein 527 531	TET2
+T3	Gene_protein 536 540	TET3
+T4	Gene_protein 581 586	ERBB3
+T5	Gene_protein 709 712	ATM
+T6	Gene_protein 814 818	IGF2
+T7	DNA_Mutation 1253 1259	fusion
+T8	Gene_protein 1248 1252	RSPO
+T9	Gene_protein 1318 1327	R-spondin
+T30	DNA_Mutation 330 353	copy-number alterations
+T10	Gene_protein 991 996	RSPO2
+T12	Gene_protein 1056 1060	RSPO
+T11	Gene_protein 966 975	R-spondin
+T14	Gene_protein 1098 1101	APC
+T13	Gene_protein 1001 1006	RSPO3
+T16	Gene_protein 10 19	R-spondin
+T15	DNA_Mutation 1061 1068	fusions
+T17	DNA_Mutation 398 413	somatic changes
+T19	DNA_Mutation 933 955	recurrent gene fusions
+R3	Has_Mutation Arg1:T12 Arg2:T15
+R4	Has_Mutation Arg1:T14 Arg2:T28
+R5	Has_Mutation Arg1:T16 Arg2:T29
+R1	Has_Mutation Arg1:T8 Arg2:T7
+R6	Has_Mutation Arg1:T9 Arg2:T27	

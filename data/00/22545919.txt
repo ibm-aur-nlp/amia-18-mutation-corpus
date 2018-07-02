@@ -1,0 +1,14 @@
+Polymorphisms in the mitochondrial oxidative phosphorylation chain genes as prognostic markers for colorectal cancer.
+
+
+## BACKGROUND
+Currently, the TNM classification of malignant tumours based on clinicopathological staging remains the standard for colorectal cancer (CRC) prognostication. Recently, we identified the mitochondrial oxidative phosphorylation chain as a consistently overrepresented category in the published gene expression profiling (GEP) studies on CRC prognosis.
+
+## METHODS
+We evaluated associations of putative regulatory single nucleotide polymorphisms (SNPs) in genes from the oxidative phosphorylation chain with survival and disease prognosis in 613 CRC patients from Northern Germany (PopGen cohort).
+
+## RESULTS
+Two SNPs in the 3' untranslated region of UQCRB (complex III), rs7836698 and rs10504961, were associated with overall survival (HR = 0.52, 95% CI 0.32-0.85 and HR = 0.64, 95% CI 0.42-0.99, for TT carriers). These associations were restricted to the group of patients with cancer located in the colon (HR = 0.42, 95% CI 0.22-0.82 and HR = 0.46, 95% CI 0.25-0.83). Multivariate analysis indicated that both markers might act as independent prognostic markers. Additionally, the TT carriers were ~2 times more likely to develop tumours in the colon than in the rectum. Two SNPs in COX6B1 (complex IV) were associated with lymph node metastasis in a dominant model (rs6510502, OR = 1.75, 95% CI 1.20-2.57; rs10420252, OR = 1.68, 95% CI 1.11-2.53); rs6510502 was associated also with distant metastasis (OR = 1.67, 95% CI 1.09-2.56 in a dominant model).
+
+## CONCLUSIONS
+This is the first report suggesting that markers in genes from the mitochondrial oxidative chain might be prognostic factors for CRC. Additional studies replicating the presented findings are needed.

@@ -1,0 +1,22 @@
+T20	Gene_protein 170 175	Muc-1
+T26	DNA_modification 0 9	Amplified
+T1	Gene_protein 586 590	Gal4
+T2	Gene_protein 718 725	Mucin-1
+T3	Gene_protein 1219 1224	muc-1
+T4	Gene_protein 1019 1024	mucin
+T5	Gene_protein 10 14	Muc1
+T6	Gene_protein 112 119	Mucin-1
+T7	Gene_protein 176 179	DF3
+T8	Gene_protein 475 480	Muc-1
+T9	Gene_protein 481 484	DF3
+T10	Gene_protein 534 538	Gal4
+T12	Gene_protein 926 930	VP16
+T11	Gene_protein 538 542	VP16
+T14	Gene_protein 986 989	DF3
+T13	Gene_protein 922 926	Gal4
+T16	Gene_protein 1070 1075	Muc-1
+T15	Gene_protein 980 985	Muc-1
+T18	Gene_protein 1076 1079	DF3
+T17	Gene_protein 1198 1202	Gal4
+T19	Gene_protein 1202 1206	VP16
+R1	Has_Modification Arg1:T5 Arg2:T26

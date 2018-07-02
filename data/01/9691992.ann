@@ -1,0 +1,32 @@
+T21	DNA_Mutation 586 612	microsatellite instability
+T20	Gene_protein 418 430	TGF-beta RII
+T23	DNA_Mutation 1074 1100	microsatellite instability
+T22	DNA_Mutation 671 697	microsatellite alterations
+T25	DNA_Mutation 803 822	frameshift mutation
+T24	locus 1036 1045	codon 528
+T27	DNA_Mutation 891 917	microsatellite instability
+T29	Protein_Mutation 1013 1032	arginine to leucine
+T28	DNA_Mutation 992 1009	missense mutation
+T1	DNA_Mutation 311 320	mutations
+T2	DNA_Mutation 731 739	Deletion
+T3	DNA_Mutation 744 753	insertion
+T4	locus 777 789	(A)10 region
+T5	locus 973 977	1918
+T6	locus 1118 1122	1918
+T7	DNA_Mutation 1106 1114	mutation
+T8	DNA_Mutation 8 25	missense mutation
+T9	DNA_Mutation 30 50	frameshift mutations
+T30	Gene_protein 58 109	type II receptor of transforming growth factor-beta
+T13	DNA_Mutation 935 969	nucleotide substitution of T for G
+T18	DNA_Mutation 174 200	Microsatellite instability
+T17	DNA_Mutation 145 171	microsatellite instability
+T19	Gene_protein 365 416	type II receptor of transforming growth factor-beta
+R2	Has_Mutation Arg1:T5 Arg2:T13
+R10	Has_Mutation Arg1:T30 Arg2:T9
+R4	Has_Mutation Arg1:T6 Arg2:T7
+R5	Has_Mutation Arg1:T4 Arg2:T2
+R6	Has_Mutation Arg1:T30 Arg2:T8
+R8	Has_Mutation Arg1:T24 Arg2:T29
+R1	Has_Mutation Arg1:T4 Arg2:T3
+*	Alias T20 T19
+R3	Has_Mutation Arg1:T24 Arg2:T28	

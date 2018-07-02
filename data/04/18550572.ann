@@ -1,0 +1,7 @@
+T4	DNA_Mutation 984 992	mutation
+T5	Gene_protein 1294 1306	beta-catenin
+T6	DNA_modification 1491 1502	methylation
+T1	Gene_protein 1320 1324	KRAS
+T2	DNA_Mutation 1325 1334	mutations
+T3	Gene_protein 1433 1436	p53
+R1	Has_Mutation Arg1:T1 Arg2:T2

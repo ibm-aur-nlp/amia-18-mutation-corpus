@@ -1,5 +1,5 @@
-﻿Watson for Drug Discovery Mutation Annotation Guidelines
-========================================================
+﻿Mutation Annotation Guidelines
+==============================
 
 Motivation and scope
 --------------------

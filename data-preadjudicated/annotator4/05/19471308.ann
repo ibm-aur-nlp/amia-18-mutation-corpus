@@ -1,0 +1,13 @@
+T1	DNA_Mutation 42 50	variants
+T2	DNA_Mutation 115 146	single nucleotide polymorphisms
+T3	DNA_Mutation 148 152	SNPs
+*	Alias T3 T2
+T4	DNA_Mutation 226 234	variants
+T5	DNA_Mutation 283 287	SNPs
+T6	DNA_Mutation 439 443	SNPs
+T7	DNA_Mutation 643 646	SNP
+T8	DNA_Mutation 857 863	nsSNPs
+T9	DNA_Mutation 1063 1067	SNPs
+T10	dbSNP 1201 1210	rs1133950
+T11	DNA_Mutation 1269 1273	SNPs
+T12	DNA_Mutation 1333 1341	variants

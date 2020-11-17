@@ -1,0 +1,14 @@
+A large-scale meta-analysis to refine colorectal cancer risk estimates associated with MUTYH variants.
+
+
+## BACKGROUND
+defective DNA repair has a causal role in hereditary colorectal cancer (CRC). Defects in the base excision repair gene MUTYH are responsible for MUTYH-associated polyposis and CRC predisposition as an autosomal recessive trait. Numerous reports have suggested MUTYH mono-allelic variants to be low penetrance risk alleles. We report a large collaborative meta-analysis to assess and refine CRC risk estimates associated with bi-allelic and mono-allelic MUTYH variants and investigate age and sex influence on risk.
+
+## METHODS
+MUTYH genotype data were included from 20 565 cases and 15 524 controls. Three logistic regression models were tested: a crude model; adjusted for age and sex; adjusted for age, sex and study.
+
+## RESULTS
+all three models produced very similar results. MUTYH bi-allelic carriers demonstrated a 28-fold increase in risk (95% confidence interval (CI): 6.95-115). Significant bi-allelic effects were also observed for G396D and Y179C/G396D compound heterozygotes and a marginal mono-allelic effect for variant Y179C (odds ratio (OR)=1.34; 95% CI: 1.00-1.80). A pooled meta-analysis of all published and unpublished datasets submitted showed bi-allelic effects for MUTYH, G396D and Y179C (OR=10.8, 95% CI: 5.02-23.2; OR=6.47, 95% CI: 2.33-18.0; OR=3.35, 95% CI: 1.14-9.89) and marginal mono-allelic effect for variants MUTYH (OR=1.16, 95% CI: 1.00-1.34) and Y179C alone (OR=1.34, 95% CI: 1.01-1.77).
+
+## CONCLUSIONS
+overall, this large study refines estimates of disease risk associated with mono-allelic and bi-allelic MUTYH carriers.

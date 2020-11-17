@@ -1,0 +1,39 @@
+T1	Gene_protein 0 19	Fatty acid synthase
+T3	DNA_Mutation 75 101	microsatellite instability
+T4	Gene_protein 170 189	fatty acid synthase
+T5	Gene_protein 191 195	FASN
+*	Alias T5 T4
+T7	Gene_protein 348 352	FASN
+T8	DNA_Mutation 531 557	microsatellite instability
+T9	DNA_Mutation 559 564	MSI-H
+*	Alias T8 T9
+T10	DNA_Mutation 762 767	MSI-H
+T11	DNA_Mutation 863 866	MSI
+T12	Gene_protein 871 875	FASN
+T13	Gene_protein 1035 1039	FASN
+T14	DNA_Mutation 1082 1085	MSI
+T15	DNA_Mutation 1087 1091	KRAS
+T16	DNA_Mutation 1096 1100	BRAF
+T17	DNA_Mutation 1101 1110	mutations
+T18	Gene_protein 1112 1115	p53
+T19	Gene_protein 1241 1248	CACNA1G
+T20	Gene_protein 1250 1256	CDKN2A
+T21	Gene_protein 1264 1270	CRABP1
+T22	Gene_protein 1272 1276	IGF2
+T23	Gene_protein 1278 1282	MLH1
+T24	Gene_protein 1284 1291	NEUROG1
+T25	Gene_protein 1293 1298	RUNX3
+T26	Gene_protein 1304 1309	SOCS1
+T27	Gene_protein 1324 1328	FASN
+T29	DNA_Mutation 1425 1430	MSI-H
+T30	DNA_Mutation 1458 1465	MSI-low
+T31	Gene_protein 1555 1559	FASN
+T33	DNA_Mutation 1579 1584	MSI-H
+T34	Gene_protein 1650 1654	FASN
+T36	DNA_Mutation 1723 1726	MSI
+T37	Gene_protein 1735 1754	Fatty acid synthase
+T39	Gene_protein 1829 1832	p53
+T40	Gene_protein 1837 1841	KRAS
+T41	Gene_protein 1842 1846	BRAF
+T42	Gene_protein 1870 1874	FASN
+T44	DNA_Mutation 1930 1935	MSI-H

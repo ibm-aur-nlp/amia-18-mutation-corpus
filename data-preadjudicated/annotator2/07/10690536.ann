@@ -1,0 +1,69 @@
+T1	Gene_protein 27 75	transforming growth factor beta receptor type II
+T2	DNA_Mutation 0 10	Mutational
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	DNA_Mutation 179 188	mutations
+T4	Gene_protein 196 244	transforming growth factor beta receptor type II
+T5	Gene_protein 246 258	TGF-beta RII
+*	Alias T5 T4
+R2	Has_Mutation Arg1:T4 Arg2:T3	
+T6	DNA_Mutation 317 343	microsatellite instability
+R3	Has_Mutation Arg1:T4 Arg2:T6	
+T7	DNA_Mutation 357 366	mutations
+T8	DNA_Mutation 381 390	additions
+T9	DNA_Mutation 394 403	deletions
+T10	Gene_protein 453 465	TGF-beta RII
+T11	Gene_protein 501 513	TGF-beta RII
+R4	Has_Mutation Arg1:T10 Arg2:T9	
+R5	Has_Mutation Arg1:T10 Arg2:T8	
+R6	Has_Mutation Arg1:T10 Arg2:T7	
+T12	DNA_Mutation 538 557	genomic instability
+T13	DNA_Mutation 608 628	frameshift mutations
+T14	Gene_protein 674 679	hMSH6
+R7	Has_Mutation Arg1:T14 Arg2:T13	
+T15	DNA_Mutation 737 756	genomic instability
+T16	DNA_Mutation 815 823	mutation
+T17	DNA_Mutation 892 900	mutation
+T18	Gene_protein 908 920	TGF-beta RII
+R8	Has_Mutation Arg1:T18 Arg2:T17	
+T19	Gene_protein 1035 1047	TGF-beta RII
+T20	DNA_Mutation 1107 1115	mutation
+T21	Gene_protein 1202 1214	TGF-beta RII
+R9	Has_Mutation Arg1:T21 Arg2:T20	
+T22	DNA_Mutation 1328 1337	mutations
+T23	Gene_protein 1424 1436	TGF-beta RII
+T25	DNA_Mutation 1572 1588	silent mutations
+T26	DNA_Mutation 1590 1609	introgenic mutation
+T24	Mutation 1540 1560	pathogenic mutations
+T27	DNA_Mutation 1615 1628	polymorphisms
+T28	DNA_Mutation 1650 1666	silent mutations
+T29	locus 1670 1680	codons 309
+T30	DNA_Mutation 1682 1692	ACG to ACA
+R10	Has_Mutation Arg1:T29 Arg2:T30	
+R11	Has_Mutation Arg1:T29 Arg2:T28	
+T31	locus 1698 1701	340
+T32	DNA_Mutation 1703 1713	CAT to CAC
+T33	locus 1747 1753	exon 4
+R12	Has_Mutation Arg1:T31 Arg2:T32	
+R13	Has_Mutation Arg1:T33 Arg2:T28	
+T34	DNA_Mutation 1785 1793	deletion
+T35	DNA_Mutation 1846 1859	polymorphisms
+T36	locus 1879 1888	codon 389
+R14	Has_Mutation Arg1:T36 Arg2:T35	
+T37	DNA_Mutation 1890 1900	AAC to AAT
+R15	Has_Mutation Arg1:T36 Arg2:T37	
+T38	DNA_Mutation 1950 1962	polymorphism
+T39	locus 1966 1975	codon 389
+R16	Has_Mutation Arg1:T39 Arg2:T38	
+T40	DNA_Mutation 2274 2286	polymorphism
+T41	DNA_Mutation 2427 2435	mutation
+T42	Gene_protein 2443 2455	TGF-beta RII
+R17	Has_Mutation Arg1:T42 Arg2:T41	
+T43	Gene_protein 2601 2613	TGF-beta RII
+T44	DNA_Mutation 2644 2663	genomic instability
+R18	Has_Mutation Arg1:T43 Arg2:T44	
+T45	DNA_Mutation 2685 2693	mutation
+T46	DNA_Mutation 2707 2719	polymorphism
+T47	locus 2723 2732	codon 389
+T48	DNA_Mutation 2734 2744	AAC to AAT
+R19	Has_Mutation Arg1:T47 Arg2:T48	
+R20	Has_Mutation Arg1:T47 Arg2:T46	

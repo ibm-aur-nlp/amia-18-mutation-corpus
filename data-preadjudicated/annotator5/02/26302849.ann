@@ -1,0 +1,36 @@
+T1	DNA_Mutation 0 13	Polymorphisms
+T2	Gene_protein 17 22	PRLHR
+T3	Gene_protein 27 34	HSPA12A
+T4	DNA_Mutation 290 303	polymorphisms
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+R2	Has_Mutation Arg1:T3 Arg2:T1	
+T5	Gene_protein 307 325	CHCHD3P1-HSP90AB7P
+T6	Gene_protein 327 332	GRID1
+T7	Gene_protein 334 341	HSPA12A
+T8	Gene_protein 343 348	PRLHR
+T9	Gene_protein 350 354	SBF2
+T10	Gene_protein 356 361	POLD3
+T11	Gene_protein 366 383	C11orf93-C11orf92
+R3	Has_Mutation Arg1:T5 Arg2:T4	
+R4	Has_Mutation Arg1:T6 Arg2:T4	
+R5	Has_Mutation Arg1:T7 Arg2:T4	
+R6	Has_Mutation Arg1:T8 Arg2:T4	
+R7	Has_Mutation Arg1:T9 Arg2:T4	
+R8	Has_Mutation Arg1:T10 Arg2:T4	
+R9	Has_Mutation Arg1:T11 Arg2:T4	
+T12	DNA_Mutation 515 546	single nucleotide polymorphisms
+T13	DNA_Mutation 548 552	SNPs
+*	Alias T13 T12
+T14	DNA_Mutation 692 696	SNPs
+T15	dbSNP 792 802	rs12413624
+T16	Gene_protein 806 811	PRLHR
+R10	Has_Mutation Arg1:T16 Arg2:T15	
+T17	dbSNP 1076 1085	rs1665650
+T18	Gene_protein 1089 1096	HSPA12A
+R11	Has_Mutation Arg1:T18 Arg2:T17	
+T19	Gene_protein 1294 1299	PRLHR
+T20	DNA_Mutation 1282 1290	variants
+R12	Has_Mutation Arg1:T19 Arg2:T20	
+T21	Gene_protein 1366 1373	HSPA12A
+T22	DNA_Mutation 1354 1362	variants
+R13	Has_Mutation Arg1:T21 Arg2:T22	

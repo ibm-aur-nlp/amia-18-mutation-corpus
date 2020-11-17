@@ -1,0 +1,30 @@
+T1	Protein_Mutation 179 186	mutated
+T2	Gene_protein 187 190	p21
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	Protein_Mutation 239 291	aspartic acid substitution at amino acid position 12
+T4	Protein_Mutation 301 304	D12
+*	Alias T4 T3
+T5	Mutation 330 339	mutations
+T6	Gene_protein 365 368	IgA
+T7	Mutation 397 404	mutated
+T8	Gene_protein 405 416	p21 ras-D12
+R2	Has_Mutation Arg1:T8 Arg2:T7	
+T10	Gene_protein 771 782	p21 ras-G12
+T9	Protein_Mutation 824 827	D12
+T11	Protein_Mutation 829 832	V12
+T12	Protein_Mutation 834 837	S12
+T13	Protein_Mutation 842 845	L61
+T14	Mutation 846 855	mutations
+T16	Gene_protein 924 939	p21 ras protein
+T17	Gene_protein 1123 1134	p21 ras-G12
+T15	Gene_protein 736 761	wild-type p21 ras protein
+*	Alias T15 T10
+R3	Has_Mutation Arg1:T10 Arg2:T9	
+R4	Has_Mutation Arg1:T10 Arg2:T11	
+R5	Has_Mutation Arg1:T10 Arg2:T12	
+R6	Has_Mutation Arg1:T10 Arg2:T13	
+R7	Has_Mutation Arg1:T10 Arg2:T14	
+T18	Mutation 999 1006	mutated
+R8	Has_Mutation Arg1:T17 Arg2:T18	
+T19	Gene_protein 1201 1216	p21 ras protein
+T20	DNA_Mutation 1260 1274	point mutation

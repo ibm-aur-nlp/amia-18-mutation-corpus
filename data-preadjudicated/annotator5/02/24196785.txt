@@ -1,0 +1,14 @@
+Amplification of PVT-1 is involved in poor prognosis via apoptosis inhibition in colorectal cancers.
+
+
+## BACKGROUND
+We previously conducted gene expression microarray analyses to identify novel indicators for colorectal cancer (CRC) metastasis and prognosis from which we identified PVT-1 as a candidate gene. PVT-1, which encodes a long noncoding RNA, mapped to chromosome 8q24 whose copy-number amplification is one of the most frequent events in a wide variety of malignant diseases. However, PVT-1 molecular mechanism of action remains unclear.
+
+## METHODS
+We conducted cell proliferation and invasion assays using colorectal cancer cell lines transfected with PVT-1siRNA or negative control siRNA. Gene expression microarray analyses on these cell lines were also carried out to investigate the molecular function of PVT-1. Further, we investigated the impact of PVT-1 expression on the prognosis of 164 colorectal cancer patients by qRT-PCR.
+
+## RESULTS
+CRC cells transfected with PVT-1 siRNA exhibited significant loss of their proliferation and invasion capabilities. In these cells, the TGF-β signalling pathway and apoptotic signals were significantly activated. In addition, univariate and multivariate analysis revealed that PVT-1 expression level was an independent risk factor for overall survival of colorectal cancer patients.
+
+## CONCLUSION
+PVT-1, which maps to 8q24, generates antiapoptotic activity in CRC, and abnormal expression of PVT-1 was a prognostic indicator for CRC patients.

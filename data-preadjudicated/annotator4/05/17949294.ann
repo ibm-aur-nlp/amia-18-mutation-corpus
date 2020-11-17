@@ -1,0 +1,21 @@
+T1	DNA_Mutation 74 83	mutations
+T2	Gene_protein 91 94	MYH
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	DNA_Mutation 267 285	germline mutations
+T4	Gene_protein 293 296	MYH
+R2	Has_Mutation Arg1:T4 Arg2:T3	
+T5	Gene_protein 384 387	MYH
+T6	DNA_Mutation 376 383	mutated
+R3	Has_Mutation Arg1:T5 Arg2:T6	
+T7	Gene_protein 508 511	APC
+T8	Gene_protein 635 638	MYH
+T9	DNA_Mutation 645 665	Pathogenic mutations
+T10	DNA_Mutation 822 841	biallelic mutations
+T11	DNA_Mutation 852 860	mutation
+T12	Gene_protein 1046 1049	MYH
+T13	DNA_Mutation 1050 1058	mutation
+R4	Has_Mutation Arg1:T12 Arg2:T13	
+T14	Gene_protein 1249 1252	MYH
+T15	Gene_protein 1382 1385	MYH
+T16	DNA_Mutation 1386 1394	mutation
+R5	Has_Mutation Arg1:T15 Arg2:T16	

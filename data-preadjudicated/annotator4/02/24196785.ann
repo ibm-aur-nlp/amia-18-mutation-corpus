@@ -1,0 +1,19 @@
+T1	Gene_protein 17 22	PVT-1
+T2	Gene_protein 284 289	PVT-1
+T3	Gene_protein 311 316	PVT-1
+T4	locus 375 379	8q24
+T5	DNA_Mutation 386 411	copy-number amplification
+R1	Has_Mutation Arg1:T3 Arg2:T5	
+R2	Has_Mutation Arg1:T4 Arg2:T5	
+T6	Gene_protein 497 502	PVT-1
+T7	Gene_protein 666 671	PVT-1
+T8	Gene_protein 823 828	PVT-1
+T9	Gene_protein 869 874	PVT-1
+T10	Gene_protein 988 993	PVT-1
+T11	Gene_protein 1097 1102	TGF-β
+T12	Gene_protein 1238 1243	PVT-1
+T13	Gene_protein 1359 1364	PVT-1
+T14	locus 1380 1384	8q24
+*	Alias T13 T14
+*	Alias T3 T4
+T15	Gene_protein 1454 1459	PVT-1

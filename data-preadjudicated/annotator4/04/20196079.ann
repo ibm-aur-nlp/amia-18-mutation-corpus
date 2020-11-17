@@ -1,0 +1,11 @@
+T1	Gene_protein 10 14	KRAS
+T2	Gene_protein 36 39	Wnt
+T3	Gene_protein 185 188	Wnt
+T4	Gene_protein 189 201	beta-catenin
+T5	Gene_protein 258 261	Wnt
+T6	Gene_protein 65 68	APC
+T7	Gene_protein 130 133	APC
+T8	Gene_protein 296 299	APC
+T9	Gene_protein 416 419	APC
+T10	DNA_Mutation 420 429	mutations
+R2	Has_Mutation Arg1:T9 Arg2:T10	

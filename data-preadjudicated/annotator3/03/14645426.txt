@@ -1,0 +1,14 @@
+Toward new strategies to select young endometrial cancer patients for mismatch repair gene mutation analysis.
+
+
+## PURPOSE
+To determine the frequency of mismatch repair (MMR) gene germline mutations in endometrial cancer patients who were diagnosed at less than 50 years of age; to relate the presence of mutations to family history, histopathologic data, presence of tumor microsatellite instability (MSI), and immunostaining; and to formulate criteria for genetic testing in these patients.
+
+## PATIENTS AND METHODS
+Endometrial cancer patients (N = 58), who were diagnosed at less than 50 years of age, were included and questioned about their family history. Mutation analysis of the MLH1, MSH2, and MSH6 genes was performed (denaturing gradient gel electrophoresis and sequence analysis to detect small mutations and multiplex ligation-dependent probe amplification to detect large deletions or duplications). For MSI analysis, five consensus markers were used, and immunostaining of the three MMR proteins was performed.
+
+## RESULTS
+In five of 22 patients with a positive first-degree family history for hereditary nonpolyposis colorectal cancer (HNPCC)-related cancers, pathogenic germline mutations were found (one MLH1, three MSH2, and one MSH6). Four mutation carriers belonged to families fulfilling the revised Amsterdam criteria. No mutations were found in the 35 patients without such family history (P =.006). MSI was detected in 20 of 57 cancers, among which four were from mutation carriers. In 23 of 51 cancers, one or more MMR protein was absent; in all five mutation carriers, immunostaining indicated the involved MMR gene.
+
+## CONCLUSION
+In 23% of the young endometrial cancer patients with at least one first-degree relative with an HNPCC-related cancer, an MMR gene mutation was detected. Therefore, presence of an HNPCC-related cancer in a first-degree relative seems to be an important selection criterion for mutation analysis. Subsequent immunostaining of MMR proteins will point to the gene(s) that should be analyzed.

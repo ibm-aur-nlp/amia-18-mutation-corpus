@@ -1,0 +1,8 @@
+T1	Gene_protein 504 511	HLA-DQ2
+T2	Gene_protein 516 523	HLA-DQ8
+T3	Gene_protein 622 628	HLA-DQ
+T4	Gene_protein 700 703	CD4
+T5	Gene_protein 848 856	IL2-IL21
+T6	DNA_Mutation 1063 1071	mutation
+T7	Gene_protein 1079 1084	ATP7B
+R1	Has_Mutation Arg1:T7 Arg2:T6	

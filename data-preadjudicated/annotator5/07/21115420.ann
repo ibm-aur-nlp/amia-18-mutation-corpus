@@ -1,0 +1,73 @@
+T1	DNA_Mutation 195 218	chromosomal instability
+T2	DNA_Mutation 220 223	CIN
+T3	DNA_Mutation 229 248	genetic instability
+T4	DNA_Mutation 506 520	allelic losses
+T5	locus 528 537	short arm
+T6	locus 541 560	chromosome 17 and 8
+R1	Has_Mutation Arg1:T6 Arg2:T4	
+R2	Has_Mutation Arg1:T5 Arg2:T4	
+T7	locus 572 580	long arm
+T8	locus 584 607	chromosome 5, 18 and 22
+R3	Has_Mutation Arg1:T7 Arg2:T4	
+R4	Has_Mutation Arg1:T8 Arg2:T4	
+T9	DNA_Mutation 615 629	allelic losses
+T10	Gene_protein 663 667	TP53
+T11	Gene_protein 669 672	APC
+T12	Gene_protein 674 679	SMAD2
+T13	Gene_protein 684 689	SMAD4
+R5	Has_Mutation Arg1:T10 Arg2:T9	
+R6	Has_Mutation Arg1:T11 Arg2:T9	
+R7	Has_Mutation Arg1:T12 Arg2:T9	
+R8	Has_Mutation Arg1:T13 Arg2:T9	
+T14	DNA_Mutation 754 757	CIN
+T15	DNA_Mutation 761 780	genetic instability
+T16	DNA_Mutation 788 791	MSI
+T17	DNA_Mutation 793 819	microsatellite instability
+*	Alias T16 T17
+T18	DNA_Mutation 969 978	mutations
+T19	Gene_protein 1026 1033	TGFBRII
+T20	Gene_protein 1035 1038	BAX
+T21	Gene_protein 1042 1050	CASPASE5
+R9	Has_Mutation Arg1:T19 Arg2:T18	
+R10	Has_Mutation Arg1:T20 Arg2:T18	
+R11	Has_Mutation Arg1:T21 Arg2:T18	
+T22	DNA_modification 1182 1198	hypermethylation
+T23	locus 1206 1221	promoter region
+R12	Has_Modification Arg1:T23 Arg2:T22	
+T24	Gene_protein 1298 1302	BRAF
+T25	DNA_Mutation 1286 1294	mutation
+R13	Has_Mutation Arg1:T24 Arg2:T25	
+T26	Gene_protein 1578 1581	APC
+T27	DNA_Mutation 1594 1597	CIN
+T28	Gene_protein 1646 1655	β-catenin
+T29	DNA_Mutation 1664 1667	MSI
+T30	Gene_protein 1696 1700	TGFβ
+T31	Gene_protein 1763 1768	SMAD4
+T32	Gene_protein 1791 1796	SMAD2
+T33	DNA_Mutation 1822 1825	CIN
+T34	DNA_Mutation 1859 1879	frame-shift mutation
+T35	locus 1895 1913	polyG coding track
+T36	Gene_protein 1921 1925	TGFβ
+T37	Gene_protein 1927 1953	transforming growth factor
+*	Alias T37 T36
+R14	Component_of Arg1:T35 Arg2:T36	
+R15	Has_Mutation Arg1:T35 Arg2:T34	
+T38	Gene_protein 1921 1971	TGFβ (transforming growth factor) receptor type II
+T39	DNA_Mutation 1975 1978	MSI
+T40	Gene_protein 2099 2102	p53
+T41	Gene_protein 1991 1994	RAS
+T42	Gene_protein 1995 1998	MAP
+T43	Gene_protein 2030 2034	KRAS
+T44	DNA_Mutation 2048 2051	CIN
+T45	Gene_protein 2065 2069	BRAF
+T46	DNA_Mutation 2083 2086	MSI
+T47	DNA_Mutation 2070 2079	mutations
+R16	Has_Mutation Arg1:T45 Arg2:T47	
+T48	DNA_Mutation 2035 2044	mutations
+R17	Has_Mutation Arg1:T43 Arg2:T48	
+T49	Gene_protein 2129 2133	TP53
+T50	DNA_Mutation 2150 2153	CIN
+T51	Gene_protein 2167 2170	BAX
+T52	DNA_Mutation 2184 2193	mutations
+T53	DNA_Mutation 2197 2200	MSI
+R18	Has_Mutation Arg1:T51 Arg2:T52	

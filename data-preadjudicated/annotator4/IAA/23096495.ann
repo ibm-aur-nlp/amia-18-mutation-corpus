@@ -1,0 +1,41 @@
+T1	Gene_protein 0 28	Protein tyrosine phosphatase
+T2	DNA_modification 64 79	hypermethylated
+T3	Gene_protein 128 140	phosphatases
+T4	DNA_modification 184 206	epigenetic alterations
+T5	DNA_modification 247 258	methylation
+T6	Gene_protein 274 279	PTPRs
+T7	Gene_protein 281 286	PTPRM
+T8	Gene_protein 288 293	PTPRT
+T9	Gene_protein 295 299	PTPR
+T10	Gene_protein 305 311	PTPRZ1
+T11	DNA_modification 374 398	alternatively methylated
+R1	Has_Modification Arg1:T7 Arg2:T11	
+R2	Has_Modification Arg1:T8 Arg2:T11	
+R3	Has_Modification Arg1:T9 Arg2:T11	
+R4	Has_Modification Arg1:T10 Arg2:T11	
+T12	DNA_modification 533 544	methylation
+T13	DNA_modification 641 652	methylation
+T14	Gene_protein 700 729	protein tyrosine phosphatases
+T15	Gene_protein 730 735	PTPRM
+T16	Gene_protein 737 742	PTPRT
+T17	Gene_protein 744 749	PTPRR
+T18	Gene_protein 754 760	PTPRZ1
+T19	DNA_modification 770 785	hypermethylated
+R5	Has_Modification Arg1:T15 Arg2:T19	
+R6	Has_Modification Arg1:T16 Arg2:T19	
+R7	Has_Modification Arg1:T17 Arg2:T19	
+R8	Has_Modification Arg1:T18 Arg2:T19	
+T20	DNA_modification 901 912	methylation
+T21	DNA_modification 1067 1078	methylation
+T22	Gene_protein 1089 1094	PTPRs
+T23	Gene_protein 1112 1117	K-ras
+T24	locus 1119 1127	codon 12
+R9	Component_of Arg1:T24 Arg2:T23	
+T25	locus 1139 1146	exon 15
+T26	DNA_Mutation 1148 1153	V600E
+T27	DNA_Mutation 1155 1164	mutations
+T28	Gene_protein 1133 1137	BRAF
+R10	Component_of Arg1:T25 Arg2:T28	
+R11	Has_Mutation Arg1:T28 Arg2:T26	
+T29	DNA_modification 1292 1303	methylation
+T30	Gene_protein 1382 1386	PTPR

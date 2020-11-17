@@ -1,0 +1,47 @@
+T1	locus 27 48	chromosomes 17 and 18
+T2	DNA_Mutation 0 23	Numerical abnormalities
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	DNA_Mutation 255 274	genetic alterations
+T4	DNA_Mutation 363 386	numerical abnormalities
+T5	locus 390 411	chromosomes 17 and 18
+R2	Has_Mutation Arg1:T5 Arg2:T4	
+T6	Gene_protein 429 432	p53
+T7	Gene_protein 437 440	DCC
+R3	Component_of Arg1:T5 Arg2:T6	
+R4	Component_of Arg1:T5 Arg2:T7	
+T8	Gene_protein 446 451	SHAD4
+T9	Gene_protein 452 456	DPC4
+R5	Component_of Arg1:T5 Arg2:T8	
+R6	Component_of Arg1:T5 Arg2:T9	
+T10	DNA_Mutation 662 685	numerical abnormalities
+T11	locus 689 710	chromosomes 17 and 18
+R7	Has_Mutation Arg1:T11 Arg2:T10	
+T12	locus 1021 1042	chromosomes 17 and 18
+T13	DNA_Mutation 1321 1344	Numerical abnormalities
+T14	locus 1348 1369	chromosomes 17 and 18
+R8	Has_Mutation Arg1:T14 Arg2:T13	
+T15	locus 1461 1474	chromosome 17
+T16	DNA_Mutation 1452 1457	Gains
+R9	Has_Mutation Arg1:T15 Arg2:T16	
+T17	DNA_Mutation 1479 1490	monosomy 18
+T18	DNA_Mutation 1744 1767	numerical abnormalities
+T19	DNA_Mutation 1876 1899	numerical abnormalities
+T20	locus 1903 1916	chromosome 17
+R10	Has_Mutation Arg1:T20 Arg2:T19	
+T21	DNA_Mutation 1929 1940	monosomy 17
+T22	DNA_Mutation 2216 2240	altered number of copies
+T23	locus 2244 2257	chromosome 17
+R11	Has_Mutation Arg1:T23 Arg2:T22	
+T24	DNA_Mutation 2291 2301	aneuploidy
+T25	DNA_Mutation 2456 2479	numerical abnormalities
+T26	locus 2483 2496	chromosome 18
+R12	Has_Mutation Arg1:T26 Arg2:T25	
+T27	DNA_Mutation 2581 2591	aneuploidy
+T28	DNA_Mutation 2712 2735	numerical abnormalities
+T29	locus 2739 2752	chromosome 17
+R13	Has_Mutation Arg1:T29 Arg2:T28	
+T30	locus 2765 2778	chromosome 18
+T31	DNA_Mutation 2906 2929	Numerical abnormalities
+T32	locus 2933 2954	chromosomes 17 and 18
+R14	Has_Mutation Arg1:T32 Arg2:T31	
+T33	locus 3028 3041	chromosome 17

@@ -1,0 +1,56 @@
+T1	Gene_protein 0 5	BRCA1
+T2	Gene_protein 24 30	GADD45
+T3	Gene_protein 76 81	BRCA1
+T4	Gene_protein 207 212	BRCA1
+T5	Gene_protein 232 237	BRCA1
+T6	Gene_protein 246 252	GADD45
+T7	Gene_protein 256 259	p53
+T8	Gene_protein 339 344	BRCA1
+T9	Gene_protein 368 374	GADD45
+T10	Gene_protein 431 437	GADD45
+T11	Gene_protein 503 508	BRCA1
+T13	Gene_protein 546 551	BRCA1
+T14	Protein_Mutation 561 567	p1749R
+T15	Protein_Mutation 572 581	Y1853insA
+R1	Has_Mutation Arg1:T13 Arg2:T14	
+R2	Has_Mutation Arg1:T13 Arg2:T15	
+T16	Gene_protein 597 602	BRCA1
+T18	Protein_Mutation 619 634	Delta500 - 1863
+T19	Gene_protein 635 640	BRCA1
+R4	Has_Mutation Arg1:T19 Arg2:T18	
+T21	Gene_protein 708 714	GADD45
+T22	Gene_protein 745 750	BRCA1
+T24	Gene_protein 778 784	GADD45
+T25	Gene_protein 840 845	BRCA1
+T26	Gene_protein 847 852	BRCA1
+T27	Gene_protein 872 877	c-Jun
+T28	Gene_protein 882 887	c-fos
+T29	Gene_protein 935 940	BRCA1
+T30	Gene_protein 1053 1056	p53
+T32	Gene_protein 1104 1110	GADD45
+T33	Gene_protein 1123 1128	BRCA1
+T34	Gene_protein 1164 1170	GADD45
+T36	Gene_protein 1183 1188	BRCA1
+T37	Gene_protein 1216 1219	p53
+T38	Gene_protein 1265 1270	BRCA1
+T39	Gene_protein 1297 1303	GADD45
+T40	Gene_protein 1412 1417	BRCA1
+T42	DNA_Mutation 1398 1408	abrogation
+R6	Has_Mutation Arg1:T40 Arg2:T42	
+T43	Gene_protein 1436 1442	GADD45
+T44	Gene_protein 1523 1528	BRCA1
+T45	Gene_protein 1537 1543	GADD45
+T47	Gene_protein 1589 1595	GADD45
+T48	Gene_protein 1646 1652	GADD45
+T49	Gene_protein 1672 1677	BRCA1
+T12	DNA_Mutation 552 559	mutants
+R7	Has_Mutation Arg1:T13 Arg2:T12	
+T17	DNA_Mutation 603 609	mutant
+R3	Has_Mutation Arg1:T16 Arg2:T17	
+T20	locus 1343 1354	-121 to -75
+R8	Component_of Arg1:T20 Arg2:T39	
+T23	locus 1239 1241	5'
+T35	DNA_Mutation 1242 1250	deletion
+R9	Has_Mutation Arg1:T23 Arg2:T35	
+T31	DNA_Mutation 1028 1052	dominant-negative mutant
+R5	Has_Mutation Arg1:T30 Arg2:T31	

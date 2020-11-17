@@ -1,0 +1,10 @@
+T1	Gene_protein 1496 1499	p53
+T2	DNA_Mutation 1505 1514	mutations
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 1601 1605	CD44
+T4	Gene_protein 1697 1702	COX-2
+T5	Gene_protein 1879 1882	IgA
+T6	Gene_protein 1888 1891	IgG
+T7	Gene_protein 1949 1971	human insulin receptor
+T8	Gene_protein 2024 2029	mdr-1
+T9	DNA_Mutation 2188 2196	variants

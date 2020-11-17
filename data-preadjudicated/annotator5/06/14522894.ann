@@ -1,0 +1,28 @@
+T1	DNA_Mutation 0 26	Microsatellite instability
+T2	DNA_Mutation 242 268	microsatellite instability
+T3	DNA_Mutation 270 273	MSI
+*	Alias T3 T2
+T4	Gene_protein 629 634	hMLH1
+T5	Gene_protein 636 641	hMSH2
+T6	Gene_protein 647 650	BAX
+T7	DNA_Mutation 691 694	MSI
+T8	Gene_protein 795 803	beta-RII
+T9	Gene_protein 805 808	BAX
+T10	Gene_protein 810 815	hMSH3
+T11	Gene_protein 821 826	hMSH6
+T12	Gene_protein 888 893	hMLH1
+T13	Gene_protein 910 915	hMSH2
+T14	Gene_protein 971 974	BAX
+T15	Gene_protein 1071 1074	BAX
+T16	DNA_Mutation 1135 1140	MSI-H
+T17	DNA_Mutation 1204 1209	MSI-L
+T18	Gene_protein 1440 1448	beta-RII
+T19	Gene_protein 1511 1516	hMSH3
+T20	Gene_protein 1579 1582	BAX
+T21	Gene_protein 1652 1655	BAX
+T22	Gene_protein 1680 1685	hMSH6
+T23	DNA_Mutation 1667 1676	mutations
+T24	Gene_protein 1690 1695	hMSH3
+R1	Has_Mutation Arg1:T24 Arg2:T23	
+R2	Has_Mutation Arg1:T22 Arg2:T23	
+T25	DNA_Mutation 1871 1874	MSI

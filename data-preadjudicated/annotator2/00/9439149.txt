@@ -1,0 +1,14 @@
+Microsatellite instability in Korean patients with gastric adenocarcinoma.
+
+
+## OBJECTIVES
+Microsatellites are short repeated oligonucleotide sequences found throughout the human genome. High mutation rates in microsatellite sequences have been found in tumors from patients with hereditary non-polyposis colorectal carcinoma and some sporadic carcinomas. However, little information is available regarding RER-positive phenotype in gastric carcinomas, particularly in terms of age of onset and other pathologic features, such as histologic types, degree of differentiation, location or stage of the carcinoma.
+
+## METHODS
+To obtain a better understanding of the molecular mechanism of gastric carcinogenesis, microsatellite instability was examined at 6 gene loci (D2S71, D2S119, D3S1067, D6S87, D8S87, D11S905) in 77 gastric carcinomas (40 cases of young patients and 37 cases of elderly patients).
+
+## RESULTS
+RER-positive phenotypes were found in 17 (22.1%) of 77 cases. In young patients (under 40 years) RER-positive phenotype was found in 9 (22.5%) of 40 cases, and in elderly patients 8 (21.6%) of 37 cases. Moderately differentiated carcinoma revealed a significantly high frequency of RER-positive phenotype than well differentiated carcinoma(p < 0.001). Tumors arising from the middle third (p < 0.001) or lower third (p < 0.001) revealed higher frequency of RER-positive phenotype than the tumors arising from the upper third of the stomach. The RER-positive phenotype was not significantly affected by the sex, histologic type or stage of carcinoma.
+
+## CONCLUSION
+RER-positive phenotype occurs frequently in gastric carcinoma, although the frequency of RER-positive phenotype between young and elderly patient was not significantly different. Thus, the acquisition of RER-positive phenotype might be an early event in gastric carcinogenesis.

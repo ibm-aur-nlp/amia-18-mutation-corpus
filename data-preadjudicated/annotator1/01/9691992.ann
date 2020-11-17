@@ -1,0 +1,22 @@
+T1	DNA_Mutation 8 25	missense mutation
+T2	DNA_Mutation 30 50	frameshift mutations
+T3	Gene_protein 78 109	transforming growth factor-beta
+T4	DNA_Mutation 311 320	mutations
+T5	Gene_protein 385 416	transforming growth factor-beta
+T6	Gene_protein 418 429	TGF-beta RI
+*	Alias T6 T5
+T7	DNA_Mutation 731 739	Deletion
+T8	DNA_Mutation 744 753	insertion
+T9	locus 777 789	(A)10 region
+R1	Has_Mutation Arg1:T9 Arg2:T7	
+R2	Has_Mutation Arg1:T9 Arg2:T8	
+T10	Protein_Mutation 803 822	frameshift mutation
+T11	DNA_Mutation 935 969	nucleotide substitution of T for G
+T12	locus 973 977	1918
+R3	Has_Mutation Arg1:T12 Arg2:T11	
+T13	Protein_Mutation 992 1032	missense mutation of arginine to leucine
+T14	locus 1036 1046	codon 528,
+R4	Has_Mutation Arg1:T14 Arg2:T13	
+T15	DNA_Mutation 1106 1114	mutation
+T16	locus 1118 1122	1918
+R5	Has_Mutation Arg1:T16 Arg2:T15	

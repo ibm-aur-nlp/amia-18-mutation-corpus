@@ -1,0 +1,14 @@
+T1	DNA_Mutation 0 15	Hypermutability
+T2	DNA_Mutation 206 217	alterations
+T3	locus 221 245	microsatellite sequences
+R1	Has_Mutation Arg1:T3 Arg2:T2	
+T4	DNA_Mutation 338 349	alterations
+T5	DNA_Mutation 400 408	mutation
+T6	DNA_Mutation 417 430	(CA)n repeats
+T7	Mutation 539 549	mutability
+T8	DNA_Mutation 671 700	microsatellite heteroduplexes
+T9	DNA_Mutation 717 731	heteroduplexes
+T10	Mutation 834 841	mutator
+T11	DNA_Mutation 929 940	transitions
+T12	DNA_Mutation 945 958	transversions
+T13	DNA_Mutation 974 1000	microsatellite alterations

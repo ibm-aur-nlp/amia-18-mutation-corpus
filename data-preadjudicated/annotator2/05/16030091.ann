@@ -1,0 +1,35 @@
+T1	DNA_Mutation 26 39	polymorphisms
+T2	DNA_Mutation 502 515	polymorphisms
+T3	DNA_Mutation 559 572	polymorphisms
+T4	Gene_protein 580 584	IL-1
+T5	Gene_protein 586 591	IL-10
+T6	Gene_protein 593 598	TNF-A
+T7	Gene_protein 604 609	TGF-B
+R1	Has_Mutation Arg1:T4 Arg2:T3	
+R2	Has_Mutation Arg1:T5 Arg2:T3	
+R3	Has_Mutation Arg1:T6 Arg2:T3	
+R4	Has_Mutation Arg1:T7 Arg2:T3	
+T8	DNA_Mutation 887 900	polymorphisms
+T9	DNA_Mutation 914 927	polymorphisms
+T10	Gene_protein 1008 1013	IL-10
+T12	DNA_Mutation 1022 1034	polymorphism
+R6	Has_Mutation Arg1:T10 Arg2:T12	
+T13	DNA_Mutation 1090 1097	variant
+T14	Gene_protein 1098 1103	IL-10
+T11	locus 1014 1017	592
+R5	Component_of Arg1:T11 Arg2:T10	
+R7	Has_Mutation Arg1:T11 Arg2:T12	
+T15	locus 1104 1107	592
+R8	Has_Mutation Arg1:T14 Arg2:T13	
+R9	Component_of Arg1:T15 Arg2:T14	
+R10	Has_Mutation Arg1:T15 Arg2:T13	
+T16	Gene_protein 1171 1185	interleukin-10
+T17	Gene_protein 1510 1515	IL-10
+T18	locus 1516 1519	592
+R11	Component_of Arg1:T18 Arg2:T17	
+T19	DNA_Mutation 1503 1509	mutant
+R12	Has_Mutation Arg1:T18 Arg2:T19	
+R13	Has_Mutation Arg1:T17 Arg2:T19	
+T20	Gene_protein 1693 1707	interleukin-10
+*	Alias T16 T14
+*	Alias T20 T17

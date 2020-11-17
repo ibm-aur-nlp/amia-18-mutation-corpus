@@ -1,0 +1,10 @@
+T1	locus 206 216	chromosome
+T2	DNA_Mutation 217 224	changes
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	DNA_Mutation 226 241	48,XY,+8,+21/51
+T4	DNA_Mutation 243 268	XY,+8,+9,+10,+i(17q),+21,
+T5	DNA_Mutation 273 345	47,der(X)t(X;14)(q11;q11)-Y,t(6;18)(p22;q24)+7,+8,der(19)t (19;?)(q13;?)
+T6	DNA_Mutation 379 388	deletions
+T7	DNA_Mutation 393 407	translocations
+T8	DNA_Mutation 409 412	1p-
+T9	DNA_Mutation 442 448	i(17q)

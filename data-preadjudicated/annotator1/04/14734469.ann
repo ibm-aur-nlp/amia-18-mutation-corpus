@@ -1,0 +1,45 @@
+T1	Gene_protein 0 4	BRAF
+T3	Gene_protein 82 87	hMLH1
+T4	Gene_protein 160 164	BRAF
+T5	Gene_protein 502 506	BRAF
+T6	Gene_protein 657 661	BRAF
+T7	Gene_protein 849 854	hMLH1
+T8	Gene_protein 1231 1236	hMLH1
+T9	Gene_protein 1150 1155	hMLH1
+T10	Gene_protein 1047 1051	BRAF
+T11	Gene_protein 1329 1333	BRAF
+T12	Gene_protein 1547 1551	BRAF
+T13	Gene_protein 1771 1776	hMLH1
+T14	Gene_protein 1832 1836	BRAF
+T15	Gene_protein 1687 1691	BRAF
+T16	DNA_Mutation 5 13	mutation
+T2	Gene_protein 291 295	BRAF
+T18	Mutation 296 305	mutations
+*	Alias T18 T2
+T17	DNA_Mutation 507 516	mutations
+*	Alias T17 T5
+T19	DNA_Mutation 662 671	mutations
+*	Alias T19 T6
+T20	Gene_protein 1000 1004	BRAF
+T21	DNA_Mutation 1005 1013	mutation
+T22	Gene_protein 1019 1024	hMLH1
+T23	locus 1025 1033	promoter
+*	Alias T22 T23
+*	Alias T21 T20
+T24	DNA_Mutation 1052 1061	mutations
+T25	DNA_Mutation 1249 1258	mutations
+*	Alias T25 T8
+T26	DNA_Mutation 1334 1342	mutation
+T27	DNA_Mutation 1422 1431	mutations
+T28	Gene_protein 1417 1421	BRAF
+*	Alias T24 T10
+*	Alias T26 T11
+*	Alias T27 T28
+T29	DNA_Mutation 1552 1561	mutations
+*	Alias T29 T12
+T30	Gene_protein 1628 1633	hMLH1
+T33	Gene_protein 1664 1669	hMLH1
+T31	DNA_Mutation 1692 1701	mutations
+*	Alias T31 T15
+T32	DNA_Mutation 1837 1846	mutations
+*	Alias T32 T14

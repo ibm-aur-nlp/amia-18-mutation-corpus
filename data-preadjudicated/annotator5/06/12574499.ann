@@ -1,0 +1,22 @@
+T1	Gene_protein 40 43	p53
+T2	Gene_protein 115 118	p53
+T4	Gene_protein 322 325	p53
+T3	Gene_protein 389 392	p53
+T5	Gene_protein 506 509	p21
+T6	Gene_protein 514 517	p21
+T7	Gene_protein 591 595	PUMA
+T8	Gene_protein 673 677	PUMA
+T9	Gene_protein 739 742	p53
+T10	Gene_protein 808 811	p53
+T11	DNA_Mutation 817 827	DNA damage
+T12	Gene_protein 833 837	PUMA
+T13	Gene_protein 861 869	Bcl-X(L)
+T14	Gene_protein 934 937	Bax
+T15	Gene_protein 974 977	BAX
+T16	Gene_protein 1032 1036	PUMA
+T17	Gene_protein 1096 1100	PUMA
+T18	Gene_protein 1105 1108	p21
+T19	Gene_protein 1152 1155	p53
+T20	Gene_protein 1218 1221	p53
+T21	DNA_Mutation 1222 1231	mutations
+R1	Has_Mutation Arg1:T20 Arg2:T21	

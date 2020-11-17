@@ -1,0 +1,7 @@
+T1	DNA_Mutation 964 986	genetic susceptibility
+T2	DNA_Mutation 159 179	genetic associations
+T3	DNA_Mutation 26 49	genome-wide association
+T4	DNA_Mutation 212 235	genome-wide association
+T5	DNA_Mutation 237 240	GWA
+*	Alias T5 T4
+T6	DNA_Mutation 779 782	GWA

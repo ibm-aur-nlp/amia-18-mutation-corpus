@@ -1,0 +1,14 @@
+Traditional serrated adenoma of the colorectum: clinicopathologic implications and endoscopic findings of the precursor lesions.
+
+
+## OBJECTIVES
+To investigate the clinicopathologic and endoscopic features of precursor lesions associated with traditional serrated adenomas (TSAs).
+
+## METHODS
+Mutation studies for BRAF, KRAS, PIK3CA, and EGFR and immunohistochemical staining for Ki-67 were performed on 107 TSAs from 104 patients.
+
+## RESULTS
+Nondysplastic hyperplastic polyp (HP) or sessile serrated adenoma/polyp (SSA/P) precursor lesions were found in 56 (52.3%) TSAs, among which 32 (57.1%) cases showed a flat-elevated lesion with a type II pit pattern during endoscopy. TSAs with an SSA/P precursor lesion were usually found in the proximal colon, while TSAs with an HP or with no precursor lesion were mainly located in the distal colon and rectum (P < .001). TSAs with a precursor lesion showed a lower frequency of conventional epithelial dysplasia and KRAS mutation as well as a higher frequency of BRAF mutation compared with those with no precursor lesion (P = .002, P < .001, and P < .001, respectively).
+
+## CONCLUSIONS
+A significant proportion of HP or SSA/P precursor lesions accompanied by TSAs can be detected by endoscopy based on both their flat-elevated growth and type II pit patterns. The heterogeneity of TSAs in terms of clinicopathologic and molecular features correlated with the status or type of precursor lesions.

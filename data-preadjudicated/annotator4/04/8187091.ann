@@ -1,0 +1,20 @@
+T1	Gene_protein 114 140	adenomatous polyposis coli
+T2	Gene_protein 142 145	APC
+*	Alias T2 T1
+T3	Gene_protein 198 228	familial adenomatous polyposis
+T4	Gene_protein 230 233	FAP
+*	Alias T4 T3
+T5	Gene_protein 291 294	FAP
+T6	Gene_protein 713 716	APC
+T7	locus 874 878	1378
+T8	locus 880 884	1450
+T9	locus 890 899	1487-1490
+T10	Gene_protein 1031 1034	FAP
+T11	Gene_protein 1204 1207	APC
+T12	Gene_protein 1349 1352	FAP
+T13	Gene_protein 1631 1634	APC
+T14	Gene_protein 1743 1746	APC
+T15	Gene_protein 1881 1884	FAP
+T16	Gene_protein 1900 1903	APC
+T17	Gene_protein 1992 1995	FAP
+T18	Gene_protein 2083 2086	APC

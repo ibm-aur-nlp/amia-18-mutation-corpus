@@ -1,0 +1,14 @@
+Expression of transforming growth factor beta receptors in normal human colon and sporadic adenocarcinomas.
+
+
+## BACKGROUND & AIMS
+An absence or a presence of mutated transforming growth factor (TGF)-beta receptors is a possible hypothesis explaining the resistance of cancer cells to the growth-inhibitory effect of TGF-beta. Mutations involving microsatellite-like regions of the type II TGF-beta receptor have been described in subgroups of colorectal cancers. The aim of this study was to investigate the expression and distribution of TGF-beta receptors in sporadic colorectal cancers and normal tissues.
+
+## METHODS
+Thirty-three sporadic colorectal cancers and 20 normal colonic tissues were explored by immunohistochemistry for the expression of type I and type II TGF-beta receptors. Eighteen tumor and 20 normal samples were used for radioactive thermocycling and sequencing of the two microsatellite-like regions of the type II receptor.
+
+## RESULTS
+Both receptors were overexpressed in tumors compared with normal samples. There was a relationship between the abundance of type II receptor expression and the degree of differentiation of the tumors but not the Dukes' staging or the localization of the neoplasias. No mutation was observed in the microsatellite-like regions of receptor II in any of the samples.
+
+## CONCLUSIONS
+Sporadic colorectal cancers do not show an absence or a presence of mutated TGF-beta receptors that could explain a resistance to TGF-beta-mediated growth inhibition. The pathways to tumorigenesis of sporadic colorectal cancers may be different from those of some hereditary ones.

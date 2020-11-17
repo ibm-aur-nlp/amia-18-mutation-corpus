@@ -1,0 +1,14 @@
+T1	DNA_Mutation 9 23	multiplication
+T2	locus 43 55	chromosome 8
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	locus 314 326	chromosome 8
+T4	DNA_Mutation 625 648	increase in copy number
+T5	DNA_Mutation 651 665	multiplication
+*	Alias T5 T4
+T6	locus 682 684	8q
+R2	Has_Mutation Arg1:T6 Arg2:T5	
+T7	locus 776 788	chromosome 8
+T8	locus 822 829	8q24.11
+T9	DNA_Mutation 870 885	multiplications
+T10	locus 889 891	8q
+R3	Has_Mutation Arg1:T10 Arg2:T9	

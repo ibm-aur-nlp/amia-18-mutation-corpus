@@ -1,0 +1,52 @@
+T1	DNA_Mutation 0 26	Microsatellite instability
+T2	Gene_protein 31 34	p53
+T3	DNA_Mutation 35 44	mutations
+R1	Has_Mutation Arg1:T2 Arg2:T3	
+T4	DNA_Mutation 312 341	molecular genetic alterations
+T5	Gene_protein 661 664	p53
+T6	locus 778 787	exons 5-8
+R2	Component_of Arg1:T6 Arg2:T5	
+T7	DNA_Mutation 789 815	Microsatellite instability
+T8	locus 865 878	chromosome 18
+R3	Has_Mutation Arg1:T8 Arg2:T7	
+T9	Gene_protein 906 911	hMLH1
+T10	Gene_protein 916 921	hMSH2
+T11	DNA_Mutation 959 985	microsatellite instability
+R4	Has_Mutation Arg1:T10 Arg2:T11	
+R5	Has_Mutation Arg1:T9 Arg2:T11	
+T12	Gene_protein 1090 1093	p53
+T13	DNA_Mutation 1073 1082	mutations
+R6	Has_Mutation Arg1:T12 Arg2:T13	
+T14	Gene_protein 1100 1103	p53
+T15	DNA_Mutation 1104 1113	mutations
+R7	Has_Mutation Arg1:T14 Arg2:T15	
+T16	Gene_protein 1211 1214	p53
+T17	DNA_Mutation 1215 1224	mutations
+R8	Has_Mutation Arg1:T16 Arg2:T17	
+T18	DNA_Mutation 1229 1255	microsatellite instability
+T19	DNA_Mutation 1345 1371	microsatellite instability
+T20	DNA_Mutation 1495 1521	microsatellite instability
+T21	Gene_protein 1526 1529	p53
+T22	DNA_Mutation 1530 1539	mutations
+R9	Has_Mutation Arg1:T21 Arg2:T22	
+T23	Gene_protein 1589 1592	p53
+T24	DNA_Mutation 1593 1602	mutations
+R10	Has_Mutation Arg1:T23 Arg2:T24	
+T25	DNA_Mutation 1638 1664	microsatellite instability
+T26	DNA_Mutation 1720 1729	Mutations
+T27	Gene_protein 1737 1742	hMLH1
+T28	Gene_protein 1747 1752	hMSH2
+R11	Has_Mutation Arg1:T27 Arg2:T26	
+R12	Has_Mutation Arg1:T28 Arg2:T26	
+T29	DNA_Mutation 1862 1888	Microsatellite instability
+T30	DNA_Mutation 2002 2011	mutations
+T31	Gene_protein 2019 2024	hMLH1
+T32	Gene_protein 2029 2034	hMSH2
+R13	Has_Mutation Arg1:T31 Arg2:T30	
+R14	Has_Mutation Arg1:T32 Arg2:T30	
+T33	Gene_protein 2067 2070	p53
+R15	Has_Mutation Arg1:T33 Arg2:T30	
+T34	DNA_Mutation 2102 2128	microsatellite instability
+T35	Gene_protein 2133 2136	p53
+T36	DNA_Mutation 2137 2146	mutations
+R16	Has_Mutation Arg1:T35 Arg2:T36	

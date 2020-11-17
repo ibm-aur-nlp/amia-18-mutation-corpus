@@ -1,0 +1,14 @@
+BRAF mutation is frequently present in sporadic colorectal cancer with methylated hMLH1, but not in hereditary nonpolyposis colorectal cancer.
+
+
+## PURPOSE
+The BRAF gene encodes a serine/threonine kinase and plays an important role in the mitogen-activated protein kinase signaling pathway. BRAF mutations in sporadic colorectal cancer with microsatellite instability (MSI) are more frequently detected than those in microsatellite stable cancer. In this study, we sought to compare the frequencies of BRAF mutations in sporadic colorectal cancer with MSI with those in hereditary nonpolyposis colorectal cancer (HNPCC).
+
+## EXPERIMENTAL DESIGN
+We analyzed BRAF mutations in 26 colorectal cancer cell lines, 80 sporadic colorectal cancers, and 20 tumors from HNPCC patients by DNA sequencing and sequence-specific PCR. The methylation status of the hMLH1 gene was measured by either sequencing or restriction enzyme digestion after NaHSO(3) treatment.
+
+## RESULTS
+We observed a strong correlation of BRAF mutation with hMLH1 promoter methylation. BRAF mutations were present in 13 of 15 (87%) of the colorectal cell lines and cancers with methylated hMLH1, whereas only 4 of 91 (4%) of the cell lines and cancers with unmethylated hMLH1 carried the mutations (P < 0.00001). Sixteen of 17 mutations were at residue 599 (V599E). A BRAF mutation was also identified at residue 463 (G463V) in one cell line. In addition, BRAF mutations were not found in any cancers or cell lines with K-ras mutations. In 20 MSI+ cancers from HNPCC patients, however, BRAF mutations were not detectable, including a subset of 9 tumors with negative hMLH1 immunostaining and methylated hMLH1.
+
+## CONCLUSIONS
+BRAF mutations are frequently present in sporadic colorectal cancer with methylated hMLH1, but not in HNPCC-related cancers. This discrepancy of BRAF mutations between sporadic MSI+ cancer and HNPCC might be used in a strategy for the detection of HNPCC families.

@@ -1,0 +1,14 @@
+Variations in genes regulating tumor-associated macrophages (TAMs) to predict outcomes of bevacizumab-based treatment in patients with metastatic colorectal cancer: results from TRIBE and FIRE3 trials.
+
+
+## BACKGROUND
+Tumor-associated macrophages (TAMs) with the M2-like phenotype are regulated by mainly NF-kB pathway including TBK1, which can influence tumor progression by secretion of proangiogenic factors such as vascular endothelial growth factor. The CCL2/CCR2 axis, histidine-rich glycoprotein (HRG), and placenta growth factor (PIGF) play a critical role in the polarization of M1/M2 phenotypes and the recruitment of TAMs to tumor microenvironment. We therefore hypothesized that variations in genes involved in regulating TAMs may predict clinical outcomes of bevacizumab treatment in patients with metastatic colorectal cancer (mCRC).
+
+## PATIENTS AND METHODS
+We analyzed genomic DNA extracted from samples of patients receiving bevacizumab plus FOLFIRI as a first-line treatment using PCR-based direct sequencing. Twelve functional single-nucleotide polymorphisms in eight genes (CCL2, CCR2, HRG, PIGF, NFKB1, TBK1, CCL18, and IRF3) were tested for associations with clinical outcomes in a discovery cohort of 228 participants in TRIBE trial (NCT00719797), then validated in 248 KRAS exon2 (KRAS) wild-type participants in FIRE3 trial (NCT00433927). FIRE3-cetuximab cohort served as a negative control.
+
+## RESULTS
+TBK1 rs7486100 was significantly associated with overall survival in 95 KRAS wild-type patients of TRIBE cohort in univariate analysis and had a strong trend in multivariable analysis; furthermore, the association of the T allele was observed for progression-free survival (PFS) in both univariate and multivariable analyses in FIRE3-bevacizumab but not cetuximab cohort. CCL2 rs4586, CCL18 rs14304, and IRF3 rs2304205 had univariate and multivariable correlations with PFS in KRAS mutant patients of the TRIBE cohort, whereas they had no correlations in KRAS wild-type patients of the TRIBE cohort. No association was seen in control cohort.
+
+## CONCLUSIONS
+Our study demonstrates for the first time that variations in genes regulating TAMs-related functions are significantly associated with clinical outcomes in mCRC patients treated with bevacizumab-containing chemotherapy. These results also suggest that some TAM-related gene variations may predict outcomes of bevacizumab treatment in KRAS status-dependent manner.

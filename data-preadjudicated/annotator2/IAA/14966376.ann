@@ -1,0 +1,22 @@
+T1	Gene_protein 24 27	APC
+T2	Gene_protein 360 363	APC
+T3	DNA_Mutation 411 419	mutation
+T4	DNA_Mutation 684 692	mutation
+T5	Gene_protein 705 708	APC
+R1	Has_Mutation Arg1:T5 Arg2:T4	
+T6	DNA_Mutation 780 789	mutations
+T7	DNA_Mutation 855 863	mutation
+T8	locus 871 881	codon 2166
+T9	DNA_Mutation 890 907	C to T transition
+R2	Has_Mutation Arg1:T8 Arg2:T9	
+T10	DNA_Mutation 953 961	mutation
+T11	locus 969 979	codon 1971
+T12	DNA_Mutation 988 1007	C to G transversion
+R3	Has_Mutation Arg1:T11 Arg2:T12	
+T13	Protein_Mutation 1048 1066	serine to cysteine
+T14	DNA_Mutation 1078 1086	mutation
+T16	locus 1142 1158	codons 1554-1556
+T15	DNA_Mutation 1099 1110	A insertion
+R6	Has_Mutation Arg1:T16 Arg2:T15	
+T17	locus 1199 1209	codon 1558
+T18	DNA_Mutation 1246 1254	mutation

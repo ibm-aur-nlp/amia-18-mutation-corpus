@@ -1,0 +1,18 @@
+T1	Protein_Mutation 4 13	Pro198Leu
+T2	Protein_Mutation 23 32	Ser326Cys
+T3	Protein_Mutation 529 538	Pro198Leu
+T4	Protein_Mutation 622 631	Ser326Cys
+T5	Gene_protein 0 3	GPX
+T6	Gene_protein 18 22	OGG1
+T7	Mutation 33 46	polymorphisms
+T8	DNA_Mutation 220 233	polymorphisms
+T9	Gene_protein 291 294	GPX
+T10	Gene_protein 299 303	OGG1
+T11	DNA_Mutation 512 524	polymorphism
+T12	Gene_protein 525 528	GPX
+R1	Has_Mutation Arg1:T12 Arg2:T3	
+R2	Has_Mutation Arg1:T5 Arg2:T1	
+R3	Has_Mutation Arg1:T6 Arg2:T2	
+T13	DNA_Mutation 632 644	polymorphism
+T14	Gene_protein 617 621	OGG1
+R4	Has_Mutation Arg1:T14 Arg2:T4	

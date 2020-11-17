@@ -1,0 +1,17 @@
+T1	Gene_protein 580 584	IL-1
+T2	Gene_protein 586 591	IL-10
+T3	Gene_protein 593 598	TNF-A
+T4	Gene_protein 604 609	TGF-B
+T5	Gene_protein 1008 1013	IL-10
+T6	locus 1013 1017	-592
+R1	Component_of Arg1:T6 Arg2:T5	
+T7	Gene_protein 1098 1103	IL-10
+T8	locus 1103 1107	-592
+R2	Component_of Arg1:T8 Arg2:T7	
+T9	Gene_protein 1171 1185	interleukin-10
+*	Alias T9 T7
+T10	DNA_Mutation 1503 1509	mutant
+T11	Gene_protein 1510 1515	IL-10
+T12	locus 1515 1519	-592
+R3	Component_of Arg1:T12 Arg2:T11	
+T13	Gene_protein 1693 1707	interleukin-10

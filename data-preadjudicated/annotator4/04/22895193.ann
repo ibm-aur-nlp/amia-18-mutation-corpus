@@ -1,0 +1,27 @@
+T1	Gene_protein 10 19	R-spondin
+T2	DNA_Mutation 398 413	somatic changes
+T3	Gene_protein 466 469	Wnt
+T4	Gene_protein 483 489	TCF7L2
+T5	Gene_protein 527 531	TET2
+T6	Gene_protein 536 540	TET3
+T7	Gene_protein 581 586	ERBB3
+T8	Gene_protein 545 570	receptor tyrosine kinases
+T9	Gene_protein 709 712	ATM
+T10	Gene_protein 814 818	IGF2
+T11	DNA_Mutation 895 922	multiple fusion transcripts
+T12	DNA_Mutation 933 955	recurrent gene fusions
+T13	Gene_protein 966 975	R-spondin
+T14	Gene_protein 991 996	RSPO2
+T15	Gene_protein 1001 1006	RSPO3
+T16	Gene_protein 1056 1060	RSPO
+T17	DNA_Mutation 1061 1068	fusions
+R1	Has_Mutation Arg1:T16 Arg2:T17	
+T18	Gene_protein 1098 1101	APC
+T19	Gene_protein 1176 1179	Wnt
+T20	Gene_protein 1248 1252	RSPO
+T21	DNA_Mutation 1253 1259	fusion
+R2	Has_Mutation Arg1:T20 Arg2:T21	
+T22	Gene_protein 1298 1301	Wnt
+T23	Gene_protein 1318 1327	R-spondin
+T24	DNA_Mutation 1333 1340	fusions
+R3	Has_Mutation Arg1:T23 Arg2:T24	

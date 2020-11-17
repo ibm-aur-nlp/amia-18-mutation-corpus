@@ -1,0 +1,18 @@
+T1	Gene_protein 37 41	KRAS
+T2	DNA_Mutation 42 50	mutation
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 109 113	EGFR
+T4	Gene_protein 176 180	KRAS
+T5	DNA_Mutation 181 189	mutation
+R2	Has_Mutation Arg1:T4 Arg2:T5	
+T6	Gene_protein 256 288	epidermal growth factor receptor
+T7	Gene_protein 382 386	KRAS
+T8	DNA_Mutation 594 604	mutational
+T9	Gene_protein 658 662	KRAS
+T10	DNA_Mutation 663 672	mutations
+R3	Has_Mutation Arg1:T9 Arg2:T10	
+T11	DNA_Mutation 899 907	mutation
+T12	DNA_Mutation 942 948	mutant
+T13	Gene_protein 1361 1365	KRAS
+T14	DNA_Mutation 1366 1374	mutation
+R4	Has_Mutation Arg1:T13 Arg2:T14	

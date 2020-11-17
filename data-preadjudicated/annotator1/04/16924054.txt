@@ -1,0 +1,11 @@
+An illustrative case of Muir-Torre syndrome: contribution of immunohistochemical analysis in identifying indicator sebaceous lesions.
+
+
+## BACKGROUND
+Muir-Torre syndrome (MTS) is an autosomal dominant genodermatosis characterized by the association of at least 1 cutaneous sebaceous tumor and 1 internal malignancy, often arising in the gastrointestinal tract. It is secondary to germline mutations in DNA mismatch repair genes, mainly MLH-1 and MSH-2.
+
+## OBSERVATIONS
+We report the case of a 54-year-old man with a 2-year history of skin-colored papules clinically reminiscent of large sebaceous hyperplasias on the nose and back, but histologically diagnosed as sebaceous adenomas and epitheliomas. His family history was positive for colon cancer in the mother and 2 brothers. A colonoscopy done during the hospitalization revealed 2 sessile polyps in the left colon, both showing a low-grade dysplasia on the biopsy specimen. Immunohistochemical staining performed on the cutaneous and colic biopsy specimens revealed a lack of expression of MSH-2 and MSH-6. Genetic testing revealed microsatellite instability in the colon and cutaneous tumors.
+
+## CONCLUSION
+The immunohistochemical testing for MSH-2, MSH-6, and MLH-1 is useful for rapid identification of an underlying mismatch repair defect and early diagnosis of MTS.

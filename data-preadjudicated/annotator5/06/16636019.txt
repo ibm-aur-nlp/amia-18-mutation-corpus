@@ -1,0 +1,17 @@
+Identification of mismatch repair gene mutations in young patients with colorectal cancer and in patients with multiple tumours associated with hereditary non-polyposis colorectal cancer.
+
+
+## BACKGROUND
+Patients with early-onset colorectal cancer (CRC) or those with multiple tumours associated with hereditary non-polyposis colorectal cancer (HNPCC) raise suspicion of the presence of germline DNA mismatch repair (MMR) gene mutations.
+
+## AIM
+To analyse the value of family history, microsatellite instability (MSI) analysis and MMR protein staining in the tumour to predict the presence of an MMR gene mutation in such patients.
+
+## METHODS
+In 281 patients diagnosed with CRC before the age of 50 years or with CRC and at least one additional HNPCC-associated cancer, germline mutation analysis in MLH1, MSH2 and MSH6 was carried out with denaturing gradient gel electrophoresis and multiplex ligation-dependent probe amplification. MSI analysis with five consensus markers and MMR protein staining for MLH1, MSH2 and MSH6 were carried out in the tumours.
+
+## RESULTS
+25 pathogenic mutations (8 in MLH1, 9 in MSH2 and 8 in MSH6) were found. MSI analysis missed three and immunohistochemistry (IHC) missed two mutation carriers. Sensitivities of family history, MSI analysis and IHC for the presence of a mutation were 76%, 82% and 88%, specificities were 64%, 70% and 84%, and positive predictive values were 19%, 23% and 38%, respectively. Multivariate analysis showed the highest odds ratio for IHC (38.3, 95% confidence interval 9.0 to 184). Prevalence of pathogenic germline MMR gene mutations in patients with CRC before the age of 50 years was 6% and in those with > or =2 HNPCC-associated tumours was 22%. In the second group, no mutation carriers were found among the 29 patients who were diagnosed with their first tumour after the age of 60 years.
+
+## CONCLUSION
+Family history, MSI analysis and IHC are indicative parameters to select patients with CRC for MMR gene mutation analysis. The data show that IHC is the best single selection criterion.

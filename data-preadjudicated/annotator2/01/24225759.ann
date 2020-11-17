@@ -1,0 +1,16 @@
+T1	Mutation 293 301	Mutation
+T2	Gene_protein 314 318	BRAF
+T3	Gene_protein 320 324	KRAS
+T4	Gene_protein 326 332	PIK3CA
+T5	Gene_protein 338 342	EGFR
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+R2	Has_Mutation Arg1:T3 Arg2:T1	
+R3	Has_Mutation Arg1:T4 Arg2:T1	
+R4	Has_Mutation Arg1:T5 Arg2:T1	
+T6	Gene_protein 380 385	Ki-67
+T7	Gene_protein 963 967	KRAS
+T8	Mutation 968 976	mutation
+R5	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 1010 1014	BRAF
+T10	Mutation 1015 1023	mutation
+R6	Has_Mutation Arg1:T9 Arg2:T10	

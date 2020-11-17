@@ -1,0 +1,21 @@
+T1	Gene_protein 17 24	CYP19A1
+T2	Gene_protein 68 75	CYP19A1
+T3	Gene_protein 80 89	aromatase
+*	Alias T2 T3
+T4	DNA_Mutation 174 183	variation
+T5	Gene_protein 191 198	CYP19A1
+R1	Has_Mutation Arg1:T5 Arg2:T4	
+T6	DNA_Mutation 370 374	SNPs
+T7	dbSNP 544 554	rs12591359
+T8	dbSNP 659 668	rs2470144
+T9	Gene_protein 761 768	CYP19A1
+T10	Gene_protein 806 811	KRAS2
+T11	DNA_Mutation 812 819	mutated
+R2	Has_Mutation Arg1:T10 Arg2:T11	
+T12	dbSNP 847 856	rs1961177
+T13	Gene_protein 921 924	MSI
+T14	Mutation 924 925	+
+R3	Has_Mutation Arg1:T13 Arg2:T14	
+T15	Gene_protein 1046 1051	NFκB1
+T16	Gene_protein 1056 1063	CYP19A1
+T17	Gene_protein 1133 1140	CYP19A1

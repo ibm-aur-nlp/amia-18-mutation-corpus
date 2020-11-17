@@ -1,0 +1,13 @@
+T1	Gene_protein 45 50	TGF-β
+T2	DNA_Mutation 155 186	single-nucleotide polymorphisms
+T3	Gene_protein 354 381	ransforming growth factor-β
+T4	Gene_protein 383 388	TGF-β
+T5	Gene_protein 720 725	TGF-β
+T6	DNA_Mutation 818 849	single-nucleotide polymorphisms
+T7	DNA_Mutation 851 855	SNPs
+*	Alias T7 T6
+T8	Gene_protein 869 874	TGF-β
+T9	dbSNP 1198 1205	rs12997
+T10	DNA_Mutation 1206 1211	ACVR1
+*	Alias T10 T9
+T11	DNA_Mutation 1446 1450	SNPs

@@ -1,0 +1,28 @@
+T1	DNA_Mutation 159 166	mutated
+T2	Gene_protein 167 193	transforming growth factor
+T3	Gene_protein 195 198	TGF
+*	Alias T3 T2
+T4	Gene_protein 317 326	TGF-beta.
+T5	Gene_protein 200 204	beta
+T6	DNA_Mutation 327 336	Mutations
+T7	locus 347 373	microsatellite-like region
+T8	Gene_protein 382 407	type II TGF-beta receptor
+T9	Gene_protein 753 759	type I
+T10	Gene_protein 764 790	type II TGF-beta receptors
+T11	locus 891 922	two microsatellite-like regions
+T12	Gene_protein 930 946	type II receptor
+T13	Gene_protein 965 974	receptors
+T14	Gene_protein 1084 1100	type II receptor
+T15	DNA_Mutation 1229 1237	mutation
+T16	locus 1258 1285	microsatellite-like regions
+T17	Gene_protein 1289 1300	receptor II
+R1	Component_of Arg1:T16 Arg2:T17	
+R2	Component_of Arg1:T11 Arg2:T12	
+R3	Component_of Arg1:T7 Arg2:T8	
+R4	Has_Mutation Arg1:T7 Arg2:T6	
+R5	Has_Mutation Arg1:T16 Arg2:T15	
+T18	DNA_Mutation 1408 1415	mutated
+T19	Gene_protein 1416 1434	TGF-beta receptors
+R6	Has_Mutation Arg1:T19 Arg2:T18	
+T20	Gene_protein 1470 1478	TGF-beta
+T21	Gene_protein 14 55	transforming growth factor beta receptors

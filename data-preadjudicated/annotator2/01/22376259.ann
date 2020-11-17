@@ -1,0 +1,32 @@
+T1	Gene_protein 49 54	COX-2
+T2	DNA_Mutation 100 131	Single nucleotide polymorphisms
+T3	DNA_Mutation 133 137	SNPs
+T4	Gene_protein 182 196	cyclooxygenase
+T5	Gene_protein 198 201	COX
+*	Alias T5 T4
+T6	locus 146 154	promoter
+R1	Component_of Arg1:T6 Arg2:T4	
+T7	locus 159 178	untranslated region
+R2	Has_Mutation Arg1:T4 Arg2:T3	
+R3	Has_Mutation Arg1:T4 Arg2:T2	
+R4	Has_Mutation Arg1:T6 Arg2:T3	
+R5	Has_Mutation Arg1:T6 Arg2:T2	
+R6	Has_Mutation Arg1:T7 Arg2:T3	
+R7	Has_Mutation Arg1:T7 Arg2:T2	
+T8	DNA_Mutation 423 454	single nucleotide polymorphisms
+T9	Gene_protein 462 467	COX-2
+T10	DNA_Mutation 604 613	variation
+T11	locus 758 764	exon 1
+T12	locus 740 754	coding regions
+T13	locus 795 818	3'-unstranslated region
+T14	locus 820 826	3'-UTR
+*	Alias T14 T13
+T15	locus 876 882	3'-UTR
+T16	locus 766 773	introns
+T17	DNA_Mutation 1105 1115	6,064(T>C)
+T18	DNA_Mutation 1116 1128	polymorphism
+T19	Gene_protein 1390 1395	COX-2
+T20	DNA_Mutation 1518 1528	variations
+T21	Gene_protein 1609 1614	COX-2
+T22	DNA_Mutation 1615 1627	polymorphism
+R8	Has_Mutation Arg1:T21 Arg2:T22	

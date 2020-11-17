@@ -1,0 +1,26 @@
+T1	DNA_Mutation 2 8	mutant
+T2	Gene_protein 19 24	MRE11
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	Gene_protein 231 236	Mre11
+T4	Gene_protein 237 242	Rad50
+T5	Gene_protein 243 247	Nbs1
+T6	DNA_Mutation 441 447	mutant
+T7	Gene_protein 458 463	MRE11
+R2	Has_Mutation Arg1:T7 Arg2:T6	
+T8	DNA_Mutation 567 573	mutant
+T9	Gene_protein 574 579	Mre11
+R3	Has_Mutation Arg1:T9 Arg2:T8	
+T10	Gene_protein 602 607	Rad50
+T11	Gene_protein 660 664	Nbs1
+T12	DNA_Mutation 670 676	mutant
+T13	DNA_Mutation 969 975	mutant
+T14	Gene_protein 1141 1162	replication protein A
+T15	Gene_protein 187 216	ataxia-telangiectasia mutated
+T16	Gene_protein 218 221	ATM
+*	Alias T16 T15
+T17	Gene_protein 1164 1167	ATM
+T18	Gene_protein 1189 1194	Mre11
+T19	DNA_Mutation 1287 1293	mutant
+T20	DNA_Mutation 1341 1347	mutant
+T21	Gene_protein 1348 1353	Mre11
+R4	Has_Mutation Arg1:T21 Arg2:T20	

@@ -1,0 +1,53 @@
+T1	locus 19 24	FRA8I
+T2	Gene_protein 83 91	KIAA0146
+T3	Gene_protein 93 98	CEBPD
+T4	Gene_protein 103 108	PRKDC
+R1	Component_of Arg1:T1 Arg2:T2	
+T5	DNA_Mutation 159 178	genomic aberrations
+T6	locus 270 287	chromosome arm 8p
+T7	DNA_Mutation 260 266	losses
+R2	Has_Mutation Arg1:T6 Arg2:T7	
+T8	locus 301 318	chromosome arm 8q
+T9	DNA_Mutation 292 297	gains
+R3	Has_Mutation Arg1:T8 Arg2:T9	
+T10	DNA_Mutation 345 371	chromosomal rearrangements
+T11	locus 393 428	centromeric portion of chromosome 8
+T12	DNA_Mutation 468 487	Genomic alterations
+T13	locus 579 599	common fragile sites
+T14	locus 601 605	cFSs
+*	Alias T14 T13
+T15	locus 608 612	CFSs
+T16	locus 770 775	FRA8I
+T18	locus 862 867	FRA8I
+T19	Gene_protein 880 888	KIAA0146
+R4	Component_of Arg1:T18 Arg2:T19	
+T20	Gene_protein 956 961	CEBPD
+T21	Gene_protein 974 979	PRKDC
+R5	Component_of Arg1:T1 Arg2:T3	
+R6	Component_of Arg1:T1 Arg2:T4	
+R7	Component_of Arg1:T18 Arg2:T20	
+R8	Component_of Arg1:T18 Arg2:T21	
+T22	locus 1073 1078	FRA8I
+T23	DNA_Mutation 1177 1199	copy number alteration
+T24	locus 1216 1221	FRA8I
+R9	Has_Mutation Arg1:T24 Arg2:T23	
+T25	DNA_Mutation 1396 1409	recombination
+T26	Gene_protein 1450 1458	KIAA0146
+R10	Has_Mutation Arg1:T26 Arg2:T25	
+T27	Gene_protein 1475 1478	cFS
+R11	Has_Mutation Arg1:T27 Arg2:T25	
+T28	Gene_protein 1574 1582	KIAA0146
+T29	DNA_Mutation 1662 1678	t(8;14)(q11;q32)
+T30	DNA_Mutation 1588 1601	translocation
+R12	Has_Mutation Arg1:T28 Arg2:T30	
+T31	Gene_protein 1617 1643	immunoglobulin heavy chain
+T32	DNA_Mutation 1679 1693	translocations
+R13	Has_Mutation Arg1:T31 Arg2:T32	
+T33	DNA_Mutation 1821 1844	chromosomal instability
+T34	Gene_protein 1892 1900	KIAA0146
+T17	locus 796 803	8q11.21
+T35	DNA_Mutation 1082 1090	unstable
+A1	ToReview T35
+R14	Has_Mutation Arg1:T22 Arg2:T35	
+T36	DNA_Mutation 0 11	Instability
+R15	Has_Mutation Arg1:T1 Arg2:T36	

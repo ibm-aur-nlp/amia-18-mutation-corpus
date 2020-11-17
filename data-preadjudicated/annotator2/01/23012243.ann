@@ -1,0 +1,69 @@
+T1	DNA_Mutation 41 50	deletions
+T2	locus 61 69	3' Exons
+T3	Gene_protein 77 81	PMS2
+R1	Component_of Arg1:T2 Arg2:T3	
+R2	Has_Mutation Arg1:T3 Arg2:T1	
+R3	Has_Mutation Arg1:T2 Arg2:T1	
+T4	DNA_Mutation 124 133	mutations
+T5	Gene_protein 172 176	MLH1
+T6	Gene_protein 178 182	MSH2
+T7	Gene_protein 184 188	MSH6
+T8	Gene_protein 193 197	PMS2
+T9	DNA_Mutation 208 216	mutation
+T10	DNA_Mutation 283 291	deletion
+T11	DNA_Mutation 292 303	duplication
+T12	DNA_Mutation 336 345	deletions
+T13	DNA_Mutation 350 362	duplications
+T14	Gene_protein 366 370	PMS2
+R4	Has_Mutation Arg1:T14 Arg2:T13	
+R5	Has_Mutation Arg1:T14 Arg2:T12	
+T15	locus 403 413	Exons 1-11
+R6	Component_of Arg1:T15 Arg2:T14	
+R7	Has_Mutation Arg1:T15 Arg2:T13	
+R8	Has_Mutation Arg1:T15 Arg2:T12	
+T16	Gene_protein 445 449	PMS2
+T17	Gene_protein 469 475	PMS2CL
+T18	locus 493 501	3' exons
+T19	locus 503 514	Exons 12-15
+T20	DNA_Mutation 591 600	deletions
+T21	Gene_protein 604 608	PMS2
+T22	locus 609 620	Exons 12-15
+R9	Component_of Arg1:T22 Arg2:T21	
+R10	Has_Mutation Arg1:T21 Arg2:T20	
+R11	Has_Mutation Arg1:T22 Arg2:T20	
+T23	DNA_Mutation 653 662	deletions
+T24	locus 732 734	3'
+T25	DNA_Mutation 735 744	deletions
+R12	Has_Mutation Arg1:T24 Arg2:T25	
+T26	Gene_protein 797 801	PMS2
+T27	DNA_Mutation 802 811	mutations
+R13	Has_Mutation Arg1:T26 Arg2:T27	
+T28	DNA_Mutation 905 909	loss
+T29	Gene_protein 913 917	PMS2
+R14	Has_Mutation Arg1:T29 Arg2:T28	
+T30	DNA_Mutation 967 971	loss
+T31	Gene_protein 975 979	MLH1
+R15	Has_Mutation Arg1:T31 Arg2:T30	
+T32	DNA_Mutation 1044 1053	deletions
+T33	locus 1061 1063	3'
+T34	Gene_protein 1074 1078	PMS2
+R16	Component_of Arg1:T33 Arg2:T34	
+R17	Has_Mutation Arg1:T33 Arg2:T32	
+R18	Has_Mutation Arg1:T34 Arg2:T32	
+T35	DNA_Mutation 1129 1138	deletions
+T36	locus 1142 1153	Exons 13-15
+R19	Has_Mutation Arg1:T36 Arg2:T35	
+T37	locus 1172 1183	Exons 14-15
+R20	Has_Mutation Arg1:T37 Arg2:T35	
+T38	DNA_Mutation 1204 1213	deletions
+T39	locus 1217 1228	Exons 12-15
+T40	locus 1230 1237	Exon 13
+T41	locus 1243 1250	Exon 14
+R21	Has_Mutation Arg1:T39 Arg2:T38	
+R22	Has_Mutation Arg1:T40 Arg2:T38	
+R23	Has_Mutation Arg1:T41 Arg2:T38	
+T42	DNA_Mutation 1304 1313	deletions
+T43	Gene_protein 1440 1444	PMS2
+T44	DNA_Mutation 1445 1453	mutation
+R24	Has_Mutation Arg1:T43 Arg2:T44	
+T45	DNA_Mutation 1503 1512	mutations

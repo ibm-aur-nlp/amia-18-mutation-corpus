@@ -1,0 +1,6 @@
+T1	DNA_Mutation 984 992	mutation
+T2	Gene_protein 1320 1324	KRAS
+T3	DNA_Mutation 1325 1334	mutations
+R1	Has_Mutation Arg1:T2 Arg2:T3	
+T4	Gene_protein 1294 1306	beta-catenin
+T5	Gene_protein 1433 1436	p53

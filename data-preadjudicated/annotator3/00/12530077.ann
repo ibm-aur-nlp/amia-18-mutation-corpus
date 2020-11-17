@@ -1,0 +1,15 @@
+T1	Gene_protein 112 119	Mucin-1
+T2	Gene_protein 170 179	Muc-1/DF3
+T3	Gene_protein 10 14	Muc1
+T4	Gene_protein 475 484	Muc-1/DF3
+T5	Gene_protein 718 725	Mucin-1
+T6	Gene_protein 534 542	Gal4VP16
+T7	Gene_protein 586 590	Gal4
+T8	Gene_protein 922 930	Gal4VP16
+T9	Gene_protein 980 989	Muc-1/DF3
+T10	Gene_protein 1070 1079	Muc-1/DF3
+T13	Gene_protein 1198 1206	Gal4VP16
+T14	DNA_modification 0 9	Amplified
+T11	Gene_protein 1019 1024	mucin
+T12	Gene_protein 1219 1224	muc-1
+R1	Has_Modification Arg1:T3 Arg2:T14	

@@ -1,0 +1,13 @@
+T1	DNA_Mutation 497 505	mutation
+T2	Gene_protein 513 522	polyposis
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	DNA_Mutation 1024 1032	mutation
+T4	locus 1048 1058	codon 1250
+T5	locus 1086 1091	codon
+T6	DNA_Mutation 1272 1281	mutations
+T7	locus 1302 1312	codon 1250
+T8	locus 1357 1362	codon
+T9	DNA_Mutation 1498 1507	mutations
+T10	locus 1515 1525	codon 1250
+T11	DNA_Mutation 1549 1558	mutations
+T12	locus 1570 1575	codon

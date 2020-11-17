@@ -1,0 +1,3 @@
+DNA mismatch repair and cancer.
+
+The genetic basis of cancer involves certain classes of genes, particularly oncogenes, tumor-suppressor genes, and DNA mismatch repair genes. Originally identified in bacteria and yeast, the human homologues of DNA mismatch repair genes have been implicated in the pathogenesis of the hereditary nonpolyposis colorectal cancer syndromes, as well as a variety of different sporadic cancers. An appreciation of their role in cancer is predicated on an understanding of their function in the processes of DNA repair. This article reviews the recent developments and advances in the biology of the human DNA mismatch repair genes and their involvement in the pathogenesis of cancer.

@@ -1,0 +1,3 @@
+T1	DNA_Mutation 756 771	Mismatch repair
+T2	DNA_Mutation 773 776	MMR
+*	Alias T1 T2

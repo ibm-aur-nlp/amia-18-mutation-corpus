@@ -1,0 +1,20 @@
+T1	Gene_protein 148 153	K-Ras
+T2	DNA_modification 154 164	activation
+R1	Has_Modification Arg1:T1 Arg2:T2	
+T3	DNA_Mutation 227 236	mutations
+T4	DNA_Mutation 306 315	mutations
+T5	Gene_protein 474 477	RAF
+T6	Gene_protein 478 481	MEK
+T7	Gene_protein 482 485	ERK
+T8	Gene_protein 494 498	PI3K
+T9	Gene_protein 499 502	Akt
+T10	Gene_protein 523 527	PI3K
+T11	Gene_protein 528 531	Akt
+T12	Gene_protein 1203 1206	Akt
+T13	Gene_protein 1211 1216	p-Akt
+T14	Gene_protein 1644 1649	p-Akt
+T15	Gene_protein 1739 1744	K-Ras
+T16	Gene_protein 1888 1893	p-Akt
+T17	Gene_protein 2272 2277	K-Ras
+T18	DNA_Mutation 2265 2271	mutant
+R2	Has_Mutation Arg1:T17 Arg2:T18	

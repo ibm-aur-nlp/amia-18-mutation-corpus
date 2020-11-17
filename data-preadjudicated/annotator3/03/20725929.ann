@@ -1,0 +1,13 @@
+T1	Gene_protein 38 43	MUTYH
+T2	Gene_protein 55 60	MUTYH
+T3	Gene_protein 153 158	MUTYH
+T4	DNA_Mutation 159 167	variants
+R1	Has_Mutation Arg1:T3 Arg2:T4	
+T6	Protein_Mutation 301 310	Tyr179Cys
+T5	DNA_Mutation 292 298	536A4G
+T7	DNA_Mutation 317 324	1187G4A
+T8	Protein_Mutation 327 336	Gly396Asp
+T9	DNA_Mutation 351 357	494A4G
+T10	Protein_Mutation 360 369	Tyr165Cys
+T11	DNA_Mutation 376 383	1145G4A
+T12	Protein_Mutation 386 395	Gly382Asp

@@ -1,0 +1,14 @@
+Molecular genetic tests as a guide to surgical management of familial adenomatous polyposis.
+
+
+## BACKGROUND
+In familial adenomatous polyposis the only curative treatment is colectomy, and the choice of operation lies between restorative proctocolectomy (RPC) and colectomy with ileorectal anastomosis (IRA). The RPC procedure carries a higher morbidity but, unlike IRA, removes the risk of subsequent rectal cancer. Since the course of familial adenomatous polyposis is influenced by the site of mutation in the polyposis gene, DNA analysis might be helpful in treatment decisions.
+
+## METHODS
+We evaluated the incidence of rectal cancer in polyposis patients who had undergone IRA, and examined whether the requirement for subsequent rectal excision because of cancer or uncontrollable polyps was related to the site of mutation.
+
+## FINDINGS
+Between 1956 and mid-1995, 225 patients registered at the Netherlands Polyposis Registry had undergone IRA. In 87 of them, a pathogenetic mutation was detected. 72 patients had a mutation located before codon 1250 and 15 patients after this codon. The cumulative risk of rectal cancer 20 years after surgery was 12%, and at that time 42% had undergone rectal excision. The risk of secondary surgery was higher in patients with mutations in the region after codon 1250 than in patients with mutations before this codon (relative risk 2.7, p < 0.05).
+
+## INTERPRETATION
+On this evidence, IRA should be the primary treatment for polyposis in patients with mutations before codon 1250, and RPC in those with mutations after this codon.

@@ -1,0 +1,67 @@
+T1	Gene_protein 0 4	BRAF
+T2	Protein_Mutation 4 9	V600E
+T3	Gene_protein 106 110	BRAF
+T4	Protein_Mutation 110 115	V600E
+T5	Protein_Mutation 116 124	mutation
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+R3	Has_Mutation Arg1:T3 Arg2:T5	
+T6	DNA_Mutation 128 151	microsatellite-unstable
+R4	Has_Mutation Arg1:T3 Arg2:T6	
+T7	Gene_protein 396 400	BRAF
+T8	Protein_Mutation 400 405	V600E
+R5	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 454 458	BRAF
+T10	Protein_Mutation 458 463	V600E
+R6	Has_Mutation Arg1:T9 Arg2:T10	
+T11	Gene_protein 682 686	BRAF
+T12	Protein_Mutation 686 691	V600E
+R7	Has_Mutation Arg1:T11 Arg2:T12	
+T13	Gene_protein 821 825	BRAF
+T14	Mutation 826 834	mutation
+R8	Has_Mutation Arg1:T13 Arg2:T14	
+T15	DNA_Mutation 883 886	MSI
+T16	DNA_Mutation 153 156	MSI
+*	Alias T16 T6
+T17	Gene_protein 889 893	MLH1
+T18	DNA_modification 903 914	methylation
+R9	Has_Modification Arg1:T17 Arg2:T18	
+T19	Gene_protein 929 933	MLH1
+T20	DNA_Mutation 934 942	mutation
+R10	Has_Mutation Arg1:T19 Arg2:T20	
+T21	locus 894 902	promoter
+R11	Has_Modification Arg1:T21 Arg2:T18	
+R12	Component_of Arg1:T21 Arg2:T17	
+T22	Gene_protein 969 973	BRAF
+T23	Protein_Mutation 973 978	V600E
+R13	Has_Mutation Arg1:T22 Arg2:T23	
+T24	Gene_protein 1114 1118	BRAF
+T25	Gene_protein 1358 1362	BRAF
+T26	Protein_Mutation 1362 1367	V600E
+R14	Has_Mutation Arg1:T25 Arg2:T26	
+T27	Gene_protein 1432 1436	BRAF
+T28	Gene_protein 1460 1464	BRAF
+T29	Gene_protein 1479 1483	BRAF
+T30	DNA_Mutation 1484 1487	MSI
+R15	Has_Mutation Arg1:T29 Arg2:T30	
+T31	Gene_protein 1504 1508	BRAF
+T32	DNA_Mutation 1509 1512	MSI
+R16	Has_Mutation Arg1:T31 Arg2:T32	
+T33	Gene_protein 1574 1578	BRAF
+T34	DNA_Mutation 1579 1582	MSI
+R17	Has_Mutation Arg1:T33 Arg2:T34	
+T35	Gene_protein 1601 1605	BRAF
+T36	Gene_protein 1662 1666	BRAF
+T37	Protein_Mutation 1666 1671	V600E
+R18	Has_Mutation Arg1:T36 Arg2:T37	
+T38	Gene_protein 1713 1717	MLH1
+T39	Mutation 1718 1726	mutation
+R19	Has_Mutation Arg1:T38 Arg2:T39	
+T40	Gene_protein 1817 1821	BRAF
+T41	Protein_Mutation 1821 1826	V600E
+R20	Has_Mutation Arg1:T40 Arg2:T41	
+T42	Gene_protein 1940 1944	BRAF
+T43	Protein_Mutation 1944 1949	V600E
+R21	Has_Mutation Arg1:T42 Arg2:T43	
+T44	Mutation 1950 1956	mutant
+R22	Has_Mutation Arg1:T42 Arg2:T44	

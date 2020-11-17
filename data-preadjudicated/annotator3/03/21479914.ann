@@ -1,0 +1,18 @@
+T1	Gene_protein 17 24	CYP19A1
+T2	DNA_Mutation 0 9	Variation
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 68 75	CYP19A1
+T4	Gene_protein 191 198	CYP19A1
+T5	DNA_Mutation 174 183	variation
+R2	Has_Mutation Arg1:T4 Arg2:T5	
+T6	dbSNP 544 554	rs12591359
+T7	dbSNP 659 668	rs2470144
+T8	Gene_protein 761 768	CYP19A1
+T9	Gene_protein 806 811	KRAS2
+T10	dbSNP 847 856	rs1961177
+T11	Gene_protein 1046 1051	NFκB1
+T12	Gene_protein 1056 1063	CYP19A1
+T13	Gene_protein 1133 1140	CYP19A1
+T14	DNA_Mutation 1033 1042	variation
+R3	Has_Mutation Arg1:T11 Arg2:T14	
+R4	Has_Mutation Arg1:T12 Arg2:T14	

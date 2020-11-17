@@ -1,0 +1,13 @@
+T1	Gene_protein 19 24	PAI 1
+T2	Gene_protein 84 115	Plasminogen activator ihnibitor
+T3	Gene_protein 117 122	PAI 1
+*	Alias T2 T3
+T4	Gene_protein 381 386	PAI 1
+T5	Gene_protein 563 568	PAI 1
+T6	Gene_protein 687 692	PAI 1
+T7	dbSNP 693 702	rs1799889
+R1	Has_Mutation Arg1:T6 Arg2:T7	
+T8	Gene_protein 1129 1134	PAI 1
+T9	Gene_protein 992 997	PAI 1
+T10	Gene_protein 1198 1203	PAI 1
+T11	Gene_protein 1402 1407	PAI 1

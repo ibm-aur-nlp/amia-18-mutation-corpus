@@ -1,0 +1,14 @@
+Polymorphisms in the cytochrome P450 CYP1A2 gene (CYP1A2) in colorectal cancer patients and controls: allele frequencies, linkage disequilibrium and influence on caffeine metabolism.
+
+
+## AIMS
+Several single nucleotide polymorphisms (SNPs) of the cytochrome P450 enzyme 1A2 gene (CYP1A2) have been reported. Here, frequencies, linkage disequilibrium and phenotypic consequences of six SNPs are described.
+
+## METHODS
+From genomic DNA, 114 British Caucasians (49 colorectal cancer cases and 65 controls) were genotyped for the CYP1A2 polymorphisms -3858G-->A (allele CYP1A2*1C), -2464T-->delT (CYP1A2*1D), -740T-->G (CYP1A2*1E and *1G), -164A-->C (CYP1A2*1F), 63C-->G (CYP1A2*2), and 1545T-->C (alleles CYP1A2*1B, *1G, *1H and *3), using polymerase chain reaction-restriction fragment length polymorphism assays. All patients and controls were phenotyped for CYP1A2 by h.p.l.c. analysis of urinary caffeine metabolites.
+
+## RESULTS
+In 114 samples, the most frequent CYP1A2 SNPs were 1545T-->C (38.2% of tested chromosomes), -164A-->C (CYP1A2*1F, 33.3%) and -2464T-->delT (CYP1A2*1D, 4.82%). The SNPs were in linkage disequilibrium: the most frequent constellations were found to be -3858G/-2464T/-740T/-164A/63C/1545T (61.8%), -3858G/-2464T/-740T/-164C/63C/1545C (33.3%), and -3858G/-2464delT/-740T/-164A/63C/1545C (3.51%), with no significant frequency differences between cases and controls. In the phenotype analysis, lower caffeine metabolic ratios were detected in cases than in controls. This was significant in smokers (n = 14, P = 0.020), and in a subgroup of 15 matched case-control pairs (P = 0.007), but it was not significant in nonsmokers (n = 100, P = 0.39). There was no detectable association between CYP1A2 genotype and caffeine phenotype.
+
+## CONCLUSIONS
+(i) CYP1A2 polymorphisms are in linkage disequilibrium. Therefore, only -164A-->C (CYP1A2*1F) and -2464T-->delT (CYP1A2*1D) need to be analysed in the routine assessment of CYP1A2 genotype; (ii) in vivo CYP1A2 activity is lower in colorectal cancer patients than in controls, and (iii) CYP1A2 genotype had no effect on phenotype (based on the caffeine metabolite ratio). However, this remains to be confirmed in a larger study.

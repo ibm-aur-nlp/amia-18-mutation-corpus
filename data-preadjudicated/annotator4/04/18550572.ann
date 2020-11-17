@@ -1,0 +1,12 @@
+T1	Gene_protein 975 978	MMR
+T2	DNA_Mutation 984 992	mutation
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 1294 1306	beta-catenin
+T4	Gene_protein 1320 1324	KRAS
+T5	DNA_Mutation 1325 1334	mutations
+R2	Has_Mutation Arg1:T4 Arg2:T5	
+T6	Gene_protein 1433 1436	p53
+T7	DNA_modification 1491 1502	methylation
+T8	Gene_protein 1770 1773	MMR
+T9	Mutation 1774 1784	deficiency
+R3	Has_Mutation Arg1:T8 Arg2:T9	

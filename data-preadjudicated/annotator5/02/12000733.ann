@@ -1,0 +1,40 @@
+T1	DNA_modification 11 22	methylation
+T2	locus 0 10	CpG island
+T6	locus 177 187	CpG island
+T7	DNA_modification 188 199	methylation
+R1	Has_Modification Arg1:T2 Arg2:T1	
+R2	Has_Modification Arg1:T6 Arg2:T7	
+T8	DNA_modification 275 286	methylation
+T10	DNA_modification 393 404	methylation
+T11	Gene_protein 419 422	p16
+T12	Gene_protein 446 451	MINT1
+T13	Gene_protein 453 474	methylated in tumor 1
+*	Alias T12 T13
+T14	Gene_protein 477 482	MINT2
+T15	Gene_protein 484 490	MINT31
+T16	Gene_protein 492 532	O(6)-methylguanine-DNA methyltransferase
+T17	Gene_protein 543 548	hMLH1
+T18	DNA_modification 583 594	methylation
+T20	Gene_protein 618 623	K-ras
+T21	DNA_Mutation 639 647	mutation
+R3	Has_Mutation Arg1:T20 Arg2:T21	
+T22	locus 675 688	chromosome 1p
+T23	locus 694 708	microsatellite
+T24	DNA_Mutation 709 720	instability
+R4	Has_Mutation Arg1:T23 Arg2:T24	
+T25	DNA_Mutation 650 671	oss of heterozygosity
+R5	Has_Mutation Arg1:T22 Arg2:T25	
+T26	DNA_modification 722 733	Methylation
+T3	Gene_protein 981 987	MINT31
+T4	DNA_modification 1008 1018	methylated
+R6	Has_Modification Arg1:T3 Arg2:T4	
+T5	DNA_modification 1135 1146	methylation
+T9	Gene_protein 1152 1157	K-ras
+T19	DNA_Mutation 1158 1166	mutation
+R7	Has_Mutation Arg1:T9 Arg2:T19	
+T27	DNA_Mutation 1188 1192	loss
+T28	locus 1196 1209	chromosome 1p
+R8	Has_Mutation Arg1:T28 Arg2:T27	
+T29	DNA_modification 1240 1251	methylation
+T30	DNA_modification 1350 1361	methylation
+T31	DNA_modification 1535 1545	epigenetic

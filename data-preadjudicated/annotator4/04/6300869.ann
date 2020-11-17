@@ -1,0 +1,13 @@
+T1	Gene_protein 114 119	c-myc
+T2	Gene_protein 457 462	c-myc
+T3	DNA_Mutation 283 308	double minute chromosomes
+T4	DNA_Mutation 310 321	COLO 320 DM
+*	Alias T4 T3
+T5	DNA_Mutation 471 482	COLO 320 DM
+T6	Gene_protein 619 624	c-myc
+T7	Gene_protein 779 784	c-myc
+T8	DNA_Mutation 809 822	translocation
+T9	locus 863 875	chromosome 8
+T10	locus 877 881	8q24
+T11	DNA_Mutation 892 917	double minute chromosomes
+T12	Gene_protein 1030 1035	c-myc

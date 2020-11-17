@@ -1,0 +1,14 @@
+Possible role of telomerase activation in the cancer predisposition of patients with hereditary nonpolyposis colorectal cancers.
+
+
+## BACKGROUND
+Hereditary nonpolyposis colorectal cancer syndrome (HNPCC syndrome; also called Lynch syndrome) is one of the most common cancer predisposition syndromes. Most cases of cancer associated with this syndrome are due to the inheritance of germline mutations in genes that encode proteins required for DNA mismatch repair; defects in these proteins allow mutations to accumulate more rapidly in the DNA and influence the rate of cancer development. Recent studies indicate that the reactivation of the activity of telomerase, an enzyme involved in the synthesis of chromosomal ends, in somatic cells may play a role in carcinogenesis. In this study, we evaluated the expression of telomerase in normal and cancerous colorectal tissue specimens from HNPCC and non-HNPCC patients.
+
+## METHODS
+The polymerase chain reaction-based telomeric repeat amplification protocol was used to assay telomerase activity in colorectal tissue specimens from 33 non-HNPCC patients (23 normal, 26 polyps, and 37 cancer specimens) and from 24 HNPCC patients (24 normal, 0 polyps, and 28 cancer specimens).
+
+## RESULTS
+Thirty-one of 37 carcinoma samples from 18 non-HNPCC patients and 27 of 28 carcinoma samples from 24 HNPCC patients were found to be positive for telomerase activity. Whereas only one of 23 normal mucosa samples from 23 non-HNPCC patients was found to have (weak) telomerase activity, eight of 24 normal mucosa samples from 24 HNPCC patients were positive for telomerase; the difference between the two groups was statistically significant (two-sided P = .0226).
+
+## IMPLICATION
+This study generates the hypothesis that genetic defects in individuals with HNPCC syndrome facilitate the reactivation of telomerase activity, a process which may be associated with their predisposition to develop cancer.

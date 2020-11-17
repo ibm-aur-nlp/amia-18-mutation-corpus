@@ -1,0 +1,14 @@
+Association between survivin gene polymorphisms and the susceptibility to colon cancer development in the Turkish population.
+
+
+## BACKGROUND
+Colon cancer is one of the most common cancers worldwide. Apoptosis is a necessary physiological process for cell elimination which is very important both cellular homeostasis and cell proliferation and differantiation. Dysregulation can lead to uncontrolled cell growth and tumor development. Survivin, a member of the IAP family, plays a key role in promotion of cell proliferation as well as inhibition of apoptosis in cancer cells. The aim of this study was to investigate whether specific genetic polymorphisms of survivin could be associated with colon cancer development and progression in a Turkish population. Our study is the first to our knowledge to investigate the relationship between colon cancer risk and survivin gene polymorphisms.
+
+## MATERIALS AND METHODS
+The relation between colon cancer and survivin -31 G/C (rs9904341), -241 C/T (rs17878467) and -625 C/G (rs8073069) polymorphism in promotor site of survivin gene associated with apoptosis was investigated using the polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method.
+
+## RESULTS
+Individuals with -31C allele and CC genotype were found to have a higher risk of developing colon cancer (OR=13.4, p=0.01). The -241 CT genotype considerably increased the risk of colon cancer (OR=12.0, p=0.0001). However, there was no significant varaition of the survivin -625 C/G polymorphism among colon cancer patients and controls in our study.
+
+## CONCLUSIONS
+This study provides the first evidence that survivin -31 G/C and -241 C/T SNP significantly contribute to the risk of colon cancer in the Turkish population.

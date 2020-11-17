@@ -1,0 +1,14 @@
+T1	Gene_protein 17 22	K-ras
+T2	DNA_Mutation 88 96	mutation
+T3	Gene_protein 107 112	K-ras
+T4	DNA_Mutation 180 188	mutation
+T5	Gene_protein 629 634	K-ras
+T6	DNA_Mutation 635 643	mutation
+T7	Gene_protein 765 770	K-ras
+T8	DNA_Mutation 776 784	mutation
+R1	Has_Mutation Arg1:T5 Arg2:T6	
+R2	Has_Mutation Arg1:T3 Arg2:T2	
+R3	Has_Mutation Arg1:T7 Arg2:T8	
+R4	Has_Mutation Arg1:T3 Arg2:T4	
+T9	DNA_Mutation 825 833	mutation
+T10	Gene_protein 1022 1027	K-ras

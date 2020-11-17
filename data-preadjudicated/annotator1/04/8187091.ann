@@ -1,0 +1,46 @@
+T1	Gene_protein 114 140	adenomatous polyposis coli
+T2	Gene_protein 43 69	adenomatous polyposis coli
+T3	DNA_Mutation 27 35	mutation
+R1	Has_Mutation Arg1:T2 Arg2:T3	
+T4	Gene_protein 142 145	APC
+*	Alias T1 T4
+T5	DNA_Mutation 479 488	mutations
+T6	DNA_Mutation 526 550	single-base substitution
+T7	DNA_Mutation 507 516	insertion
+T8	DNA_Mutation 494 502	deletion
+T9	DNA_Mutation 568 577	mutations
+T10	DNA_Mutation 583 591	deletion
+T11	DNA_Mutation 597 606	insertion
+T12	DNA_Mutation 616 640	single-base substitution
+T13	DNA_Mutation 661 670	mutations
+T14	Gene_protein 713 716	APC
+T15	DNA_Mutation 815 824	mutations
+T16	DNA_Mutation 855 863	mutation
+T17	locus 867 878	codons 1378
+T18	locus 880 884	1450
+T19	locus 890 899	1487-1490
+T20	DNA_Mutation 938 947	mutations
+R2	Has_Mutation Arg1:T17 Arg2:T16	
+R3	Has_Mutation Arg1:T18 Arg2:T16	
+R4	Has_Mutation Arg1:T19 Arg2:T16	
+T21	DNA_Mutation 988 996	mutation
+T22	DNA_Mutation 1167 1189	loss of heterozygosity
+T23	Gene_protein 1204 1207	APC
+T24	DNA_Mutation 1382 1390	mutation
+T25	DNA_Mutation 1395 1417	loss of heterozygosity
+T26	DNA_Mutation 1513 1522	mutations
+T27	DNA_Mutation 1574 1582	mutation
+T28	Gene_protein 1631 1634	APC
+T29	DNA_Mutation 1647 1656	mutations
+R5	Has_Mutation Arg1:T28 Arg2:T29	
+R6	Has_Mutation Arg1:T23 Arg2:T22	
+T30	DNA_Mutation 1713 1735	loss of heterozygosity
+T31	Gene_protein 1743 1746	APC
+T32	DNA_Mutation 1862 1871	mutations
+T33	Gene_protein 1900 1903	APC
+R7	Has_Mutation Arg1:T33 Arg2:T32	
+R8	Has_Mutation Arg1:T31 Arg2:T30	
+T34	DNA_Mutation 1960 1969	mutations
+T35	DNA_Mutation 2053 2061	mutation
+T36	Gene_protein 2083 2086	APC
+T37	DNA_Mutation 98 106	Mutation

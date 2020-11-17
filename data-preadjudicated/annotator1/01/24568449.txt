@@ -1,0 +1,11 @@
+Associations of single nucleotide polymorphisms in miR-146a, miR-196a, miR-149 and miR-499 with colorectal cancer susceptibility.
+
+
+## BACKGROUND
+MicroRNAs (miRNAs) are an abundant class of endogenous small non-coding RNAs of 20-25 nucleotides in length that function as negative gene regulators. MiRNAs play roles in most biological processes, as well as diverse human diseases including cancer. Recently, many studies investigated the association between SNPs in miR-146a rs2910164, miR-196a2 rs11614913, miR-149 rs229283, miR-499 rs3746444 and colorectal cancer (CRC), which results have been inconclusive.
+
+## METHODOLOGY/PRINCIPAL FINDINGS
+PubMed, EMBASE, CNKI databases were searched with the last search updated on November 5, 2013. For miR-196a2 rs11614913, a significantly decreased risk of CRC development was observed under three genetic models (dominant model: OR = 0.848, 95%CI: 0.735-0.979, P = 0.025; recessive model: OR = 0.838, 95%CI: 0.721-0.974, P = 0.021; homozygous model: OR = 0.754, 95%CI: 0.627-0.907, P = 0.003). In the subgroup analyses, miR-196a2*T variant was associated with a significantly decreased susceptibility of CRC (allele model: OR = 0.839, 95%CI: 0.749-0.940, P = 0.000; dominant model: OR = 0.770, 95%CI: 0.653-0.980, P = 0.002; recessive model: OR = 0.802, 95%CI: 0.685-0.939, P = 0.006; homozygous model: OR = 0.695, 95%CI: 0.570-0.847, P = 0.000). As for miR-149 rs2292832, the two genetic models (recessive model: OR = 1.199, 95% CI 1.028-1.398, P = 0.021; heterozygous model: OR = 1.226, 95% CI 1.039-1.447, P = 0.013) demonstrated increased susceptibility to CRC. On subgroup analysis, significantly increased susceptibility of CRC was found in the genetic models (recessive model: OR = 1.180, 95% CI 1.008-1.382, P = 0.040; heterozygous model: OR = 1.202, 95% CI 1.013-1.425, P = 0.013) in the Asian group.
+
+## CONCLUSIONS
+These findings supported that the miR-196a2 rs11614913 and miR-149 rs2292832 polymorphisms may contribute to susceptibility to CRC.

@@ -1,0 +1,17 @@
+BRAF mutation status and survival after colorectal cancer diagnosis according to patient and tumor characteristics.
+
+
+## BACKGROUND
+BRAF mutations in colorectal cancer (CRC) are disproportionately observed in tumors exhibiting microsatellite instability (MSI) and are associated with other prognostic factors. The independent association between BRAF mutation status and CRC survival, however, remains unclear.
+
+## METHODS
+We evaluated the association between the BRAF c.1799T>A (p.V600E) mutation and survival in individuals with incident invasive CRC diagnosed between 1997 and 2007 in Western Washington State. Tumor specimens were tested for this BRAF mutation and MSI status. We used Cox regression to estimate HRs and 95% confidence intervals (CI) for the association between BRAF mutation status and disease-specific and overall survival. Stratified analyses were conducted by age, sex, tumor site, stage, and MSI status.
+
+## RESULTS
+Among 1,980 cases tested, 12% were BRAF c.1799T>A (p.V600E) mutation-positive (n = 247). BRAF-mutated CRC was associated with poorer disease-specific survival adjusting for age, sex, time from diagnosis to enrollment, stage, and MSI status (HR, 1.43; 95% CI, 1.05-1.95). This association was limited to cases diagnosed at ages <50 (HR, 3.06; 95% CI, 1.70-5.52) and was not evident in cases with MSI-high tumors (HR, 0.94; 95% CI, 0.44-2.03). Associations with overall survival were similar.
+
+## CONCLUSIONS
+Our results show that the prevalence of BRAF mutations in CRC differs by patient and tumor characteristics and suggest that the association between BRAF status and CRC survival may differ by some of these factors.
+
+## IMPACT
+The presence of a BRAF c.1799T>A (p.V600E) mutation is associated with significantly poorer prognosis after CRC diagnosis among subgroups of patients.

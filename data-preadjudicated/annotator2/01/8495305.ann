@@ -1,0 +1,7 @@
+T1	Gene_protein 14 17	p53
+T2	Gene_protein 176 179	p53
+T3	Gene_protein 211 214	p53
+T4	Gene_protein 690 698	c-Ki-ras
+T5	Gene_protein 917 920	p53
+T6	Mutation 926 937	alterations
+R1	Has_Mutation Arg1:T5 Arg2:T6	

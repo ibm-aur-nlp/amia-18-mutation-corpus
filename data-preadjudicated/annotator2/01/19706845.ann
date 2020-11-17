@@ -1,0 +1,37 @@
+T1	DNA_Mutation 8 20	polymorphism
+T2	dbSNP 21 30	rs1329149
+T3	Gene_protein 34 40	CYP2E1
+R1	Has_Mutation Arg1:T3 Arg2:T2	
+R2	Has_Mutation Arg1:T3 Arg2:T1	
+T4	DNA_Mutation 53 65	polymorphism
+T5	dbSNP 66 71	rs671
+T6	Gene_protein 75 80	ALDH2
+R3	Has_Mutation Arg1:T6 Arg2:T5	
+R4	Has_Mutation Arg1:T6 Arg2:T4	
+T7	DNA_Mutation 227 258	single nucleotide polymorphisms
+T8	DNA_Mutation 263 266	SNP
+*	Alias T8 T7
+T9	Gene_protein 311 316	ADH1B
+T10	Gene_protein 318 323	ALDH2
+T11	Gene_protein 329 335	CYP2E1
+T12	DNA_Mutation 386 390	SNPs
+R5	Has_Mutation Arg1:T9 Arg2:T12	
+R6	Has_Mutation Arg1:T10 Arg2:T12	
+R7	Has_Mutation Arg1:T11 Arg2:T12	
+T13	DNA_Mutation 664 668	SNPs
+T14	DNA_Mutation 845 848	SNP
+T15	DNA_Mutation 972 975	SNP
+T16	DNA_Mutation 1000 1004	SNPs
+T17	Gene_protein 1064 1070	CYP2E1
+T18	dbSNP 1077 1086	rs1329149
+R8	Has_Mutation Arg1:T17 Arg2:T18	
+T19	Gene_protein 1099 1104	ALDH2
+T20	dbSNP 1111 1116	rs671
+R9	Has_Mutation Arg1:T19 Arg2:T20	
+T21	dbSNP 1227 1232	rs671
+T22	dbSNP 1263 1272	rs1329149
+T23	DNA_Mutation 1415 1428	polymorphisms
+T24	dbSNP 1517 1522	rs671
+T25	dbSNP 1530 1539	rs1329149
+T26	dbSNP 1608 1613	rs671
+T27	dbSNP 1647 1656	rs1329149

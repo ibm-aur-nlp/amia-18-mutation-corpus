@@ -1,0 +1,26 @@
+T1	DNA_Mutation 500 521	copy number variation
+T2	DNA_Mutation 523 526	CNV
+*	Alias T2 T1
+T4	DNA_Mutation 962 965	CNV
+T3	DNA_Mutation 1145 1165	aberrant copy number
+T5	Gene_protein 1203 1207	TP53
+T6	DNA_Mutation 1208 1216	mutation
+R1	Has_Mutation Arg1:T5 Arg2:T6	
+T7	DNA_Mutation 1295 1318	chromosomal aberrations
+T8	locus 1401 1405	2q35
+T9	locus 1407 1419	10q21.3-22.1
+T10	locus 1421 1428	10q22.3
+T11	locus 1433 1446	19q13.2-13.31
+T12	locus 1463 1469	1p31.3
+T13	locus 1471 1477	1q21.1
+T14	locus 1479 1485	2q21.2
+T15	locus 1487 1499	4p16.1-q28.3
+T16	locus 1501 1508	10p11.1
+T17	locus 1513 1518	19p12
+T18	Gene_protein 1813 1816	CLC
+T19	Gene_protein 1818 1823	EIF4E
+T20	Gene_protein 1825 1830	LTBP4
+T21	Gene_protein 1832 1840	PLA2G12A
+T22	Gene_protein 1842 1846	PPAT
+T23	Gene_protein 1848 1855	RG9MTD2
+T24	Gene_protein 1861 1867	ZNF574

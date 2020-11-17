@@ -1,0 +1,18 @@
+T1	DNA_Mutation 1214 1233	genomic instability
+T2	Gene_protein 1288 1314	adenomatous polyposis coli
+T3	DNA_modification 1244 1256	inactivation
+R1	Has_Modification Arg1:T2 Arg2:T3	
+T4	Gene_protein 1316 1319	p53
+T5	Gene_protein 1321 1349	transforming growth factor-β
+R2	Has_Modification Arg1:T4 Arg2:T3	
+R3	Has_Modification Arg1:T5 Arg2:T3	
+T6	Gene_protein 1393 1398	K-ras
+T7	DNA_modification 1351 1361	activation
+R4	Has_Modification Arg1:T6 Arg2:T7	
+T8	DNA_modification 1404 1414	activation
+T9	Gene_protein 1422 1438	cyclooxygenase-2
+R5	Has_Modification Arg1:T9 Arg2:T8	
+T10	Gene_protein 1440 1472	epidermal growth factor receptor
+R6	Has_Modification Arg1:T10 Arg2:T8	
+T11	Gene_protein 1477 1511	vascular endothelial growth factor
+T12	Mutation 1584 1592	mutation

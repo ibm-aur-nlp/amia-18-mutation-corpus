@@ -1,0 +1,21 @@
+T1	DNA_Mutation 41 61	copy number variants
+T2	DNA_Mutation 383 397	microsatellite
+T3	DNA_Mutation 576 579	SNP
+T4	DNA_Mutation 650 670	copy number variants
+T5	DNA_Mutation 672 676	CNVs
+T6	Gene_protein 746 751	CDH18
+T7	Gene_protein 732 740	cadherin
+T8	Gene_protein 807 812	GREM1
+T9	Gene_protein 853 856	BCR
+T10	Gene_protein 822 847	breakpoint cluster region
+*	Alias T10 T9
+T11	Gene_protein 757 801	bone morphogenetic protein antagonist family
+*	Alias T11 T8
+T12	DNA_Mutation 883 892	deletions
+T13	Gene_protein 943 954	hsa-mir-491
+T14	Gene_protein 955 963	KIAA1797
+*	Alias T13 T14
+T15	Gene_protein 968 979	hsa-mir-646
+T16	Gene_protein 980 988	AK309218
+*	Alias T16 T15
+T17	DNA_Mutation 1004 1008	CNVs

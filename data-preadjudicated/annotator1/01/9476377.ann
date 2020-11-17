@@ -1,0 +1,59 @@
+T1	DNA_Mutation 94 103	mutations
+T2	locus 127 134	exon 15
+T3	Gene_protein 142 145	APC
+T5	Mutation 363 371	mutation
+T4	Gene_protein 396 422	adenomatous polyposis coli
+T6	Gene_protein 424 427	APC
+*	Alias T6 T4
+T7	Mutation 716 724	mutation
+T8	Mutation 939 947	mutation
+T9	locus 1089 1096	exon 15
+T10	Gene_protein 1104 1107	APC
+T11	Mutation 1141 1149	mutation
+T12	locus 1161 1172	codons 1061
+T13	locus 1177 1181	1309
+T14	locus 1222 1229	exon 15
+T15	locus 1301 1308	exon 15
+T16	DNA_Mutation 1348 1358	variations
+T17	DNA_Mutation 1431 1440	mutations
+T18	locus 1444 1451	exon 15
+T19	Gene_protein 1455 1458	APC
+R1	Component_of Arg1:T18 Arg2:T19	
+R2	Has_Mutation Arg1:T18 Arg2:T17	
+T20	DNA_Mutation 1470 1486	deletion mutants
+T21	DNA_Mutation 1488 1504	5-base deletions
+T22	locus 1508 1519	codons 1061
+T23	locus 1524 1528	1309
+T24	DNA_Mutation 1530 1545	1-base deletion
+T25	locus 1549 1559	codons 759
+T26	DNA_Mutation 1564 1579	7-base deletion
+T27	DNA_Mutation 1596 1612	2-base insertion
+T28	locus 1616 1625	codon 712
+R3	Has_Mutation Arg1:T28 Arg2:T27	
+R4	Has_Mutation Arg1:T28 Arg2:T26	
+R5	Has_Mutation Arg1:T25 Arg2:T24	
+R6	Has_Mutation Arg1:T23 Arg2:T21	
+T29	DNA_Mutation 1632 1650	insertion mutation
+T30	DNA_Mutation 1652 1670	1-base/A/insertion
+T31	locus 1674 1684	codon 1554
+R7	Has_Mutation Arg1:T31 Arg2:T30	
+T32	DNA_Mutation 1700 1709	mutations
+T33	DNA_Mutation 1711 1717	C to T
+T34	DNA_Mutation 1722 1728	C to A
+T35	locus 1746 1756	codons 737
+T36	locus 1761 1764	935
+R8	Has_Mutation Arg1:T35 Arg2:T33	
+R9	Has_Mutation Arg1:T36 Arg2:T34	
+T37	DNA_Mutation 1885 1894	mutations
+T38	DNA_Mutation 1904 1913	mutations
+T39	DNA_Mutation 1946 1955	mutations
+T40	locus 1959 1969	codons 935
+T41	locus 1971 1975	1061
+T42	locus 1977 1981	1309
+T43	locus 1986 1990	1554
+T44	DNA_Mutation 1995 2004	mutations
+T45	Gene_protein 2012 2015	APC
+T46	DNA_Mutation 2071 2080	mutations
+T47	locus 2084 2094	codons 712
+T48	locus 2096 2099	759
+T49	locus 2104 2107	767

@@ -1,0 +1,14 @@
+Mutation spectrum in human colorectal cancers and potential functional relevance.
+
+
+## BACKGROUND
+Somatic variants, which occur in the genome of all cells, are well accepted to play a critical role in cancer development, as their accumulation in genes could affect cell proliferations and cell cycle.
+
+## METHODS
+In order to understand the role of somatic mutations in human colorectal cancers, we characterized the mutation spectrum in two colorectal tumor tissues and their matched normal tissues, by analyzing deep-sequenced transcriptome data.
+
+## RESULTS
+We found a higher mutation rate of somatic variants in tumor tissues in comparison with normal tissues, but no trend was observed for mutation properties. By applying a series of stringent filters, we identified 418 genes with tumor specific disruptive somatic variants. Of these genes, three genes in mucin protein family (MUC2, MUC4, and MU12) are of particular interests. It has been reported that the expression of mucin proteins was correlated with the progression of colorectal cancer therefore somatic variants within those genes can interrupt their normal expression and thus contribute to the tumorigenesis.
+
+## CONCLUSIONS
+Our findings provide evidence of the utility of RNA-Seq in mutation screening in cancer studies, and suggest a list of candidate genes for future colorectal cancer diagnosis and treatment.

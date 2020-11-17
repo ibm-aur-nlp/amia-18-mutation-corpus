@@ -1,0 +1,41 @@
+T1	DNA_Mutation 39 48	mutations
+T2	Gene_protein 396 415	DNA mismatch repair
+T3	Gene_protein 417 420	MMR
+T4	DNA_Mutation 427 436	mutations
+R1	Has_Mutation Arg1:T2 Arg2:T4	
+*	Alias T3 T2
+T5	DNA_Mutation 486 512	microsatellite instability
+T6	DNA_Mutation 514 517	MSI
+*	Alias T6 T5
+T7	Gene_protein 532 535	MMR
+T8	Gene_protein 597 600	MMR
+T9	DNA_Mutation 606 614	mutation
+R2	Has_Mutation Arg1:T8 Arg2:T9	
+T10	DNA_Mutation 781 789	mutation
+T11	Gene_protein 802 806	MLH1
+T12	Gene_protein 808 812	MSH2
+T13	Gene_protein 817 821	MSH6
+T14	DNA_Mutation 937 940	MSI
+T15	Gene_protein 982 985	MMR
+T16	Gene_protein 1007 1011	MLH1
+T17	Gene_protein 1013 1017	MSH2
+T18	Gene_protein 1022 1026	MSH6
+T19	DNA_Mutation 1086 1095	mutations
+T20	Gene_protein 1102 1106	MLH1
+T21	Gene_protein 1113 1117	MSH2
+T22	Gene_protein 1127 1131	MSH6
+R3	Has_Mutation Arg1:T20 Arg2:T19	
+R4	Has_Mutation Arg1:T21 Arg2:T19	
+R5	Has_Mutation Arg1:T22 Arg2:T19	
+T23	DNA_Mutation 1145 1148	MSI
+T24	DNA_Mutation 1213 1221	mutation
+T25	DNA_Mutation 1265 1268	MSI
+T26	DNA_Mutation 1308 1316	mutation
+T27	Gene_protein 1583 1586	MMR
+T28	DNA_Mutation 1592 1601	mutations
+R6	Has_Mutation Arg1:T27 Arg2:T28	
+T29	Gene_protein 1741 1749	mutation
+T30	Gene_protein 1893 1896	MSI
+T31	Gene_protein 1972 1975	MMR
+T32	DNA_Mutation 1981 1989	mutation
+R7	Has_Mutation Arg1:T31 Arg2:T32	

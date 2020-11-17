@@ -1,0 +1,31 @@
+T1	DNA_Mutation 91 99	mutation
+T2	DNA_Mutation 189 198	mutations
+T3	DNA_Mutation 305 314	mutations
+T4	DNA_Mutation 374 400	microsatellite instability
+T5	DNA_Mutation 402 405	MSI
+*	Alias T5 T4
+T6	DNA_Mutation 662 670	Mutation
+T7	Gene_protein 687 691	MLH1
+T8	Gene_protein 693 697	MSH2
+T9	Gene_protein 703 707	MSH6
+T10	DNA_Mutation 807 816	mutations
+T11	DNA_Mutation 886 895	deletions
+T12	DNA_Mutation 899 911	duplications
+T13	DNA_Mutation 918 921	MSI
+R1	Has_Mutation Arg1:T7 Arg2:T6	
+R2	Has_Mutation Arg1:T8 Arg2:T6	
+R3	Has_Mutation Arg1:T9 Arg2:T6	
+T14	DNA_Mutation 1196 1205	mutations
+T15	Gene_protein 1222 1226	MLH1
+R4	Has_Mutation Arg1:T15 Arg2:T14	
+T16	Gene_protein 1234 1238	MSH2
+R5	Has_Mutation Arg1:T16 Arg2:T14	
+T17	Gene_protein 1248 1252	MSH6
+R6	Has_Mutation Arg1:T17 Arg2:T14	
+T18	DNA_Mutation 1260 1268	mutation
+T19	DNA_Mutation 1345 1354	mutations
+T20	DNA_Mutation 1424 1427	MSI
+T21	DNA_Mutation 1489 1497	mutation
+T22	DNA_Mutation 1577 1585	mutation
+T23	DNA_Mutation 1789 1797	mutation
+T24	DNA_Mutation 1935 1943	mutation

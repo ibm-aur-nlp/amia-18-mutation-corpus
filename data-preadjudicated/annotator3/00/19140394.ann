@@ -1,0 +1,9 @@
+T1	Gene_protein 82 87	BCL-2
+T2	Gene_protein 270 275	BCL-2
+T3	Gene_protein 411 416	BCL-2
+T4	Gene_protein 575 578	BCL
+T5	Gene_protein 734 737	BAX
+T6	Gene_protein 972 975	BAX
+T7	DNA_Mutation 981 990	mutations
+R1	Has_Mutation Arg1:T6 Arg2:T7	
+T8	locus 1001 1027	codons 38 to 41 of exone 3

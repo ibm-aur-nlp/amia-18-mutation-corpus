@@ -1,0 +1,19 @@
+T1	Gene_protein 17 22	PRLHR
+T2	Gene_protein 27 34	HSPA12A
+T3	Gene_protein 307 315	CHCHD3P1
+T4	Gene_protein 316 325	HSP90AB7P
+T5	Gene_protein 327 332	GRID1
+T6	Gene_protein 334 341	HSPA12A
+T7	Gene_protein 343 348	PRLHR
+T8	Gene_protein 350 354	SBF2
+T9	Gene_protein 356 361	POLD3
+T10	Gene_protein 366 374	C11orf93
+T11	Gene_protein 375 383	C11orf92
+T12	dbSNP 792 802	rs12413624
+T13	Gene_protein 806 811	PRLHR
+R1	Has_Mutation Arg1:T13 Arg2:T12	
+T14	dbSNP 1076 1085	rs1665650
+T15	Gene_protein 1089 1096	HSPA12A
+R2	Has_Mutation Arg1:T15 Arg2:T14	
+T16	Gene_protein 1294 1299	PRLHR
+T17	Gene_protein 1366 1373	HSPA12A

@@ -1,0 +1,14 @@
+Somatic MED12 mutations in uterine leiomyosarcoma and colorectal cancer.
+
+
+## BACKGROUND
+Mediator complex participates in transcriptional regulation by connecting regulatory DNA sequences to the RNA polymerase II initiation complex. Recently, we discovered through exome sequencing that as many as 70% of uterine leiomyomas harbour specific mutations in exon 2 of mediator complex subunit 12 (MED12). In this work, we examined the role of MED12 exon 2 mutations in other tumour types.
+
+## METHODS
+The frequency of MED12 exon 2 mutations was analysed in altogether 1158 tumours by direct sequencing. The tumour spectrum included mesenchymal tumours (extrauterine leiomyomas, endometrial polyps, lipomas, uterine leiomyosarcomas, other sarcomas, gastro-intestinal stromal tumours), hormone-dependent tumours (breast and ovarian cancers), haematological malignancies (acute myeloid leukaemias, acute lymphoid leukaemias, myeloproliferative neoplasms), and tumours associated with abnormal Wnt-signalling (colorectal cancers (CRC)).
+
+## RESULTS
+Five somatic alterations were observed: three in uterine leiomyosarcomas (3/41, 7%; Gly44Ser, Ala38_Leu39ins7, Glu35_Leu36delinsVal), and two in CRC (2/392, 0.5%; Gly44Cys, Ala67Val).
+
+## CONCLUSION
+Somatic MED12 exon 2 mutations were observed in uterine leiomyosarcomas, suggesting that a subgroup of these malignant tumours may develop from a leiomyoma precursor. Mutations in CRC samples indicate that MED12 may, albeit rarely, contribute to CRC tumorigenesis.

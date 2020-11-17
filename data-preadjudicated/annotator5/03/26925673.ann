@@ -1,0 +1,43 @@
+T1	Gene_protein 148 153	K-Ras
+T2	DNA_Mutation 227 236	mutations
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	DNA_Mutation 306 315	mutations
+T4	Gene_protein 474 477	RAF
+T5	Gene_protein 478 481	MEK
+T6	Gene_protein 482 485	ERK
+T7	Gene_protein 494 498	PI3K
+T8	Gene_protein 499 502	Akt
+T9	Gene_protein 523 527	PI3K
+T10	Gene_protein 528 531	Akt
+T11	Gene_protein 875 880	K-Ras
+T12	DNA_Mutation 880 881	-
+R2	Has_Mutation Arg1:T11 Arg2:T12	
+T13	Gene_protein 882 885	p53
+T14	Gene_protein 900 905	K-Ras
+T15	Gene_protein 908 911	p53
+T16	DNA_Mutation 911 912	-
+R3	Has_Mutation Arg1:T15 Arg2:T16	
+T17	Gene_protein 997 1002	K-Ras
+T18	Mutation 1003 1012	silencing
+T19	Gene_protein 1203 1206	Akt
+T20	Gene_protein 1213 1215	Ak
+T21	locus 1221 1227	Thr308
+R4	Component_of Arg1:T21 Arg2:T20	
+T22	locus 1232 1238	Ser473
+R5	Component_of Arg1:T22 Arg2:T20	
+T23	Gene_protein 1394 1399	K-Ras
+T24	Gene_protein 1646 1649	Akt
+T25	Gene_protein 1739 1744	K-Ras
+T26	Gene_protein 1890 1893	Akt
+T27	locus 1898 1904	Thr308
+R6	Component_of Arg1:T27 Arg2:T26	
+T28	Gene_protein 1962 1967	K-Ras
+T29	DNA_Mutation 1967 1968	-
+R7	Has_Mutation Arg1:T28 Arg2:T29	
+T30	Gene_protein 1969 1972	p53
+T31	DNA_Mutation 1972 1973	-
+R8	Has_Mutation Arg1:T30 Arg2:T31	
+T32	Gene_protein 2146 2149	Akt
+T33	Gene_protein 2272 2277	K-Ras
+T34	DNA_Mutation 2265 2271	mutant
+R9	Has_Mutation Arg1:T33 Arg2:T34	

@@ -1,0 +1,74 @@
+T1	DNA_Mutation 0 13	Polymorphisms
+T2	Gene_protein 21 43	cytochrome P450 CYP1A2
+T3	Gene_protein 50 56	CYP1A2
+*	Alias T3 T2
+T4	DNA_Mutation 201 232	single nucleotide polymorphisms
+T5	DNA_Mutation 234 238	SNPs
+*	Alias T5 T4
+T6	Gene_protein 247 273	cytochrome P450 enzyme 1A2
+T7	Gene_protein 280 286	CYP1A2
+R1	Has_Mutation Arg1:T6 Arg2:T5	
+*	Alias T7 T6
+T8	Gene_protein 526 532	CYP1A2
+T9	DNA_Mutation 533 546	polymorphisms
+T10	DNA_Mutation 547 557	-3858G-->A
+T11	DNA_Mutation 566 575	CYP1A2*1C
+*	Alias T11 T10
+T12	DNA_Mutation 578 591	-2464T-->delT
+T13	DNA_Mutation 593 602	CYP1A2*1D
+*	Alias T13 T12
+T14	DNA_Mutation 605 614	-740T-->G
+T15	DNA_Mutation 616 633	CYP1A2*1E and *1G
+*	Alias T15 T14
+T16	DNA_Mutation 636 645	-164A-->C
+T17	DNA_Mutation 647 656	CYP1A2*1F
+*	Alias T17 T16
+T18	DNA_Mutation 659 666	63C-->G
+T19	DNA_Mutation 668 676	CYP1A2*2
+*	Alias T19 T18
+T20	DNA_Mutation 683 692	1545T-->C
+T21	DNA_Mutation 702 728	CYP1A2*1B, *1G, *1H and *3
+*	Alias T21 T20
+T22	Gene_protein 858 864	CYP1A2
+T23	Gene_protein 965 971	CYP1A2
+T24	DNA_Mutation 972 976	SNPs
+T25	DNA_Mutation 982 991	1545T-->C
+R2	Has_Mutation Arg1:T23 Arg2:T25	
+T26	DNA_Mutation 1023 1032	-164A-->C
+T27	DNA_Mutation 1034 1043	CYP1A2*1F
+T28	DNA_Mutation 1056 1069	-2464T-->delT
+T29	DNA_Mutation 1071 1080	CYP1A2*1D
+*	Alias T29 T28
+*	Alias T27 T26
+T30	DNA_Mutation 1094 1098	SNPs
+T31	DNA_Mutation 1181 1187	-3858G
+T32	DNA_Mutation 1188 1194	-2464T
+T33	DNA_Mutation 1195 1200	-740T
+T34	DNA_Mutation 1201 1206	-164A
+T35	DNA_Mutation 1207 1210	63C
+T36	DNA_Mutation 1211 1216	1545T
+T37	DNA_Mutation 1226 1232	-3858G
+T38	DNA_Mutation 1233 1239	-2464T
+T39	DNA_Mutation 1240 1245	-740T
+T40	DNA_Mutation 1246 1251	-164C
+T41	DNA_Mutation 1252 1255	63C
+T42	DNA_Mutation 1256 1261	1545C
+T43	DNA_Mutation 1275 1281	-3858G
+T44	DNA_Mutation 1282 1291	-2464delT
+T45	DNA_Mutation 1292 1297	-740T
+T46	DNA_Mutation 1298 1303	-164A
+T47	DNA_Mutation 1304 1307	63C
+T48	DNA_Mutation 1308 1313	1545C
+T49	Gene_protein 1716 1722	CYP1A2
+T50	Gene_protein 1776 1782	CYP1A2
+T51	DNA_Mutation 1783 1796	polymorphisms
+R3	Has_Mutation Arg1:T50 Arg2:T51	
+T52	DNA_Mutation 1845 1853	164A-->C
+T53	DNA_Mutation 1855 1864	CYP1A2*1F
+*	Alias T53 T52
+T54	DNA_Mutation 1870 1883	-2464T-->delT
+T55	DNA_Mutation 1885 1894	CYP1A2*1D
+*	Alias T55 T54
+T56	Gene_protein 1945 1951	CYP1A2
+T57	Gene_protein 1975 1981	CYP1A2
+T58	Gene_protein 2058 2064	CYP1A2

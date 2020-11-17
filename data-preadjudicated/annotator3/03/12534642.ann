@@ -1,0 +1,14 @@
+T2	Gene_protein 50 56	CYP1A2
+T3	DNA_Mutation 0 13	Polymorphisms
+R2	Has_Mutation Arg1:T2 Arg2:T3	
+T4	Gene_protein 248 273	ytochrome P450 enzyme 1A2
+T5	Gene_protein 280 286	CYP1A2
+*	Alias T4 T5
+T6	DNA_Mutation 201 232	single nucleotide polymorphisms
+R3	Has_Mutation Arg1:T4 Arg2:T6	
+T1	Gene_protein 21 43	cytochrome P450 CYP1A2
+R1	Has_Mutation Arg1:T1 Arg2:T3	
+T7	Gene_protein 526 532	CYP1A2
+T8	DNA_Mutation 533 546	polymorphisms
+R4	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 858 864	CYP1A2

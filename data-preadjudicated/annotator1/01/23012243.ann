@@ -1,0 +1,55 @@
+T1	DNA_Mutation 41 50	deletions
+T2	locus 61 69	3' Exons
+T3	Gene_protein 77 81	PMS2
+R1	Component_of Arg1:T2 Arg2:T3	
+R2	Has_Mutation Arg1:T2 Arg2:T1	
+T4	DNA_Mutation 124 133	mutations
+T5	Gene_protein 172 176	MLH1
+T6	Gene_protein 178 182	MSH2
+T7	Gene_protein 184 188	MSH6
+T8	Gene_protein 193 197	PMS2
+T9	DNA_Mutation 208 216	mutation
+T10	DNA_Mutation 336 345	deletions
+T11	DNA_Mutation 350 362	duplications
+T12	Gene_protein 366 370	PMS2
+R3	Has_Mutation Arg1:T12 Arg2:T11	
+R4	Has_Mutation Arg1:T12 Arg2:T10	
+T13	Gene_protein 445 449	PMS2
+T14	Gene_protein 469 475	PMS2CL
+T16	DNA_Mutation 591 600	deletions
+T15	Gene_protein 604 608	PMS2
+T17	locus 609 620	Exons 12-15
+T18	locus 503 514	Exons 12-15
+T19	locus 403 413	Exons 1-11
+R5	Component_of Arg1:T19 Arg2:T12	
+R6	Component_of Arg1:T18 Arg2:T13	
+R7	Component_of Arg1:T17 Arg2:T15	
+T20	DNA_Mutation 653 662	deletions
+T22	DNA_Mutation 735 744	deletions
+T21	DNA_Mutation 802 811	mutations
+T23	Gene_protein 797 801	PMS2
+R8	Has_Mutation Arg1:T23 Arg2:T21	
+T24	Gene_protein 913 917	PMS2
+T25	Gene_protein 975 979	MLH1
+T26	DNA_Mutation 1044 1053	deletions
+T27	locus 1061 1070	3' region
+T28	Gene_protein 1074 1078	PMS2
+R9	Has_Mutation Arg1:T27 Arg2:T26	
+R10	Component_of Arg1:T27 Arg2:T28	
+T29	DNA_Mutation 1129 1138	deletions
+T30	locus 1142 1153	Exons 13-15
+T31	locus 1172 1183	Exons 14-15
+R11	Has_Mutation Arg1:T30 Arg2:T29	
+R12	Has_Mutation Arg1:T31 Arg2:T29	
+T32	DNA_Mutation 1204 1213	deletions
+T33	locus 1217 1228	Exons 12-15
+T34	locus 1230 1237	Exon 13
+T35	locus 1243 1250	Exon 14
+R13	Has_Mutation Arg1:T33 Arg2:T32	
+R14	Has_Mutation Arg1:T34 Arg2:T32	
+R15	Has_Mutation Arg1:T35 Arg2:T32	
+T36	DNA_Mutation 1304 1313	deletions
+T37	Gene_protein 1440 1444	PMS2
+T38	DNA_Mutation 1445 1453	mutation
+R16	Has_Mutation Arg1:T37 Arg2:T38	
+T39	DNA_Mutation 1503 1512	mutations

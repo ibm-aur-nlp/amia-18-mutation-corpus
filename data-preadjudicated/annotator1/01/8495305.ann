@@ -1,0 +1,6 @@
+T1	Gene_protein 14 17	p53
+T2	Gene_protein 176 179	p53
+T3	Gene_protein 211 214	p53
+T4	Gene_protein 917 920	p53
+T5	DNA_Mutation 921 937	gene alterations
+R1	Has_Mutation Arg1:T4 Arg2:T5	

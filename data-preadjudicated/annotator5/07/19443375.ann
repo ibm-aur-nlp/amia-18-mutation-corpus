@@ -1,0 +1,12 @@
+T1	DNA_Mutation 0 26	Microsatellite instability
+T2	DNA_Mutation 161 187	Microsatellite Instability
+T3	DNA_Mutation 189 192	MSI
+*	Alias T3 T2
+T4	DNA_Mutation 392 400	MSI-high
+T5	DNA_Mutation 403 404	)
+*	Alias T5 T4
+T6	DNA_Mutation 482 485	MSI
+T7	DNA_Mutation 748 774	microsatellite instability
+T8	DNA_Mutation 1517 1522	MSI-H
+T9	DNA_Mutation 1686 1689	MSI
+T10	DNA_Mutation 1761 1766	MSI-H

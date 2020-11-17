@@ -1,0 +1,15 @@
+T1	locus 18 58	chromosomes 17p, 18q, 22q [corrected] 3p
+A1	ToReview T1
+T4	DNA_Mutation 229 243	allelic losses
+T5	locus 247 279	chromosomes 17p, 18q, 22q and 3p
+R2	Has_Mutation Arg1:T5 Arg2:T4	
+T7	locus 508 528	17p, 18q, 22q and 3p
+T8	DNA_Mutation 750 764	allelic losses
+T10	locus 911 927	17p, 18q and 22q
+T12	locus 1027 1030	18q
+T13	DNA_Mutation 1065 1079	allelic losses
+T14	DNA_Mutation 1105 1117	allelic loss
+T15	DNA_Mutation 1155 1167	allelic loss
+T16	DNA_Mutation 1192 1204	allelic loss
+T17	DNA_Mutation 1310 1322	allelic loss
+T18	DNA_Mutation 1371 1383	allelic loss

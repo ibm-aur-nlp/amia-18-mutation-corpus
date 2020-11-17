@@ -1,0 +1,13 @@
+T1	DNA_Mutation 159 170	instability
+T2	DNA_Mutation 204 207	MSI
+T3	locus 178 192	microsatellite
+R1	Has_Mutation Arg1:T3 Arg2:T1	
+*	Alias T2 T1
+T4	DNA_Mutation 219 222	MSI
+T5	DNA_Mutation 624 627	MSI
+T6	DNA_Mutation 674 685	instability
+T7	DNA_Mutation 1045 1048	MSI
+T8	DNA_Mutation 1298 1301	MSI
+T9	DNA_Mutation 1502 1505	MSI
+T10	DNA_Mutation 1723 1726	MSI
+T11	DNA_Mutation 1880 1883	MSI

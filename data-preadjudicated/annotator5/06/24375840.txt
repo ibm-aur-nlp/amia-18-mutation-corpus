@@ -1,0 +1,14 @@
+Correlation of dynamic contrast-enhanced MRI perfusion parameters with angiogenesis and biologic aggressiveness of rectal cancer: Preliminary results.
+
+
+## PURPOSE
+To investigate whether quantitative parameters derived from dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) are correlated with angiogenesis and biologic aggressiveness of rectal cancer.
+
+## MATERIALS AND METHODS
+A total of 46 patients with rectal cancer underwent DCE-MRI. Using a two-compartmental model, quantitative parameters (K(trans) , kep , ve , and iAUC) were calculated from the whole-transverse region of interest (ROI) and high K(trans) area ROI of entire tumors. Histological specimens were analyzed for tumor size; T/N stage; lymphatic, vascular, perineural invasion; expression of epidermal growth factor receptor (EGFR); and KRAS gene mutations. Tumor angiogenesis was evaluated based on the microvessel density (MVD) and the expression level of the vascular endothelial growth factor. Correlations of the DCE-MRI parameters with histological markers and angiogenesis were determined using Student's t-test and analysis of variance (ANOVA).
+
+## RESULTS
+The mean kep from high K(trans) area ROIs showed a significantly positive correlation with MVD (P  =  0.030, r  =  0.514, R(2)   =  0.264). The mean kep from the whole-transverse ROIs showed a significant inverse correlation with T stage (T1 vs. T2-4, P  =  0.021). EGFR-positive cancer displayed higher mean K(trans) (P  =  0.045) and kep (P  =  0.038) than EGFR-negative cancer in whole-transverse ROIs.
+
+## CONCLUSION
+These preliminary results suggest that the determination of kep of high K(trans) area permits the noninvasive estimation of tumor angiogenesis in rectal cancer and that DCE-MRI parameters can be used as imaging biomarkers to predict the biologic aggressiveness of the tumor and patient prognosis.

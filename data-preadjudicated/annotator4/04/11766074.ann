@@ -1,0 +1,11 @@
+T1	DNA_Mutation 1079 1097	Germline mutations
+T2	Gene_protein 1105 1108	APC
+T3	locus 1131 1141	codons 486
+T4	locus 1143 1146	545
+T5	locus 1148 1152	1493
+T6	locus 1158 1162	1556
+R1	Has_Mutation Arg1:T3 Arg2:T1	
+R2	Has_Mutation Arg1:T4 Arg2:T1	
+R3	Has_Mutation Arg1:T5 Arg2:T1	
+R4	Has_Mutation Arg1:T6 Arg2:T1	
+R5	Has_Mutation Arg1:T2 Arg2:T1	

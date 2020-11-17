@@ -1,0 +1,27 @@
+T1	Gene_protein 87 92	MUTYH
+T2	DNA_Mutation 93 101	variants
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 238 243	MUTYH
+T4	Gene_protein 264 269	MUTYH
+T5	Gene_protein 379 384	MUTYH
+T6	DNA_Mutation 385 406	mono-allelic variants
+R2	Has_Mutation Arg1:T5 Arg2:T6	
+T7	Gene_protein 572 577	MUTYH
+T8	DNA_Mutation 578 586	variants
+R3	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 646 651	MUTYH
+T10	Gene_protein 899 904	MUTYH
+T11	Protein_Mutation 1061 1066	G396D
+T12	Protein_Mutation 1071 1076	Y179C
+T13	Protein_Mutation 1077 1082	G396D
+T14	Protein_Mutation 1153 1158	Y179C
+T15	Protein_Mutation 1145 1152	variant
+T16	Gene_protein 1307 1312	MUTYH
+T17	Protein_Mutation 1314 1319	G396D
+T18	Protein_Mutation 1324 1329	Y179C
+R4	Has_Mutation Arg1:T16 Arg2:T17	
+R5	Has_Mutation Arg1:T16 Arg2:T18	
+T19	Gene_protein 1461 1466	MUTYH
+T20	Protein_Mutation 1500 1505	Y179C
+R6	Has_Mutation Arg1:T19 Arg2:T20	
+T21	Gene_protein 1662 1667	MUTYH

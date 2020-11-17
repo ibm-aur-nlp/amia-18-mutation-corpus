@@ -1,0 +1,11 @@
+Multiple polyps of esophagus, stomach, colon, and rectum accompanying rectal cancer in a patient with constitutional chromosomal inversion.
+
+
+## BACKGROUND
+It has been reported that colorectal carcinomas are caused by a multistage process. In patients with familial adenomatous polyposis, carcinoma of the colorectum frequently develops and occasionally polyps develop in the upper gastrointestinal tract. Chromosomal deletion often is found for chromosomes 5, 17, and 18, on which tumor suppressor genes are located. Furthermore, loss of the alleles of loci on chromosome 3 has been reported in renal cell carcinoma, small cell lung carcinoma, and mixed salivary gland tumor in hereditary and sporadic cases. These data support the concept of a recessive mechanism for the development of human tumors.
+
+## PATIENTS AND RESULTS
+The authors report the case of a 48-year-old woman with rectal cancer accompanied by multiple polyps in the esophagus, stomach, and colorectum. Histologically, the polypoid lesions in the esophagus, stomach, and colorectum showed a thickened mucosa, hyperplastic polyps, and mixed hyperplastic adenomatous polyps, respectively. Karyotype analysis showed 46, xx, inv(3)(p12.2q25.3) in all 20 inspected peripheral lymphocytes. By Southern blot with a c-raf probe, one allele of the c-raf-1 gene, which has been mapped on chromosome 3p25, was deleted from the rearranged chromosome 3 in the peripheral lymphocytes, intact colonic mucosa, and cancer tissue.
+
+## CONCLUSIONS
+These results suggest that the development of hyperplastic polyps and carcinoma of the rectum results from the allelic loss in chromosome 3p, as has been reported for solid tumors at other sites.

@@ -1,0 +1,17 @@
+T1	Gene_protein 1496 1499	p53
+T2	DNA_Mutation 1505 1514	mutations
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 1601 1605	CD44
+T4	DNA_Mutation 1606 1621	splice variants
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+T5	Gene_protein 1516 1537	reverse transcriptase
+T6	DNA_Mutation 1564 1577	amplification
+R3	Has_Mutation Arg1:T5 Arg2:T6	
+T7	Gene_protein 1670 1677	lectins
+T8	Gene_protein 1697 1702	COX-2
+T9	Gene_protein 1726 1740	cyclooxygenase
+*	Alias T9 T8
+T10	Gene_protein 1879 1882	IgA
+T11	Gene_protein 1888 1891	IgG
+T12	Gene_protein 1949 1971	human insulin receptor
+T13	Gene_protein 2024 2029	mdr-1

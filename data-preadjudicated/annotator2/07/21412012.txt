@@ -1,0 +1,14 @@
+Clinical significance of genetic variations in the PI3K/PTEN/AKT/mTOR pathway in Korean patients with colorectal cancer.
+
+
+## OBJECTIVE
+Signaling through the PI3K/PTEN/AKT/mTOR pathway is responsible for balancing cell survival and apoptosis. Accordingly, the present study analyzed 14 SNPs of the PI3K/PTEN/AKT/mTOR pathway genes and their impact on the prognosis for patients with colorectal cancer.
+
+## METHODS
+444 consecutive patients with surgically resected colorectal adenocarcinoma were enrolled in the present study. The genomic DNA was extracted from fresh colorectal tissue, and 14 polymorphisms of the PI3K/PTEN/AKT/mTOR pathway genes were determined using a real-time PCR genotyping assay.
+
+## RESULTS
+Pathologic stages after surgery were as follows: stage 0/I (n = 85, 19.1%), stage II (n = 149, 33.6%), stage III (n = 147, 33.1%), and stage IV (n = 63, 14.2%). Univariate and multivariate survival analysis including stage, age, site of disease, adjuvant chemotherapy, and carcinoembryonic antigen (CEA) level showed that these polymorphisms were not associated with progression-free or overall survival. For the clinicopathologic parameters, CEA level and TNM stage were significant prognostic factors in a Cox model for survival.
+
+## CONCLUSION
+None of the 14 SNPs of the PI3K/PTEN/AKT/mTOR pathway genes investigated in this study was found to be an independent prognostic marker for Korean patients with surgically resected colorectal cancer.

@@ -1,0 +1,32 @@
+T1	Gene_protein 0 37	Protein tyrosine phosphatase receptor
+T2	DNA_modification 64 79	hypermethylated
+R1	Has_Modification Arg1:T1 Arg2:T2	
+T3	Gene_protein 274 279	PTPRs
+T4	Gene_protein 281 286	PTPRM
+T5	Gene_protein 288 293	PTPRT
+T6	Gene_protein 295 300	PTPRR
+T7	Gene_protein 305 311	PTPRZ1
+T8	DNA_modification 388 398	methylated
+R3	Has_Modification Arg1:T4 Arg2:T8	
+R4	Has_Modification Arg1:T5 Arg2:T8	
+R5	Has_Modification Arg1:T6 Arg2:T8	
+R6	Has_Modification Arg1:T7 Arg2:T8	
+T9	Gene_protein 730 735	PTPRM
+T10	Gene_protein 737 742	PTPRT
+T11	Gene_protein 744 749	PTPRR
+T12	Gene_protein 754 760	PTPRZ1
+T13	DNA_modification 770 785	hypermethylated
+R2	Has_Modification Arg1:T9 Arg2:T13	
+R7	Has_Modification Arg1:T10 Arg2:T13	
+R8	Has_Modification Arg1:T11 Arg2:T13	
+R9	Has_Modification Arg1:T12 Arg2:T13	
+T14	Gene_protein 1089 1094	PTPRs
+T15	Gene_protein 1112 1117	K-ras
+T16	locus 1119 1127	codon 12
+R10	Component_of Arg1:T16 Arg2:T15	
+T18	locus 1139 1146	exon 15
+T19	Protein_Mutation 1148 1153	V600E
+T20	Gene_protein 1133 1137	BRAF
+R11	Component_of Arg1:T18 Arg2:T20	
+R12	Has_Mutation Arg1:T20 Arg2:T19	
+T17	Gene_protein 1382 1386	PTPR

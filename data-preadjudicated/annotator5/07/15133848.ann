@@ -1,0 +1,32 @@
+T1	DNA_Mutation 0 22	Loss of heterozygosity
+T2	locus 26 38	chromosome 1
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	DNA_Mutation 82 104	Loss of heterozygosity
+T4	DNA_Mutation 106 109	LOH
+*	Alias T4 T3
+T5	DNA_Mutation 261 276	abnormal allele
+T6	DNA_Mutation 344 347	LOH
+T7	locus 362 374	chromosome 1
+T8	DNA_Mutation 494 505	polymorphic
+T9	locus 506 525	micro-satellite DNA
+R2	Has_Mutation Arg1:T9 Arg2:T8	
+T10	Gene_protein 733 736	LOH
+T11	Gene_protein 790 793	LOH
+T13	locus 928 940	chromosome 1
+T14	DNA_Mutation 911 914	LOH
+R3	Has_Mutation Arg1:T13 Arg2:T14	
+T12	DNA_Mutation 1024 1027	LOH
+T15	locus 1090 1096	D1S468
+T16	locus 1098 1112	1p36.33-p36.31
+T17	locus 1118 1124	D1S413
+T18	locus 1126 1132	1q31.3
+R4	Has_Mutation Arg1:T15 Arg2:T12	
+*	Alias T15 T16
+*	Alias T17 T18
+R5	Has_Mutation Arg1:T17 Arg2:T12	
+T19	locus 1152 1159	D1S2726
+T20	DNA_Mutation 1167 1170	LOH
+R6	Has_Mutation Arg1:T19 Arg2:T20	
+T21	locus 1413 1425	chromosome 1
+T22	locus 1511 1524	1p36.33-36.31
+T23	locus 1532 1538	1q31.3

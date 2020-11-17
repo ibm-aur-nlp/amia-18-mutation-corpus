@@ -1,0 +1,33 @@
+T2	Protein_Mutation 179 186	mutated
+T3	locus 269 291	amino acid position 12
+T4	Protein_Mutation 239 265	aspartic acid substitution
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+T5	Protein_Mutation 301 304	D12
+T6	Protein_Mutation 330 339	mutations
+T7	Protein_Mutation 397 404	mutated
+T1	Gene_protein 187 194	p21 ras
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T8	Gene_protein 405 412	p21 ras
+T9	Protein_Mutation 413 416	D12
+R3	Has_Mutation Arg1:T8 Arg2:T9	
+R4	Has_Mutation Arg1:T8 Arg2:T7	
+T10	Gene_protein 746 753	p21 ras
+T11	Gene_protein 771 778	p21 ras
+T12	Gene_protein 795 802	p21 ras
+T13	Protein_Mutation 824 827	D12
+T14	Protein_Mutation 829 832	V12
+T15	Protein_Mutation 834 837	S12
+T16	Protein_Mutation 842 845	L61
+R5	Has_Mutation Arg1:T12 Arg2:T13	
+R6	Has_Mutation Arg1:T12 Arg2:T14	
+R7	Has_Mutation Arg1:T12 Arg2:T15	
+R8	Has_Mutation Arg1:T12 Arg2:T16	
+T17	Protein_Mutation 846 855	mutations
+T18	Gene_protein 924 931	p21 ras
+T19	Protein_Mutation 999 1006	mutated
+T20	Gene_protein 1123 1130	p21 ras
+T21	Protein_Mutation 1131 1134	G12
+R9	Has_Mutation Arg1:T20 Arg2:T21	
+T22	Gene_protein 1201 1208	p21 ras
+T23	Protein_Mutation 1266 1274	mutation
+R10	Has_Mutation Arg1:T22 Arg2:T23	

@@ -1,0 +1,37 @@
+T1	Gene_protein 0 4	MLH3
+T2	DNA_Mutation 5 13	mutation
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 38 42	MLH3
+T4	Gene_protein 148 162	MutL homologue
+T5	Gene_protein 163 167	MLH1
+*	Alias T5 T4
+T6	Gene_protein 192 196	MLH3
+T7	Gene_protein 268 272	MLH3
+T8	DNA_Mutation 255 264	mutations
+R2	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 353 357	MLH3
+T10	Gene_protein 432 436	MLH3
+T11	Gene_protein 644 648	MSH2
+T12	Gene_protein 652 656	MSH6
+T13	DNA_Mutation 657 666	mutations
+R3	Has_Mutation Arg1:T11 Arg2:T13	
+R4	Has_Mutation Arg1:T12 Arg2:T13	
+T14	Gene_protein 706 710	MLH1
+T15	DNA_modification 711 721	methylated
+T16	DNA_Mutation 748 756	variants
+T17	DNA_Mutation 805 812	variant
+T18	Protein_Mutation 833 841	missense
+T19	DNA_Mutation 881 890	mutations
+T20	Protein_Mutation 920 936	missense variant
+T21	Gene_protein 1018 1022	MLH3
+T22	locus 1023 1031	promoter
+T23	DNA_modification 1032 1043	methylation
+R5	Has_Modification Arg1:T22 Arg2:T23	
+T24	Protein_Mutation 1126 1143	missense variants
+T25	Protein_Mutation 1153 1171	missense mutations
+R6	Has_Modification Arg1:T14 Arg2:T15	
+T26	Protein_Mutation 1254 1262	missense
+T27	Gene_protein 1289 1293	MLH3
+R7	Has_Mutation Arg1:T27 Arg2:T26	
+R8	Has_Mutation Arg1:T27 Arg2:T25	
+R9	Has_Mutation Arg1:T27 Arg2:T24	

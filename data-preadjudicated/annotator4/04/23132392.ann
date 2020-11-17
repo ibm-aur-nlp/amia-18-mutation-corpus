@@ -1,0 +1,24 @@
+T1	Gene_protein 8 13	MED12
+T3	Gene_protein 195 212	RNA polymerase II
+T2	locus 354 360	exon 2
+T4	Gene_protein 364 391	mediator complex subunit 12
+T5	Gene_protein 393 398	MED12
+*	Alias T4 T5
+T6	Gene_protein 439 444	MED12
+T7	locus 445 451	exon 2
+R1	Component_of Arg1:T7 Arg2:T6	
+R2	Component_of Arg1:T2 Arg2:T4	
+T8	Gene_protein 514 519	MED12
+T9	locus 520 526	exon 2
+R3	Component_of Arg1:T9 Arg2:T8	
+T10	Gene_protein 986 989	Wnt
+T11	DNA_Mutation 1046 1065	somatic alterations
+T12	Protein_Mutation 1125 1133	Gly44Ser
+T13	Protein_Mutation 1135 1150	Ala38_Leu39ins7
+T14	Protein_Mutation 1152 1171	Glu35_Leu36delinsVa
+T15	Protein_Mutation 1204 1212	Gly44Cys
+T16	Protein_Mutation 1214 1222	Ala67Val
+T17	Gene_protein 1248 1253	MED12
+T18	locus 1254 1260	exon 2
+R4	Component_of Arg1:T18 Arg2:T17	
+T19	Gene_protein 1446 1451	MED12

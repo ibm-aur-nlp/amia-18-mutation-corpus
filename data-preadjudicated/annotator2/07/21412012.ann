@@ -1,0 +1,37 @@
+T1	DNA_Mutation 25 43	genetic variations
+T2	Gene_protein 51 55	PI3K
+T3	Gene_protein 56 60	PTEN
+T4	Gene_protein 61 64	AKT
+T5	Gene_protein 65 69	mTOR
+T6	Gene_protein 158 162	PI3K
+T7	Gene_protein 163 167	PTEN
+T8	Gene_protein 168 171	AKT
+T9	Gene_protein 172 176	mTOR
+T10	DNA_Mutation 286 290	SNPs
+T11	Gene_protein 298 302	PI3K
+T12	Gene_protein 303 307	PTEN
+T13	Gene_protein 308 311	AKT
+T14	Gene_protein 312 316	mTOR
+R1	Has_Mutation Arg1:T11 Arg2:T10	
+R2	Has_Mutation Arg1:T12 Arg2:T10	
+R3	Has_Mutation Arg1:T13 Arg2:T10	
+R4	Has_Mutation Arg1:T14 Arg2:T10	
+T15	DNA_Mutation 1043 1056	polymorphisms
+T16	DNA_Mutation 593 606	polymorphisms
+T17	Gene_protein 614 618	PI3K
+T18	Gene_protein 619 623	PTEN
+T19	Gene_protein 624 627	AKT
+T20	Gene_protein 628 632	mTOR
+R5	Has_Mutation Arg1:T17 Arg2:T16	
+R6	Has_Mutation Arg1:T18 Arg2:T16	
+R7	Has_Mutation Arg1:T19 Arg2:T16	
+R8	Has_Mutation Arg1:T20 Arg2:T16	
+T21	DNA_Mutation 1277 1281	SNPs
+T22	Gene_protein 1289 1293	PI3K
+T23	Gene_protein 1294 1298	PTEN
+T24	Gene_protein 1299 1302	AKT
+T25	Gene_protein 1303 1307	mTOR
+R9	Has_Mutation Arg1:T22 Arg2:T21	
+R10	Has_Mutation Arg1:T23 Arg2:T21	
+R11	Has_Mutation Arg1:T24 Arg2:T21	
+R12	Has_Mutation Arg1:T25 Arg2:T21	

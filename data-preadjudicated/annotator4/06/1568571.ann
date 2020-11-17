@@ -1,0 +1,26 @@
+T1	DNA_Mutation 56 67	alterations
+T2	DNA_Mutation 297 308	alterations
+T3	DNA_Mutation 711 719	deletion
+T4	DNA_Mutation 852 864	allelic loss
+T5	DNA_Mutation 928 940	allelic loss
+T6	locus 944 958	chromosome 17p
+R1	Has_Mutation Arg1:T6 Arg2:T5	
+T7	DNA_Mutation 1012 1020	mutation
+T8	DNA_Mutation 1175 1183	deletion
+T9	locus 1187 1190	17p
+R2	Has_Mutation Arg1:T9 Arg2:T8	
+T10	DNA_Mutation 1378 1390	allelic loss
+T11	DNA_Mutation 1392 1400	deletion
+T12	locus 1404 1407	17p
+R3	Has_Mutation Arg1:T12 Arg2:T11	
+T13	DNA_Mutation 1413 1421	deletion
+T14	locus 1425 1428	18q
+R4	Has_Mutation Arg1:T14 Arg2:T13	
+T15	DNA_Mutation 1614 1622	deletion
+T16	locus 1626 1629	17p
+T17	DNA_Mutation 1633 1641	deletion
+T18	locus 1650 1653	17p
+T19	locus 1658 1661	18q
+R5	Has_Mutation Arg1:T18 Arg2:T17	
+R6	Has_Mutation Arg1:T19 Arg2:T17	
+T20	DNA_Mutation 1808 1819	alterations

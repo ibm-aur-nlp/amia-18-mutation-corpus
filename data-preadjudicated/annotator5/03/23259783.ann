@@ -1,0 +1,22 @@
+T1	Gene_protein 19 24	PAI 1
+T2	DNA_Mutation 36 48	polymorphism
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 84 115	Plasminogen activator ihnibitor
+T4	Gene_protein 117 122	PAI 1
+*	Alias T4 T3
+T5	Gene_protein 381 386	PAI 1
+T6	Gene_protein 563 568	PAI 1
+T7	Gene_protein 687 692	PAI 1
+T8	dbSNP 693 702	rs1799889
+R2	Has_Mutation Arg1:T7 Arg2:T8	
+T9	locus 703 707	-675
+T10	DNA_Mutation 714 726	polymorphism
+T11	Gene_protein 847 852	PAI 1
+T12	Gene_protein 992 997	PAI 1
+T13	DNA_Mutation 1112 1125	polymorphisms
+T14	Gene_protein 1129 1134	PAI 1
+R3	Has_Mutation Arg1:T14 Arg2:T13	
+T15	Gene_protein 1198 1203	PAI 1
+T16	DNA_Mutation 1385 1398	polymorphisms
+T17	Gene_protein 1402 1407	PAI 1
+R4	Has_Mutation Arg1:T17 Arg2:T16	

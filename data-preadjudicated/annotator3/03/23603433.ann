@@ -1,0 +1,26 @@
+T1	Gene_protein 83 91	KIAA0146
+T2	Gene_protein 93 98	CEBPD
+T3	Gene_protein 103 108	PRKDC
+T4	locus 19 24	FRA8I
+R1	Component_of Arg1:T4 Arg2:T1	
+R2	Component_of Arg1:T4 Arg2:T2	
+R3	Component_of Arg1:T4 Arg2:T3	
+T5	locus 285 287	8p
+T6	locus 316 318	8q
+T7	locus 416 428	chromosome 8
+T8	locus 770 775	FRA8I
+T9	locus 796 803	8q11.21
+T10	locus 862 867	FRA8I
+T11	Gene_protein 880 888	KIAA0146
+R4	Component_of Arg1:T10 Arg2:T11	
+T12	Gene_protein 956 961	CEBPD
+T13	Gene_protein 974 979	PRKDC
+R5	Component_of Arg1:T10 Arg2:T12	
+R6	Component_of Arg1:T10 Arg2:T13	
+T14	locus 1073 1078	FRA8I
+T15	locus 1216 1221	FRA8I
+T16	Gene_protein 1450 1458	KIAA0146
+T17	Gene_protein 1574 1582	KIAA0146
+T18	DNA_Mutation 1662 1678	t(8;14)(q11;q32)
+R7	Has_Mutation Arg1:T17 Arg2:T18	
+T19	Gene_protein 1892 1900	KIAA0146

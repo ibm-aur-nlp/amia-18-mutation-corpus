@@ -1,0 +1,14 @@
+Microsatellite instability does not predict the efficacy of chemotherapy in metastatic colorectal cancer. A systematic review and meta-analysis.
+
+
+## BACKGROUND
+Microsatellite Instability (MSI) status is a good prognostic factor for colorectal cancer (CRC) but its predictive value for chemosensitivity remains controversial. A previous meta-analysis (MA) in the adjuvant setting showed that MSI-high (H) status did not predict the efficacy of chemotherapy. The predictive value of MSI status on the effect of metastatic chemotherapy was investigated by MA.
+
+## PATIENTS AND METHODS
+Studies were identified by electronic search through PubMed, Embase and ASCO proceedings online databases, using several key words (colorectal cancer, chemotherapy, microsatellite instability). For each study, the ratio of response rate (RR), complete (CR) and partial response (PR) divided by stable disease and progression was calculated. From 190 articles and 100 abstracts, only eight independent studies were selected. The data were analysed with a random-effect model (due to heterogeneity between studies) using EasyMA software. Statistical calculations were performed on six studies representing 964 patients (mean age 63 years; 91 MSI-H; 873 microsatellite stable (MSS) tumours). A total of 287 patients received 5-fluorouracil (5FU)-based chemotherapy, whereas 678 patients received combinations of 5FU or capecitabine with oxaliplatin and/or irinotecan.
+
+## RESULTS
+No benefit of metastatic chemotherapy in terms of RR for MSI-H patients compared with MSS patients was found. The global hazard ratio (HR) for RR was 0.82 (95% confidence interval, CI: 0.95; 0.65-1.03; p=0.09).
+
+## CONCLUSION
+MSI status does not predict the effect of chemotherapy which is similar in MSI-H and MSS metastatic CRC tumours.

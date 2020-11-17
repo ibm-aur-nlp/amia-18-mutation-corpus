@@ -1,0 +1,14 @@
+Interest and informational preferences regarding genomic testing for modest increases in colorectal cancer risk.
+
+
+## BACKGROUND/AIMS
+This study explored the interest in genomic testing for modest changes in colorectal cancer risk and preferences for receiving genomic risk communications among individuals with intermediate disease risk due to a family history of colorectal cancer.
+
+## METHODS
+Surveys were conducted on 272 men and women at intermediate risk for colorectal cancer enrolled in a randomized trial comparing a remote personalized risk communication intervention (TeleCARE) aimed at promoting colonoscopy to a generic print control condition. Guided by Leventhal's Common Sense Model of Self-Regulation, we examined demographic and psychosocial factors possibly associated with interest in SNP testing. Descriptive statistics and logistic regression models were used to identify factors associated with interest in SNP testing and preferences for receiving genomic risk communications.
+
+## RESULTS
+Three-fourths of participants expressed interest in SNP testing for colorectal cancer risk. Testing interest did not markedly change across behavior modifier scenarios. Participants preferred to receive genomic risk communications from a variety of sources: printed materials (69.5%), oncologists (54.8%), primary-care physicians (58.4%), and the web (58.1%). Overall, persons who were unmarried (p = 0.029), younger (p = 0.003) and with greater cancer-related fear (p = 0.019) were more likely to express interest in predictive genomic testing for colorectal cancer risk. In a stratified analysis, cancer-related fear was associated with the interest in predictive genomic testing in the intervention group (p = 0.017), but not the control group.
+
+## CONCLUSIONS
+Individuals with intermediate familial risk for colorectal cancer are highly interested in genomic testing for modest increases in disease risk, specifically unmarried persons, younger age groups and those with greater cancer fear.

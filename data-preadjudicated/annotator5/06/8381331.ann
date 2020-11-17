@@ -1,0 +1,24 @@
+T1	DNA_Mutation 9 23	multiplication
+T2	locus 31 39	long arm
+T3	locus 43 55	chromosome 8
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+R2	Has_Mutation Arg1:T3 Arg2:T1	
+T4	DNA_Mutation 95 109	allelic losses
+T5	locus 314 326	chromosome 8
+T6	DNA_Mutation 382 395	abnormalities
+T7	DNA_Mutation 626 648	ncrease in copy number
+T8	DNA_Mutation 651 665	multiplication
+T9	locus 682 684	8q
+R3	Has_Mutation Arg1:T9 Arg2:T7	
+R4	Has_Mutation Arg1:T9 Arg2:T8	
+T10	locus 744 752	long arm
+T11	locus 776 788	chromosome 8
+T12	DNA_Mutation 703 713	multiplied
+R5	Has_Mutation Arg1:T10 Arg2:T12	
+R6	Has_Mutation Arg1:T11 Arg2:T12	
+T13	locus 822 829	8q24.11
+R7	Has_Mutation Arg1:T13 Arg2:T12	
+T14	locus 889 891	8q
+T15	DNA_Mutation 870 885	multiplications
+R8	Has_Mutation Arg1:T14 Arg2:T15	
+T16	DNA_Mutation 1080 1093	abnormalities

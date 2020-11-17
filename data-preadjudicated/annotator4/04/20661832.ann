@@ -1,0 +1,10 @@
+T1	DNA_Mutation 703 722	mitotic aberrations
+T2	DNA_Mutation 754 772	improper alignment
+T3	DNA_Mutation 812 831	lagging chromosomes
+T4	DNA_Mutation 849 885	anaphase/telophase chromatin bridges
+T5	DNA_Mutation 887 907	multipolar divisions
+T6	DNA_Mutation 1044 1063	aberrant metaphases
+T7	DNA_Mutation 1237 1266	mitosis-related perturbations
+T8	Gene_protein 1333 1337	Mad2
+T9	Gene_protein 1339 1344	BubR1
+T10	Gene_protein 1350 1357	securin

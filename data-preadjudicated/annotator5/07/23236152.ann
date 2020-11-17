@@ -1,0 +1,39 @@
+T1	Gene_protein 46 52	CENP-E
+T2	Gene_protein 103 107	KRAS
+T3	DNA_Mutation 108 114	mutant
+R1	Has_Mutation Arg1:T2 Arg2:T3	
+T4	Gene_protein 33 36	ERH
+T5	Gene_protein 143 146	Ras
+T6	DNA_Mutation 147 156	mutations
+R2	Has_Mutation Arg1:T5 Arg2:T6	
+T7	Gene_protein 310 313	Ras
+T8	DNA_Mutation 314 320	mutant
+R3	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 380 411	enhancer of rudimentary homolog
+T10	Gene_protein 413 416	ERH
+*	Alias T10 T9
+T11	Gene_protein 513 517	KRAS
+T12	Gene_protein 532 536	KRAS
+T13	DNA_Mutation 483 492	mutations
+R4	Has_Mutation Arg1:T11 Arg2:T13	
+T14	Gene_protein 547 550	ERH
+T15	Gene_protein 590 596	SNRPD3
+T16	Gene_protein 664 670	CENP-E
+T17	Gene_protein 680 683	ERH
+T18	DNA_Mutation 672 676	Loss
+T19	DNA_Mutation 693 697	loss
+T20	Gene_protein 701 707	CENP-E
+R5	Has_Mutation Arg1:T20 Arg2:T19	
+R6	Has_Mutation Arg1:T17 Arg2:T18	
+T21	Gene_protein 799 802	ERH
+T22	Gene_protein 913 916	ERH
+T23	Gene_protein 959 963	KRAS
+T24	Gene_protein 994 997	ERH
+T25	Gene_protein 1097 1101	KRAS
+T26	DNA_Mutation 1102 1111	mutations
+R7	Has_Mutation Arg1:T25 Arg2:T26	
+T27	Gene_protein 1157 1160	ERH
+T28	Gene_protein 1222 1226	KRAS
+T29	DNA_Mutation 1227 1233	mutant
+R8	Has_Mutation Arg1:T28 Arg2:T29	
+T30	Gene_protein 1264 1267	ERH

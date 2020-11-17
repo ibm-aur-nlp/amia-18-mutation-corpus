@@ -1,0 +1,14 @@
+[Significance of K-ras detection in colorectal cancer].
+
+
+## OBJECTIVE
+To determine the mutation status of K-ras gene in colorectal cancer and analyze the associations between its mutation status and clinicopathological characteristics in colorectal cancer so as to select the patients likely to benefit from a targeted therapy.
+
+## METHODS
+A total of 208 colorectal cancer tissue samples were collected from September 2008 to February 2009. DNA was extracted with a genomic DNA miniprep kit. Then PCR was performed with the designed primers and the product directly sequenced by the Sanger method. Then the associations between K-ras mutation status and clinicopathological characteristics in colorectal cancer were analyzed.
+
+## RESULTS
+Of 208 cases, 91 cases of K-ras gene mutation were detected. The 12 or 13 codon had a mutation rate of 43.8%. There were no significant differences in gender, tumor location, histopathological grading and Duke's stage between the wild and mutated groups.
+
+## CONCLUSION
+Detection of K-ras gene status in colorectal cancer will help to select the patients likely to benefit from the monoclonal antibody therapy of targeting epidermal growth factor receptor.

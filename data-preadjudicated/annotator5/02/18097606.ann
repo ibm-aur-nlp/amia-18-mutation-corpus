@@ -1,0 +1,30 @@
+T1	Gene_protein 34 39	COX-2
+T2	Gene_protein 148 164	cyclooxygenase-2
+T3	Gene_protein 166 171	COX-2
+*	Alias T3 T2
+T4	locus 256 271	proximal 6.6 kb
+T5	Gene_protein 279 284	COX-2
+T6	locus 285 293	promoter
+T7	DNA_Mutation 351 359	deletion
+T8	locus 367 373	6.6 kb
+T9	Gene_protein 374 379	COX-2
+T10	locus 380 388	promoter
+R1	Has_Mutation Arg1:T8 Arg2:T7	
+R2	Has_Mutation Arg1:T9 Arg2:T7	
+R3	Has_Mutation Arg1:T10 Arg2:T7	
+T11	locus 534 558	transcription start site
+T15	DNA_Mutation 678 687	mutations
+T16	locus 648 651	CRE
+T12	locus 653 659	NF-IL6
+T13	locus 664 673	NF-kappaB
+R4	Has_Mutation Arg1:T13 Arg2:T15	
+R5	Has_Mutation Arg1:T12 Arg2:T15	
+R6	Has_Mutation Arg1:T16 Arg2:T15	
+T14	Gene_protein 758 763	COX-2
+T17	locus 594 621	transcription binding sites
+T18	Gene_protein 877 882	COX-2
+T19	locus 996 999	CRE
+T20	locus 1004 1010	NF-IL6
+T21	Gene_protein 1111 1116	COX-2
+T24	Gene_protein 1274 1283	NF-kappaB
+T22	Gene_protein 1178 1187	NF-kappaB

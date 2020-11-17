@@ -1,0 +1,4 @@
+T1	Gene_protein 569 573	BRAF
+T2	DNA_Mutation 574 583	mutations
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	DNA_Mutation 589 615	microsatellite instability

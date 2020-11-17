@@ -1,0 +1,11 @@
+Egr-1 regulates the transcription of NGX6 gene through a Sp1/Egr-1 overlapping site in the promoter.
+
+
+## BACKGROUND
+As a novel candidate metastasis suppressor gene, Nasopharyngeal carcinoma-associated gene 6 (NGX6) is involved in cellular growth, cell cycle progression and tumor angiogenesis. Previous studies have shown that NGX6 gene is down-regulated in colorectal cancer (CRC). However, little is known about its transcriptional regulation.
+
+## RESULTS
+We defined the minimal promoter of NGX6 gene in a 186-bp region (from-86 to +100) through mutation construct methods and luciferase assays. Results from Electrophoretic mobility shift assays (EMSA) and Chromatin immunoprecipitation (ChIP) revealed that Early growth response gene 1 (Egr-1) binds to the Sp1/Egr-1 overlapping site of NGX6 minimal promoter. Overexpression of Egr-1 increased the promoter activity and mRNA level of NGX6 gene; while knock-down of endogenous Egr-1 decreased mRNA expression of NGX6 gene.
+
+## CONCLUSION
+These results demonstrate that Egr-1 regulates NGX6 gene transcription through an overlapping Sp1/Egr-1 binding site as a positive regulator of NGX6 gene.

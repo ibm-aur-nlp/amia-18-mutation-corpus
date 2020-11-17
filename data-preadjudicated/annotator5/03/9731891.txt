@@ -1,0 +1,14 @@
+Microsatellite instability and p53 mutations in sporadic right and left colon carcinoma: different clinical and molecular implications.
+
+
+## BACKGROUND
+Left and right colon carcinomas can display different clinical, pathologic, and genetic characteristics. The purpose of this study was to characterize multiple molecular genetic alterations in sporadic colon carcinoma and to correlate them with the location of the tumors and with lymph node metastasis.
+
+## METHODS
+One hundred and twenty-five cases of sporadic colon carcinoma (50 in the right colon and 75 in the left colon in patients with no family history of colon carcinoma) were studied. Status of the p53 gene was assessed by polymerase chain reaction (PCR), single strand conformation polymorphism, and sequencing at exons 5-8. Microsatellite instability was analyzed with five microsatellite markers at chromosome 18. The mismatch repair genes hMLH1 and hMSH2 were studied in tumors found to have microsatellite instability by PCR and sequencing.
+
+## RESULTS
+In the 125 cases studied, there were 53 tumors with mutations of the p53 gene. p53 mutations correlated with lymph node metastases from right colon carcinoma cases (61%), and all cases with p53 mutations and microsatellite instability were AJCC/UICC Stage III (Dukes Stage C). In the right colon carcinoma cases the rate of microsatellite instability was related to the tumor size (19% in tumors measuring < 4 cm, and 34% in tumors measuring > 4 cm). No correlation between microsatellite instability and p53 mutations was detected. In the left colon carcinoma cases, p53 mutations were detected in 41% of tumors and microsatellite instability in 14%; neither finding was related to the tumor size. Mutations of the hMLH1 and hMSH2 mismatch repair genes were detected in 7 of 24 cases with marked microsatellite instability.
+
+## CONCLUSIONS
+Microsatellite instability is prone to occur in sporadic right colon carcinoma during tumor growth and is not associated significantly with mutations in the hMLH1 and hMSH2 mismatch repair genes or in the p53 gene. Concomitant detection of microsatellite instability and p53 mutations in right colon carcinoma is associated with the presence of lymph node metastases.

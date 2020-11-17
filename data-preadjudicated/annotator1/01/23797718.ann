@@ -1,0 +1,31 @@
+T1	Gene_protein 0 9	BRAFV600E
+T2	Gene_protein 106 115	BRAFV600E
+T3	DNA_Mutation 116 124	mutation
+*	Alias T3 T2
+T4	Gene_protein 396 405	BRAFV600E
+T5	Gene_protein 454 463	BRAFV600E
+T6	Gene_protein 682 691	BRAFV600E
+T7	Gene_protein 821 825	BRAF
+T8	DNA_Mutation 826 834	mutation
+R1	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 889 893	MLH1
+T10	locus 894 902	promoter
+T11	DNA_modification 903 914	methylation
+R2	Has_Modification Arg1:T10 Arg2:T11	
+R3	Component_of Arg1:T10 Arg2:T9	
+T12	Gene_protein 929 933	MLH1
+T13	DNA_Mutation 934 942	mutation
+*	Alias T13 T12
+T14	Gene_protein 969 978	BRAFV600E
+T15	Gene_protein 1114 1118	BRAF
+T16	Gene_protein 1358 1367	BRAFV600E
+T17	Gene_protein 1432 1436	BRAF
+T18	Gene_protein 1460 1464	BRAF
+T19	Gene_protein 1479 1483	BRAF
+T20	Gene_protein 1504 1508	BRAF
+T21	Gene_protein 1601 1605	BRAF
+T22	Gene_protein 1662 1671	BRAFV600E
+T23	Gene_protein 1713 1717	MLH1
+T24	DNA_Mutation 1718 1726	mutation
+T25	Gene_protein 1817 1826	BRAFV600E
+T26	Gene_protein 1940 1949	BRAFV600E

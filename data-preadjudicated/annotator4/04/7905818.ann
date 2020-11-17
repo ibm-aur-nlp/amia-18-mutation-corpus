@@ -1,0 +1,9 @@
+T1	Gene_protein 302 305	FAP
+T2	Gene_protein 417 420	FAP
+T3	Gene_protein 570 573	FAP
+T4	Gene_protein 216 246	familial adenomatous polyposis
+T5	Gene_protein 248 251	FAP
+*	Alias T5 T4
+T6	Gene_protein 838 841	FAP
+T7	Gene_protein 970 973	FAP
+T8	Gene_protein 1178 1181	FAP

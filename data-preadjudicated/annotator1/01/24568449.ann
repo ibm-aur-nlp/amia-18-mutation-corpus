@@ -1,0 +1,34 @@
+T1	DNA_Mutation 16 47	single nucleotide polymorphisms
+T2	Gene_protein 51 59	miR-146a
+T3	Gene_protein 61 69	miR-196a
+T4	Gene_protein 71 78	miR-149
+T5	Gene_protein 83 90	miR-499
+T6	DNA_Mutation 457 461	SNPs
+T7	Gene_protein 465 473	miR-146a
+T8	dbSNP 474 483	rs2910164
+T9	dbSNP 495 505	rs11614913
+T10	dbSNP 515 523	rs229283
+T11	dbSNP 533 542	rs3746444
+T12	dbSNP 754 764	rs11614913
+T13	dbSNP 1914 1924	rs11614913
+T14	dbSNP 1937 1946	rs2292832
+T15	DNA_Mutation 1947 1960	polymorphisms
+T17	Gene_protein 1929 1936	miR-149
+T16	Gene_protein 1904 1913	miR-196a2
+R1	Has_Mutation Arg1:T16 Arg2:T13	
+R2	Has_Mutation Arg1:T17 Arg2:T14	
+T18	dbSNP 1406 1415	rs2292832
+T19	Gene_protein 1398 1405	miR-149
+R3	Has_Mutation Arg1:T19 Arg2:T18	
+T20	Gene_protein 1064 1073	miR-196a2
+T21	RNA_Mutation 1073 1075	*T
+R4	Has_Mutation Arg1:T20 Arg2:T21	
+T22	Gene_protein 744 753	miR-196a2
+R5	Has_Mutation Arg1:T22 Arg2:T12	
+T23	Gene_protein 485 494	miR-196a2
+T24	Gene_protein 507 514	miR-149
+T25	Gene_protein 525 532	miR-499
+R6	Has_Mutation Arg1:T25 Arg2:T11	
+R7	Has_Mutation Arg1:T24 Arg2:T10	
+R8	Has_Mutation Arg1:T23 Arg2:T9	
+R9	Has_Mutation Arg1:T7 Arg2:T8	

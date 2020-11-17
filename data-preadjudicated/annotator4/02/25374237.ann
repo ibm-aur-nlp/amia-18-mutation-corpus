@@ -1,0 +1,21 @@
+T1	Gene_protein 436 444	Survivin
+T2	Gene_protein 661 669	survivin
+T3	Gene_protein 863 871	survivin
+T4	Gene_protein 956 964	survivin
+T5	dbSNP 974 983	rs9904341
+T6	dbSNP 996 1006	rs17878467
+T7	dbSNP 1022 1031	rs8073069
+T8	Gene_protein 1066 1074	survivin
+T9	dbSNP 965 972	-31 G/C
+*	Alias T5 T9
+T10	dbSNP 986 994	-241 C/T
+*	Alias T6 T10
+T11	dbSNP 1012 1020	-625 C/G
+*	Alias T7 T11
+T12	dbSNP 1248 1252	-31C
+T13	dbSNP 1360 1366	241 CT
+T14	Gene_protein 1496 1504	survivin
+T15	dbSNP 1505 1513	-625 C/G
+T16	Gene_protein 1642 1650	survivin
+T17	dbSNP 1651 1658	-31 G/C
+T18	dbSNP 1663 1671	-241 C/T

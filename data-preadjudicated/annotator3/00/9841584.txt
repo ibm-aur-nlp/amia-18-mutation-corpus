@@ -1,0 +1,29 @@
+Benefits of colonoscopic surveillance and prophylactic colectomy in patients with hereditary nonpolyposis colorectal cancer mutations.
+
+
+## BACKGROUND
+Predisposition genetic testing is now possible for many hereditary cancer syndromes, including hereditary nonpolyposis colorectal cancer. The optimal management of the elevated risk for cancer in carriers of mutations for hereditary nonpolyposis colorectal cancer is unclear.
+
+## OBJECTIVE
+To assess the life expectancy and quality-adjusted life expectancy benefits derived from endoscopic surveillance and prophylactic colectomy for persons who carry a mutation associated with hereditary nonpolyposis colorectal cancer.
+
+## DESIGN
+Decision analysis model. Lifetime risk for colorectal cancer, efficacy of surveillance and colectomy, stage-specific colorectal cancer mortality, and quality of life were included in the model.
+
+## SETTING
+Decision about a cancer prevention strategy at the time of a positive result on genetic testing.
+
+## PATIENTS
+Carriers of a mutation for hereditary nonpolyposis colorectal cancer who were 25 years of age.
+
+## INTERVENTIONS
+Immediate prophylactic colectomy; delayed colectomy on the basis of age, adenoma, or diagnosis of colorectal cancer; and endoscopic surveillance. Prophylactic surgical options were proctocolectomy with ileoanal anastomosis and subtotal colectomy with ileorectal anastomosis.
+
+## MEASUREMENTS
+Life expectancy and quality-adjusted life expectancy.
+
+## RESULTS
+All risk-reduction strategies led to large gains in life expectancy for carriers of a mutation for hereditary nonpolyposis colorectal cancer, with benefits ranging from 13.5 years for surveillance to 15.6 years for prophylactic proctocolectomy at 25 years of age compared with no intervention. The benefits of colectomy compared with surveillance decreased with increasing age and were minimal if colectomy was performed at the time of colorectal cancer diagnosis. When health-related quality of life was considered, surveillance led to the greatest quality-adjusted life expectancy benefit (3.1 years compared with proctocolectomy and 0.3 years compared with subtotal colectomy).
+
+## CONCLUSIONS
+Colonoscopic surveillance is an effective method of reducing risk for cancer in carriers of a mutation for hereditary nonpolyposis colorectal cancer. The individual patient's choice between prophylactic surgery and surveillance is a complex decision in which personal preferences weigh heavily.

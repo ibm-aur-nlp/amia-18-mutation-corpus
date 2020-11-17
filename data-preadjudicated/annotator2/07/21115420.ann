@@ -1,0 +1,66 @@
+T1	DNA_Mutation 195 218	chromosomal instability
+T2	DNA_Mutation 220 223	CIN
+*	Alias T1 T2
+T3	DNA_Mutation 229 248	genetic instability
+T5	locus 528 560	short arm of chromosome 17 and 8
+T6	locus 572 607	long arm of chromosome 5, 18 and 22
+T8	DNA_Mutation 650 659	mutations
+T9	Gene_protein 663 667	TP53
+T10	Gene_protein 669 672	APC
+T11	Gene_protein 674 679	SMAD2
+T12	Gene_protein 684 689	SMAD4
+R2	Has_Mutation Arg1:T9 Arg2:T8	
+R3	Has_Mutation Arg1:T10 Arg2:T8	
+R4	Has_Mutation Arg1:T11 Arg2:T8	
+R5	Has_Mutation Arg1:T12 Arg2:T8	
+T14	DNA_Mutation 761 780	genetic instability
+T15	DNA_Mutation 788 791	MSI
+T16	DNA_Mutation 793 819	microsatellite instability
+T17	DNA_Mutation 969 978	mutations
+T18	Gene_protein 1026 1033	TGFBRII
+T19	Gene_protein 1035 1038	BAX
+T20	Gene_protein 1042 1050	CASPASE5
+T22	DNA_modification 1182 1198	hypermethylation
+T24	DNA_Mutation 1286 1294	mutation
+T25	Gene_protein 1298 1302	BRAF
+R6	Has_Mutation Arg1:T25 Arg2:T24	
+T21	Gene_protein 1578 1581	APC
+T23	DNA_Mutation 1594 1597	CIN
+T27	DNA_Mutation 1630 1638	mutation
+T29	Gene_protein 1646 1655	β-catenin
+R8	Has_Mutation Arg1:T29 Arg2:T27	
+T30	DNA_Mutation 1664 1667	MSI
+T32	Gene_protein 1763 1768	SMAD4
+T31	Gene_protein 1791 1796	SMAD2
+T33	DNA_Mutation 1810 1818	mutation
+T34	DNA_Mutation 1822 1825	CIN
+T35	DNA_Mutation 1859 1879	frame-shift mutation
+T36	Gene_protein 1927 1971	transforming growth factor) receptor type II
+T37	DNA_Mutation 1975 1978	MSI
+T38	Gene_protein 2030 2034	KRAS
+T39	DNA_Mutation 2035 2044	mutations
+R10	Has_Mutation Arg1:T38 Arg2:T39	
+T40	DNA_Mutation 2048 2051	CIN
+T41	Gene_protein 2065 2069	BRAF
+T42	DNA_Mutation 2070 2079	mutations
+T43	DNA_Mutation 2083 2086	MSI
+R11	Has_Mutation Arg1:T41 Arg2:T42	
+T44	Gene_protein 2099 2102	p53
+T45	Gene_protein 2129 2133	TP53
+T46	Gene_protein 2167 2170	BAX
+T47	DNA_Mutation 2197 2200	MSI
+T4	DNA_Mutation 514 520	losses
+R1	Has_Mutation Arg1:T5 Arg2:T4	
+R12	Has_Mutation Arg1:T6 Arg2:T4	
+T7	DNA_Mutation 623 629	losses
+T48	DNA_Mutation 754 757	CIN
+*	Alias T16 T15
+T49	locus 1206 1221	promoter region
+R13	Has_Modification Arg1:T49 Arg2:T22	
+T26	locus 1895 1913	polyG coding track
+R7	Component_of Arg1:T26 Arg2:T36	
+R9	Has_Mutation Arg1:T26 Arg2:T35	
+R14	Has_Mutation Arg1:T36 Arg2:T35	
+T28	DNA_Mutation 2150 2153	CIN
+T50	DNA_Mutation 2184 2193	mutations
+R15	Has_Mutation Arg1:T46 Arg2:T50	

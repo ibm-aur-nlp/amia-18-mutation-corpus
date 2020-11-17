@@ -1,0 +1,6 @@
+T1	Mutation 137 146	Mutations
+T2	Gene_protein 154 157	APC
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	Gene_protein 1168 1171	APC
+T4	Mutation 1172 1180	mutation
+R2	Has_Mutation Arg1:T3 Arg2:T4	

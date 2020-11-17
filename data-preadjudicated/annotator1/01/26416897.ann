@@ -1,0 +1,51 @@
+T1	DNA_Mutation 0 10	Variations
+T2	Gene_protein 305 310	NF-kB
+T3	Gene_protein 329 333	TBK1
+T4	Gene_protein 459 463	CCL2
+T5	Gene_protein 464 468	CCR2
+T6	Gene_protein 475 502	histidine-rich glycoprotein
+T7	Gene_protein 504 507	HRG
+*	Alias T7 T6
+T8	Gene_protein 514 536	placenta growth factor
+T9	Gene_protein 538 542	PIGF
+*	Alias T9 T8
+T10	DNA_Mutation 1046 1077	single-nucleotide polymorphisms
+T11	Gene_protein 1094 1098	CCL2
+T12	Gene_protein 1100 1104	CCR2
+T13	Gene_protein 1106 1109	HRG
+T14	Gene_protein 1111 1115	PIGF
+T15	Gene_protein 1117 1122	NFKB1
+T16	Gene_protein 1124 1128	TBK1
+T17	Gene_protein 1130 1135	CCL18
+T18	Gene_protein 1141 1145	IRF3
+T19	Gene_protein 1293 1297	KRAS
+T20	locus 1298 1303	exon2
+R1	Component_of Arg1:T20 Arg2:T19	
+T21	Gene_protein 1305 1309	KRAS
+*	Alias T21 T19 T26
+T22	Gene_protein 1429 1433	TBK1
+T23	dbSNP 1434 1443	rs7486100
+R2	Has_Mutation Arg1:T22 Arg2:T23	
+T24	Gene_protein 1501 1505	KRAS
+T25	DNA_Mutation 1506 1515	wild-type
+*	Alias T25 T24
+T26	DNA_Mutation 1311 1320	wild-type
+T27	DNA_Mutation 1650 1658	T allele
+*	Alias T27 T23
+T28	Gene_protein 1801 1805	CCL2
+T29	Gene_protein 1814 1819	CCL18
+T30	Gene_protein 1833 1837	IRF3
+T31	Gene_protein 1906 1910	KRAS
+T32	DNA_Mutation 1911 1917	mutant
+T33	dbSNP 1838 1847	rs2304205
+T34	dbSNP 1820 1827	rs14304
+T35	dbSNP 1806 1812	rs4586
+T37	Gene_protein 1984 1988	KRAS
+T36	DNA_Mutation 1989 1998	wild-type
+R3	Has_Mutation Arg1:T28 Arg2:T35	
+R4	Has_Mutation Arg1:T29 Arg2:T34	
+R5	Has_Mutation Arg1:T30 Arg2:T33	
+R6	Has_Mutation Arg1:T31 Arg2:T32	
+R7	Has_Mutation Arg1:T37 Arg2:T36	
+T38	Gene_protein 2422 2426	KRAS
+T39	DNA_Mutation 2357 2372	gene variations

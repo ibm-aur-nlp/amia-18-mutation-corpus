@@ -1,0 +1,35 @@
+T1	locus 27 48	chromosomes 17 and 18
+T2	locus 390 411	chromosomes 17 and 18
+T4	Gene_protein 429 432	p53
+T5	Gene_protein 437 440	DCC
+T6	Gene_protein 446 456	SHAD4/DPC4
+#1	AnnotatorNotes T6	SHAD4 looks like a typo in the article: should probably be SMAD4
+T7	locus 689 710	chromosomes 17 and 18
+T9	locus 1021 1042	chromosomes 17 and 18
+T10	locus 1348 1369	chromosomes 17 and 18
+T8	DNA_Mutation 662 685	numerical abnormalities
+R2	Has_Mutation Arg1:T7 Arg2:T8	
+T3	DNA_Mutation 363 386	numerical abnormalities
+R1	Has_Mutation Arg1:T2 Arg2:T3	
+T11	DNA_Mutation 1321 1344	Numerical abnormalities
+R3	Has_Mutation Arg1:T10 Arg2:T11	
+T12	Mutation 1452 1457	Gains
+T13	locus 1461 1474	chromosome 17
+T14	DNA_Mutation 1479 1490	monosomy 18
+R4	Has_Mutation Arg1:T13 Arg2:T12	
+T15	DNA_Mutation 1584 1597	abnormalities
+T16	DNA_Mutation 1744 1767	numerical abnormalities
+T17	locus 2244 2257	chromosome 17
+T18	DNA_Mutation 2216 2240	altered number of copies
+R5	Has_Mutation Arg1:T17 Arg2:T18	
+T20	DNA_Mutation 2456 2479	numerical abnormalities
+T21	locus 2483 2496	chromosome 18
+R6	Has_Mutation Arg1:T21 Arg2:T20	
+T19	DNA_Mutation 2712 2735	numerical abnormalities
+T22	locus 2739 2752	chromosome 17
+R7	Has_Mutation Arg1:T22 Arg2:T19	
+T23	locus 2765 2778	chromosome 18
+T24	DNA_Mutation 2906 2929	Numerical abnormalities
+T25	locus 2933 2954	chromosomes 17 and 18
+R8	Has_Mutation Arg1:T25 Arg2:T24	
+T26	locus 3028 3041	chromosome 17

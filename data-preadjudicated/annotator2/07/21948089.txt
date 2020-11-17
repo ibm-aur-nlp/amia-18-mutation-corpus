@@ -1,0 +1,14 @@
+Complex patterns of altered MicroRNA expression during the adenoma-adenocarcinoma sequence for microsatellite-stable colorectal cancer.
+
+
+## PURPOSE
+MicroRNAs are short noncoding RNAs that regulate gene expression and are over- or underexpressed in most tumors, including colorectal adenocarcinoma. MicroRNAs are potential biomarkers and therapeutic targets and agents, but limited information on microRNAome alterations during progression in the well-known adenoma-adenocarcinoma sequence is available to guide their usage.
+
+## EXPERIMENTAL DESIGN
+We profiled 866 human microRNAs by microarray analysis in 69 matched specimens of microsatellite-stable adenocarcinomas, adjoining precursor adenomas including areas of high- and low-grade dysplasia, and nonneoplastic mucosa.
+
+## RESULTS
+We found 230 microRNAs that were significantly differentially expressed during progression, including 19 not reported previously. Altered microRNAs clustered into two major patterns of early (type I) and late (type II) differential expression. The largest number (n = 108) was altered at the earliest step from mucosa to low-grade dysplasia (subtype IA) prior to major nuclear localization of β-catenin, including 36 microRNAs that had persistent differential expression throughout the entire sequence to adenocarcinoma. Twenty microRNAs were intermittently altered (subtype IB), and six were transiently altered (subtype IC). In contrast, 33 microRNAs were altered late in high-grade dysplasia and adenocarcinoma (subtype IIA), and 63 in adenocarcinoma only (subtype IIB). Predicted targets in 12 molecular pathways were identified for highly altered microRNAs, including the Wnt signaling pathway leading to low-grade dysplasia. β-catenin expression correlated with downregulated microRNAs.
+
+## CONCLUSIONS
+Our findings suggest that numerous microRNAs play roles in the sequence of molecular events, especially early events, resulting in colorectal adenocarcinoma. The temporal patterns and complexity of microRNAome alterations during progression will influence the efficacy of microRNAs for clinical purposes.

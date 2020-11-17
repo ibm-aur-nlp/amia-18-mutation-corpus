@@ -1,0 +1,22 @@
+T1	Gene_protein 21 66	mitochondrial oxidative phosphorylation chain
+T2	DNA_Mutation 0 13	Polymorphisms
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 320 365	mitochondrial oxidative phosphorylation chain
+T4	DNA_Mutation 545 576	single nucleotide polymorphisms
+T5	DNA_Mutation 578 582	SNPs
+*	Alias T4 T5
+T6	Gene_protein 602 633	oxidative phosphorylation chain
+R2	Has_Mutation Arg1:T6 Arg2:T4	
+T7	locus 757 779	3' untranslated region
+T8	Gene_protein 783 788	UQCRB
+T9	dbSNP 804 813	rs7836698
+T10	dbSNP 818 828	rs10504961
+T11	Gene_protein 1319 1325	COX6B1
+T12	Gene_protein 790 801	complex III
+*	Alias T8 T12
+T13	Gene_protein 1327 1337	complex IV
+*	Alias T11 T13
+T14	dbSNP 1403 1412	rs6510502
+T15	dbSNP 1443 1453	rs10420252
+T16	dbSNP 1485 1494	rs6510502
+T17	Gene_protein 1673 1702	mitochondrial oxidative chain

@@ -1,0 +1,9 @@
+T1	DNA_Mutation 91 99	mutation
+T2	DNA_Mutation 374 400	microsatellite instability
+T3	DNA_Mutation 402 405	MSI
+*	Alias T2 T3
+T4	Gene_protein 1222 1226	MLH1
+T5	Gene_protein 1234 1238	MSH2
+T6	Gene_protein 1248 1252	MSH6
+T7	DNA_Mutation 1196 1205	mutations
+R1	Has_Mutation Arg1:T4 Arg2:T7	

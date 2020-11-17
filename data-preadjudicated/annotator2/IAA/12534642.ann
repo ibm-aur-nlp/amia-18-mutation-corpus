@@ -1,0 +1,93 @@
+T1	DNA_Mutation 0 13	Polymorphisms
+T2	Gene_protein 21 36	cytochrome P450
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T3	Gene_protein 37 43	CYP1A2
+T4	Gene_protein 50 56	CYP1A2
+T5	DNA_Mutation 201 232	single nucleotide polymorphisms
+T6	DNA_Mutation 234 238	SNPs
+*	Alias T6 T5
+T7	Gene_protein 247 273	cytochrome P450 enzyme 1A2
+T8	Gene_protein 280 286	CYP1A2
+*	Alias T8 T7
+T9	DNA_Mutation 385 389	SNPs
+R2	Has_Mutation Arg1:T7 Arg2:T6	
+T10	Gene_protein 526 532	CYP1A2
+T11	DNA_Mutation 533 546	polymorphisms
+R3	Has_Mutation Arg1:T10 Arg2:T11	
+T12	DNA_Mutation 547 557	-3858G-->A
+T13	Gene_protein 566 572	CYP1A2
+T14	DNA_Mutation 572 575	*1C
+R5	Has_Mutation Arg1:T13 Arg2:T14	
+T15	DNA_Mutation 579 591	2464T-->delT
+R4	Has_Mutation Arg1:T10 Arg2:T12	
+R6	Has_Mutation Arg1:T10 Arg2:T15	
+T16	Gene_protein 593 599	CYP1A2
+T17	DNA_Mutation 599 602	*1D
+R7	Has_Mutation Arg1:T16 Arg2:T17	
+T18	DNA_Mutation 605 614	-740T-->G
+T19	Gene_protein 616 622	CYP1A2
+R8	Has_Mutation Arg1:T10 Arg2:T18	
+T20	DNA_Mutation 622 625	*1E
+R9	Has_Mutation Arg1:T19 Arg2:T20	
+T21	DNA_Mutation 630 633	*1G
+R10	Has_Mutation Arg1:T19 Arg2:T21	
+T22	DNA_Mutation 636 645	-164A-->C
+R11	Has_Mutation Arg1:T10 Arg2:T22	
+T23	Gene_protein 647 653	CYP1A2
+T24	DNA_Mutation 653 656	*1F
+R12	Has_Mutation Arg1:T23 Arg2:T24	
+T25	DNA_Mutation 659 666	63C-->G
+R13	Has_Mutation Arg1:T10 Arg2:T25	
+T26	Gene_protein 668 674	CYP1A2
+T27	DNA_Mutation 674 676	*2
+R14	Has_Mutation Arg1:T26 Arg2:T27	
+T28	DNA_Mutation 683 692	1545T-->C
+R15	Has_Mutation Arg1:T10 Arg2:T28	
+T29	Gene_protein 702 708	CYP1A2
+T30	DNA_Mutation 708 711	*1B
+R16	Has_Mutation Arg1:T29 Arg2:T30	
+T31	DNA_Mutation 713 716	*1G
+T32	DNA_Mutation 718 721	*1H
+R17	Has_Mutation Arg1:T29 Arg2:T31	
+R18	Has_Mutation Arg1:T29 Arg2:T32	
+T33	DNA_Mutation 726 728	*3
+R19	Has_Mutation Arg1:T29 Arg2:T32	
+T34	DNA_Mutation 791 803	polymorphism
+T35	Gene_protein 858 864	CYP1A2
+T36	Gene_protein 965 971	CYP1A2
+T37	DNA_Mutation 972 976	SNPs
+R20	Has_Mutation Arg1:T36 Arg2:T37	
+T38	DNA_Mutation 982 991	1545T-->C
+R21	Has_Mutation Arg1:T36 Arg2:T38	
+T39	DNA_Mutation 1023 1032	-164A-->C
+R22	Has_Mutation Arg1:T36 Arg2:T39	
+T40	Gene_protein 1034 1040	CYP1A2
+T41	DNA_Mutation 1040 1043	*1F
+R23	Has_Mutation Arg1:T40 Arg2:T41	
+T42	DNA_Mutation 1056 1069	-2464T-->delT
+R24	Has_Mutation Arg1:T36 Arg2:T42	
+T43	Gene_protein 1071 1077	CYP1A2
+T44	DNA_Mutation 1077 1080	*1D
+R25	Has_Mutation Arg1:T43 Arg2:T44	
+T45	DNA_Mutation 1094 1098	SNPs
+T46	DNA_Mutation 1246 1251	-164C
+T47	DNA_Mutation 1256 1261	1545C
+T48	DNA_Mutation 1282 1291	-2464delT
+T49	DNA_Mutation 1308 1313	1545C
+T50	Gene_protein 1716 1722	CYP1A2
+T51	Gene_protein 1776 1782	CYP1A2
+T52	DNA_Mutation 1783 1796	polymorphisms
+R26	Has_Mutation Arg1:T51 Arg2:T52	
+T53	DNA_Mutation 1844 1853	-164A-->C
+T54	Gene_protein 1855 1861	CYP1A2
+T55	DNA_Mutation 1861 1864	*1F
+R27	Has_Mutation Arg1:T54 Arg2:T55	
+R28	Has_Mutation Arg1:T54 Arg2:T53	
+T56	DNA_Mutation 1870 1883	-2464T-->delT
+T57	Gene_protein 1885 1891	CYP1A2
+T58	DNA_Mutation 1891 1894	*1D
+R29	Has_Mutation Arg1:T57 Arg2:T58	
+R30	Has_Mutation Arg1:T57 Arg2:T56	
+T59	Gene_protein 1945 1951	CYP1A2
+T60	Gene_protein 1975 1981	CYP1A2
+T61	Gene_protein 2058 2064	CYP1A2

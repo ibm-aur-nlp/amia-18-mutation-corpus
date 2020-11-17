@@ -1,0 +1,15 @@
+T1	locus 409 410	1
+T2	DNA_Mutation 410 412	p-
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	locus 444 446	17
+T4	DNA_Mutation 442 443	i
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+T5	locus 226 231	48,XY
+T6	DNA_Mutation 232 241	+8,+21/51
+R3	Has_Mutation Arg1:T5 Arg2:T6	
+T7	locus 243 245	XY
+T8	DNA_Mutation 246 267	+8,+9,+10,+i(17q),+21
+R4	Has_Mutation Arg1:T7 Arg2:T8	
+T9	locus 273 275	47
+T10	DNA_Mutation 276 345	der(X)t(X;14)(q11;q11)-Y,t(6;18)(p22;q24)+7,+8,der(19)t (19;?)(q13;?)
+R5	Has_Mutation Arg1:T9 Arg2:T10	

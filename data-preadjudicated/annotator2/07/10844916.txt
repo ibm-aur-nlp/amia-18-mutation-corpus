@@ -1,0 +1,23 @@
+Value of predictive genetic testing in management of hereditary non-polyposis colorectal cancer (HNPCC)
+
+
+## OBJECTIVE
+To investigate the impact of predictive genetic testing on colonoscopic surveillance in an extended family with hereditary non-polyposis colorectal cancer (HNPCC).
+
+## SETTING
+Familial Bowel Cancer Service, The Royal Melbourne Hospital, Victoria.
+
+## SUBJECTS
+96 people registered with the Service who were apparently unaffected members of an extended family that met the classic Amsterdam criteria for HNPCC and carried an MLH1 gene mutation (IVS9 + 3insT).
+
+## INTERVENTION
+Predictive genetic testing was offered in a cascade manner to at-risk family members; mutation-positive individuals were advised to have annual colonoscopic surveillance, while mutation-negative individuals were withdrawn from surveillance.
+
+## MAIN OUTCOME MEASURES
+Previous compliance with recommended colonoscopic surveillance; uptake and results of genetic testing; expected effect of genetic test results on number of colonoscopies over five years.
+
+## RESULTS
+22 of the 96 family members (23%) were not complying with recommended surveillance. Of 48 individuals offered predictive genetic testing, 41 (85%) responded and 39 (81%) underwent testing. Seven of the 39 (18%) were positive for the family-specific mutation, and 32 (82%) were negative. The 39 tested individuals and 37 of their descendants who were registered with the screening program had undergone 70 colonoscopies in the five years before genetic testing. In the five years after testing, only 37 surveillance colonoscopies were planned (annual or two-yearly colonoscopies for the six mutation-positive individuals and five-yearly colonoscopies for four mutation-negative individuals with previously identified adenoma), an almost 50% reduction in colonoscopies.
+
+## CONCLUSION
+Predictive genetic testing in HNPCC families allows many individuals to be withdrawn from regular colonoscopic surveillance. It may therefore reduce costs, as well as have emotional benefits for many individuals.

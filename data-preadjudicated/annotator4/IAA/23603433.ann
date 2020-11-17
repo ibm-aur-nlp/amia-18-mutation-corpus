@@ -1,0 +1,32 @@
+T1	locus 19 24	FRA8I
+T2	Gene_protein 83 91	KIAA0146
+T3	Gene_protein 93 98	CEBPD
+T4	Gene_protein 103 108	PRKDC
+T5	DNA_Mutation 167 178	aberrations
+T7	DNA_Mutation 260 266	losses
+T6	locus 270 287	chromosome arm 8p
+R1	Has_Mutation Arg1:T6 Arg2:T7	
+T8	DNA_Mutation 292 297	gains
+T9	locus 301 318	chromosome arm 8q
+R2	Has_Mutation Arg1:T9 Arg2:T8	
+T10	DNA_Mutation 345 371	chromosomal rearrangements
+T11	locus 416 428	chromosome 8
+T12	locus 770 775	FRA8I
+T13	locus 796 803	8q11.21
+*	Alias T13 T12
+T14	locus 862 867	FRA8I
+T15	Gene_protein 880 888	KIAA0146
+T16	Gene_protein 956 961	CEBPD
+T17	Gene_protein 974 979	PRKDC
+T18	locus 1073 1078	FRA8I
+T19	DNA_Mutation 1177 1199	copy number alteration
+T20	locus 1216 1221	FRA8I
+R3	Has_Mutation Arg1:T20 Arg2:T19	
+T21	Gene_protein 1450 1458	KIAA0146
+T22	Gene_protein 1475 1478	cFS
+T23	Gene_protein 1574 1582	KIAA0146
+T24	DNA_Mutation 1662 1669	t(8;14)
+T25	locus 1669 1678	(q11;q32)
+R4	Has_Mutation Arg1:T25 Arg2:T24	
+T26	DNA_Mutation 1679 1693	translocations
+T27	Gene_protein 1892 1900	KIAA0146

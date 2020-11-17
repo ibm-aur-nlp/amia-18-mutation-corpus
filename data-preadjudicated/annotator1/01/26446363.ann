@@ -1,0 +1,32 @@
+T2	Gene_protein 39 43	MSH6
+T3	Gene_protein 48 52	MSH2
+T5	DNA_Mutation 191 200	mutations
+T9	Gene_protein 536 540	MSH6
+T10	DNA_Mutation 541 550	c.1030C>T
+T11	DNA_Mutation 552 565	p.(Gln344Ter)
+T12	Gene_protein 570 574	MSH2
+T13	DNA_Mutation 575 584	c.2785C>T
+T14	DNA_Mutation 586 599	p.(Arg929Ter)
+*	Alias T10 T9 T11
+*	Alias T13 T12 T14
+T15	Gene_protein 651 655	MSH2
+T16	DNA_Mutation 656 664	mutation
+T17	Gene_protein 711 715	MSH6
+T18	Gene_protein 849 853	MSH2
+T19	DNA_Mutation 854 862	mutation
+*	Alias T19 T18
+T20	Gene_protein 1047 1051	MSH2
+T21	Gene_protein 1072 1076	MSH6
+T1	DNA_Mutation 17 35	nonsense mutations
+R2	Has_Mutation Arg1:T3 Arg2:T1	
+T4	DNA_Mutation 104 124	truncating mutations
+T6	DNA_Mutation 329 338	mutations
+T7	DNA_Mutation 394 418	non-deleterious variants
+T8	Mutation 509 527	nonsense mutations
+T22	DNA_Mutation 716 735	truncating mutation
+*	Alias T22 T17
+T23	DNA_Mutation 1219 1228	mutations
+T24	DNA_Mutation 1423 1441	nonsense mutations
+T25	DNA_Mutation 1279 1299	truncating mutations
+R1	Has_Mutation Arg1:T2 Arg2:T1	
+T26	DNA_Mutation 1139 1147	variants

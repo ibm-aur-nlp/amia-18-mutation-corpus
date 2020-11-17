@@ -1,0 +1,7 @@
+T1	Gene_protein 545 548	CpG
+T2	DNA_modification 556 567	methylation
+R1	Has_Modification Arg1:T1 Arg2:T2	
+T3	Gene_protein 569 573	BRAF
+T4	DNA_Mutation 574 583	mutations
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+T5	DNA_Mutation 589 615	microsatellite instability

@@ -1,0 +1,17 @@
+Impact of Cellular Genetic Make-up on Colorectal Cancer Cell Lines Response to Ellagic Acid: Implications of Small Interfering RNA.
+
+
+## BACKGROUND
+K-Ras activation is an early event in colorectal carcinogenesis and associated mutations have been reported in about 40% of colorectal cancer patients. These mutations have always been responsible for enhancing malignancy and silencing them is associated with attenuation of tumorigenicity. Among downstream effectors are the RAF/MEK/ERK and the PI3K/Akt signaling pathways. PI3K/Akt signaling leads to reduction of apoptosis, stimulated cell growth and enhanced proliferation. Ellagic acid (EA), a naturally occurring antioxidant, has recently emerged as a promising anti-cancer agent.
+
+## PURPOSE
+To evaluate the impact of cellular genetic make- up of two colon cancer cell lines with different genetic backgrounds, HCT-116 (K-Ras-/p53+) and Caco-2 (K-Ras+/ p53-), on response to potential anti-tumour effects of EA. In addition, the influence of K-Ras silencing in HCT- 116 cells was investigated.
+
+## MATERIALS AND METHODS
+Cellular proliferation, morphology and cell cycle analysis were carried out in addition to Western blotting for detecting total Akt and p-Akt (at Thr308 and Ser473) in the presence and absence of different concentrations of EA. Cell proliferation was also assessed in cells transfected with different concentrations of K-Ras siRNA or incubated with ellagic acid following transfection.
+
+## RESULTS
+The results of the present study revealed that EA exerts anti-proliferative and dose-dependent pro-apoptotic effects. Cytostatic and cytotoxic effects were also observed. p-Akt (at Thr308 and Ser473) was downregulated. Moreover, EA treatment was found to (i) reduce K-Ras protein expression; (ii) in cells transfected with siRNA and co-treated with EA, pronounced anti-proliferative effects as well as depletion of p-Akt (at Thr308) were detected.
+
+## CONCLUSIONS
+Cellular genetic makeup (K-Ras-/p53-) was not likely to impose limitations on targeting EA in treatment of colon cancer. EA had a multi-disciplinary pro-apoptotic anti-proliferative approach, having inhibited Akt phosphorylation, induced cell cycle arrest and showed an anti-proliferative potential in HCT-116 cells (expressing mutant K-Ras).

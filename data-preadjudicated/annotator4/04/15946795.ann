@@ -1,0 +1,14 @@
+T1	Gene_protein 0 3	GPX
+T2	Protein_Mutation 4 13	Pro198Leu
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 18 22	OGG1
+T4	Protein_Mutation 23 32	Ser326Cys
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+T5	Gene_protein 291 294	GPX
+T6	Gene_protein 299 303	OGG1
+T7	Gene_protein 525 528	GPX
+T8	Protein_Mutation 529 538	Pro198Leu
+R3	Has_Mutation Arg1:T7 Arg2:T8	
+T9	Gene_protein 617 621	OGG1
+T10	Protein_Mutation 622 631	Ser326Cys
+R4	Has_Mutation Arg1:T9 Arg2:T10	

@@ -1,0 +1,3 @@
+[Assessment of the risk of recurrence isolated cases of dominantly inherited diseases with incomplete penetrance and age-related dependence].
+
+A modification of the method for risk estimation in isolated cases of autosomal dominant disorders with reduced penetrance is presented. It is based on the Bayesian theorem and considers such parameters as fitness, age-specific expressivity of the gene and the effect of parental age on mutation rate. The definite expression of the risk estimation is proposed. Using hereditary polyposis as an example, possible risks are proposed. The table of risks, depending on the parental age, is given.

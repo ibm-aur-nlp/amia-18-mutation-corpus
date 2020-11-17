@@ -1,0 +1,36 @@
+T1	locus 0 10	CpG island
+T2	DNA_modification 11 22	methylation
+T3	locus 177 187	CpG island
+T4	DNA_modification 188 199	methylation
+T5	DNA_modification 275 286	methylation
+T6	DNA_modification 393 404	methylation
+T7	Gene_protein 446 451	MINT1
+T8	DNA_modification 453 463	methylated
+T9	Gene_protein 419 422	p16
+R1	Has_Modification Arg1:T7 Arg2:T8	
+T10	Gene_protein 477 482	MINT2
+T11	Gene_protein 484 490	MINT31
+T12	Gene_protein 492 532	O(6)-methylguanine-DNA methyltransferase
+T13	Gene_protein 543 548	hMLH1
+T14	DNA_modification 583 594	methylation
+T15	Gene_protein 618 623	K-ras
+T16	DNA_Mutation 639 647	mutation
+R2	Has_Mutation Arg1:T15 Arg2:T16	
+T17	locus 675 688	chromosome 1p
+T18	DNA_Mutation 649 671	loss of heterozygosity
+R3	Has_Mutation Arg1:T17 Arg2:T18	
+T19	DNA_Mutation 694 720	microsatellite instability
+T20	DNA_modification 722 733	Methylation
+T21	Gene_protein 981 987	MINT31
+T22	DNA_modification 1008 1018	methylated
+R4	Has_Modification Arg1:T21 Arg2:T22	
+T23	DNA_modification 1135 1146	methylation
+T24	Gene_protein 1152 1157	K-ras
+T25	DNA_Mutation 1158 1166	mutation
+R5	Has_Mutation Arg1:T24 Arg2:T25	
+T26	locus 1196 1209	chromosome 1p
+T27	DNA_Mutation 1188 1192	loss
+R6	Has_Mutation Arg1:T26 Arg2:T27	
+T28	DNA_modification 1240 1251	methylation
+T29	DNA_modification 1350 1361	methylation
+T30	DNA_modification 1535 1553	epigenetic changes

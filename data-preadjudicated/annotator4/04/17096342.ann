@@ -1,0 +1,36 @@
+T1	Gene_protein 0 4	MDM2
+T2	DNA_Mutation 5 15	SNP309 T>G
+R1	Has_Mutation Arg1:T1 Arg2:T2	
+T3	Gene_protein 49 53	TP53
+T4	Protein_Mutation 54 58	R72P
+R2	Has_Mutation Arg1:T3 Arg2:T4	
+T5	Gene_protein 550 554	MDM2
+T6	Gene_protein 559 563	TP53
+T7	Gene_protein 642 646	TP53
+T8	Gene_protein 674 678	MDM2
+T9	Gene_protein 831 835	MDM2
+T10	DNA_Mutation 836 846	SNP309 T>G
+R3	Has_Mutation Arg1:T9 Arg2:T10	
+T11	Gene_protein 1004 1008	MDM2
+T12	DNA_Mutation 1009 1019	SNP309 T>G
+R4	Has_Mutation Arg1:T11 Arg2:T12	
+T13	Gene_protein 1024 1028	TP53
+T14	Protein_Mutation 1033 1037	R72P
+R5	Has_Mutation Arg1:T13 Arg2:T14	
+T15	Gene_protein 1113 1116	MMR
+T16	Gene_protein 1192 1195	MMR
+T17	Gene_protein 1336 1340	MDM2
+T18	DNA_Mutation 1341 1347	SNP309
+R6	Has_Mutation Arg1:T17 Arg2:T18	
+T19	Gene_protein 1378 1382	TP53
+T20	Protein_Mutation 1383 1387	R72P
+R7	Has_Mutation Arg1:T19 Arg2:T20	
+T21	Gene_protein 1509 1513	MDM2
+T22	DNA_Mutation 1514 1520	SNP309
+R8	Has_Mutation Arg1:T21 Arg2:T22	
+T23	Gene_protein 1649 1653	MDM2
+T24	DNA_Mutation 1654 1660	SNP309
+R9	Has_Mutation Arg1:T23 Arg2:T24	
+T25	Gene_protein 1664 1668	TP53
+T26	Protein_Mutation 1669 1673	R72P
+R10	Has_Mutation Arg1:T25 Arg2:T26	

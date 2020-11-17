@@ -1,0 +1,18 @@
+T1	DNA_Mutation 0 26	Microsatellite instability
+T2	DNA_Mutation 376 384	Mutation
+T3	locus 414 429	tetranucleotide
+T4	locus 434 455	trinucleotide repeats
+T5	DNA_Mutation 486 497	alterations
+T6	locus 501 521	dinucleotide repeats
+R1	Has_Mutation Arg1:T3 Arg2:T2	
+R2	Has_Mutation Arg1:T4 Arg2:T2	
+R3	Has_Mutation Arg1:T6 Arg2:T5	
+T7	DNA_Mutation 647 658	alterations
+T8	locus 662 682	dinucleotide repeats
+R4	Has_Mutation Arg1:T8 Arg2:T7	
+T9	locus 217 229	dinucleotide
+T10	DNA_Mutation 148 159	instability
+T11	locus 178 192	microsatellite
+T12	locus 231 244	trinucleotide
+T13	locus 249 264	tetranucleotide
+T14	DNA_Mutation 539 550	instability

@@ -1,0 +1,33 @@
+T1	Gene_protein 64 84	human mutL homolog 1
+T2	Gene_protein 86 91	MLH-1
+*	Alias T2 T1
+T3	Gene_protein 97 117	human mutS homolog 2
+T4	Gene_protein 119 124	MSH-2
+*	Alias T4 T3
+T5	DNA_Mutation 52 60	Mutation
+R1	Has_Mutation Arg1:T1 Arg2:T5	
+R2	Has_Mutation Arg1:T3 Arg2:T5	
+T6	Gene_protein 264 273	Mutations
+T7	Gene_protein 394 399	MLH-1
+T8	Gene_protein 404 409	MSH-2
+T9	Gene_protein 802 807	MLH-1
+T10	Gene_protein 812 817	MSH-2
+T11	Mutation 1010 1017	Loss of
+T12	Gene_protein 1018 1023	MLH-1
+T13	Gene_protein 1027 1032	MSH-2
+R3	Has_Mutation Arg1:T12 Arg2:T11	
+R4	Has_Mutation Arg1:T13 Arg2:T11	
+T14	Gene_protein 1176 1181	MLH-1
+T15	Gene_protein 1186 1191	MSH-2
+T16	Mutation 1347 1354	Loss of
+T17	Mutation 1419 1426	Loss of
+T18	Gene_protein 1355 1360	MLH-1
+T19	Gene_protein 1368 1373	MSH-2
+R5	Has_Mutation Arg1:T18 Arg2:T16	
+R6	Has_Mutation Arg1:T19 Arg2:T16	
+T20	Gene_protein 1427 1432	MLH-1
+R7	Has_Mutation Arg1:T20 Arg2:T17	
+T21	Mutation 1506 1513	loss of
+T22	Gene_protein 1514 1519	MSH-2
+R8	Has_Mutation Arg1:T22 Arg2:T21	
+T23	Mutation 1592 1599	loss of
